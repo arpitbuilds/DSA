@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/arpitbuilds/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/arpitbuilds/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/arpitbuilds/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/arpitbuilds/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/arpitbuilds/DSA/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/arpitbuilds/DSA/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/arpitbuilds/DSA/tree/master/0908-middle-of-the-linked-list) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/arpitbuilds/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/arpitbuilds/DSA/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/arpitbuilds/DSA/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/arpitbuilds/DSA/tree/master/0908-middle-of-the-linked-list) |
