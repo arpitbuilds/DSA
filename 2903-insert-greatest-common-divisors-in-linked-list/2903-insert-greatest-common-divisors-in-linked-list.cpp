@@ -34,20 +34,19 @@ public:
     ListNode* insertGreatestCommonDivisors(ListNode* head) {
     if(head==NULL || head->next==NULL){
         return head;
-    }     
-    ListNode *node1=head;
-    ListNode *node2=head->next;
-    while(node2){
-        int gcdv=gcd(node1->val,node2->val);
-        ListNode *gcdnode=new ListNode(gcdv);
-    
-    node1->next=gcdnode;
-    gcdnode->next=node2;
-
-    node1=node2;
-    node2=node2->next;
     }
-  return head;
+    ListNode *a=head;
+    ListNode*b=head->next;
+    while(b){
+     int gcdv=gcd(a->val,b->val);
+     ListNode *gcdnode=new ListNode(gcdv);
 
+     a->next=gcdnode;
+     gcdnode->next=b;
+
+     a=b;
+     b=b->next;
+    }
+  return  head;
     }
 };
