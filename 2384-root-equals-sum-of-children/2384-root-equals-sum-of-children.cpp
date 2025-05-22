@@ -15,9 +15,10 @@ public:
            if(root==NULL ||(root->left==NULL && root->right==NULL)){
         return true;
        }
-       int left=root->left->val;
-       int right=root->right->val;
-       int sum=left+right;
+      
+        int leftVal = root->left ? root->left->val : 0;
+        int rightVal = root->right ? root->right->val : 0;
+       int sum=leftVal+rightVal;
        return (sum==root->val)&&checkTree(root->left)&&checkTree(root->right);
     }
 };
