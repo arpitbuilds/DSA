@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/arpitbuilds/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/arpitbuilds/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/arpitbuilds/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/arpitbuilds/DSA/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Search Tree
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/arpitbuilds/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/arpitbuilds/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/arpitbuilds/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/arpitbuilds/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/arpitbuilds/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/arpitbuilds/DSA/tree/master/0792-binary-search) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/arpitbuilds/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/arpitbuilds/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/arpitbuilds/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/arpitbuilds/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/arpitbuilds/DSA/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
