@@ -17,26 +17,25 @@ public:
         }
         TreeNode *cur=root;
         while(true){
-             if(cur->val<=val){   //o(logn)
-            if(cur->right==NULL){
-                cur->right=new TreeNode(val);
-                break;
+            if(cur->val<=val){
+                if(cur->right==NULL){
+                    cur->right=new TreeNode(val);
+                     break;
+                }
+                else{
+                    cur=cur->right;
+                }
             }
             else{
-                cur=cur->right;
+                if(cur->left==NULL){
+                    cur->left=new TreeNode(val);
+                    break;
+                }
+                else{
+                    cur=cur->left;
+                }
             }
         }
-        else{
-            if(cur->left==NULL){
-                cur->left=new TreeNode(val);
-                break;
-            }
-            else{
-                cur=cur->left;
-
-            }
-        }
-        }
-        return root;
+  return root;      
     }
 };
