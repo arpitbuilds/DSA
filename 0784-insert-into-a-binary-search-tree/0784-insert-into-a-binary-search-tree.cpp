@@ -15,15 +15,16 @@ public:
         if(root==NULL){
             return new TreeNode(val);
         }
-        TreeNode *cur=root;
+        TreeNode*cur=root;
         while(true){
             if(cur->val<=val){
                 if(cur->right==NULL){
                     cur->right=new TreeNode(val);
-                     break;
+                    break;
                 }
                 else{
                     cur=cur->right;
+
                 }
             }
             else{
@@ -36,6 +37,6 @@ public:
                 }
             }
         }
-  return root;      
+        return root;
     }
 };
