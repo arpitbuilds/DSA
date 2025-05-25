@@ -14,16 +14,19 @@ public:
         if(root==NULL){
             return NULL;
         }
-        int cur=root->val;
-        if(cur<p->val && cur<q->val){
-            return lowestCommonAncestor(root->right,p,q);
+       
+        while(root){
+             int cur=root->val;
+            if(cur>p->val && cur>q->val){
+                root=root->left;
+            }
+           else if(cur<p->val && cur<q->val){
+                root=root->right;
+            }
+            else{
+                return root;
+            }
         }
-        if(cur>p->val && cur>q->val){
-             return lowestCommonAncestor(root->left,p,q);
-
-        }
-        return root;
+        return NULL;
     }
 };
-
-//both o(h) h is height it cam be logn or o(n) for skewed
