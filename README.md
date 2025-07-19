@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/arpitbuilds/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/arpitbuilds/DSA/tree/master/0792-binary-search) |
 | [0875-longest-mountain-in-array](https://github.com/arpitbuilds/DSA/tree/master/0875-longest-mountain-in-array) |
+| [1036-rotting-oranges](https://github.com/arpitbuilds/DSA/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/arpitbuilds/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/arpitbuilds/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/arpitbuilds/DSA/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/arpitbuilds/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/arpitbuilds/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/arpitbuilds/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1036-rotting-oranges](https://github.com/arpitbuilds/DSA/tree/master/1036-rotting-oranges) |
 ## Memoization
 |  |
 | ------- |
@@ -306,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/arpitbuilds/DSA/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/arpitbuilds/DSA/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
