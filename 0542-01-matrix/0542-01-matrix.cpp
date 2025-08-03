@@ -14,7 +14,7 @@ public:
                     q.push({{i, j}, 0});
                 }
             }
-        }
+        }    //tc-mxnx4 //sc-mxn
 
         int delr[] = {-1, 0, 1, 0};
         int delc[] = {0, 1, 0, -1};
