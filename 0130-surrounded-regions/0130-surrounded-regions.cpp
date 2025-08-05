@@ -30,7 +30,7 @@ public:
 
     void solve(vector<vector<char>>& board) {
         int m = board.size();
-        if (m == 0) return;
+        // if (m == 0) return;
         int n = board[0].size();
 
         vector<vector<bool>> safe(m, vector<bool>(n, false));
