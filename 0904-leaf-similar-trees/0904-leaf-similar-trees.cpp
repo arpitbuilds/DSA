@@ -15,11 +15,11 @@ public:
         if(root==NULL){
             return ;
         }
-        if(root->left==NULL && root->right==NULL){
-            ans.push_back(root->val);
-        }
         solve(root->left,ans);
         solve(root->right,ans);
+         if(root->left==NULL && root->right==NULL){
+            ans.push_back(root->val);
+        }
     }
     bool leafSimilar(TreeNode* root1, TreeNode* root2) {
        vector<int>ans1;
