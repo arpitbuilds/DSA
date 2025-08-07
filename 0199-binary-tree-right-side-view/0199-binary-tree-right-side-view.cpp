@@ -19,25 +19,21 @@ public:
             return ans;
         }
         while(!q.empty()){
-            int size=q.size();
-            for(int i=0;i<size;i++){
-            TreeNode *node=q.front();
+            int s=q.size();
+            for(int i=0;i<s;i++){
+             TreeNode*node=q.front();
             q.pop();
-            if(i==size-1){
-                ans.push_back(node->val);
+                if(i==(s-1)){
+                    ans.push_back(node->val);
+                }
+                if(node->left){
+                    q.push(node->left);
+                }
+                if(node->right){
+                    q.push(node->right);
+                }
             }
-            if(node->left){
-                q.push(node->left);
-            }
-            if(node->right){
-                q.push(node->right);
-            }
-
-            }
-           
-            
         }
         return ans;
-
     }
 };
