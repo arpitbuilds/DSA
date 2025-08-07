@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/arpitbuilds/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/arpitbuilds/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/arpitbuilds/DSA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/arpitbuilds/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/arpitbuilds/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/arpitbuilds/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/arpitbuilds/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/arpitbuilds/DSA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/arpitbuilds/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/arpitbuilds/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/arpitbuilds/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/arpitbuilds/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/arpitbuilds/DSA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/arpitbuilds/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/arpitbuilds/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/arpitbuilds/DSA/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/arpitbuilds/DSA/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/arpitbuilds/DSA/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/arpitbuilds/DSA/tree/master/0257-binary-tree-paths) |
 | [3194-find-words-containing-character](https://github.com/arpitbuilds/DSA/tree/master/3194-find-words-containing-character) |
 ## Two Pointers
 |  |
@@ -314,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/arpitbuilds/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/arpitbuilds/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/arpitbuilds/DSA/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/arpitbuilds/DSA/tree/master/0257-binary-tree-paths) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
