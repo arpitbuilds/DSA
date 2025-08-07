@@ -16,6 +16,8 @@ public:
             return NULL;
         }
         int rootv=preorder[ind];
+
+           TreeNode *root=new TreeNode(rootv);
         int i=start;
         for(;i<=end;i++){
             if(inorder[i]==rootv){
@@ -23,7 +25,7 @@ public:
             }
         }
             ind++;
-            TreeNode *root=new TreeNode(rootv);
+         
             root->left=solve(start,i-1,preorder,inorder,ind);
             root->right=solve(i+1,end,preorder,inorder,ind);
             return root;
