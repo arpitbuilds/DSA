@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/arpitbuilds/DSA/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/arpitbuilds/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/arpitbuilds/DSA/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/arpitbuilds/DSA/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/arpitbuilds/DSA/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/arpitbuilds/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/arpitbuilds/DSA/tree/master/0090-subsets-ii) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/arpitbuilds/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/arpitbuilds/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/arpitbuilds/DSA/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/arpitbuilds/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/arpitbuilds/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/arpitbuilds/DSA/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/arpitbuilds/DSA/tree/master/0257-binary-tree-paths) |
