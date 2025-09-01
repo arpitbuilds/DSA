@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/arpitbuilds/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arpitbuilds/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/arpitbuilds/DSA/tree/master/0130-surrounded-regions) |
+| [0198-house-robber](https://github.com/arpitbuilds/DSA/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/arpitbuilds/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0542-01-matrix](https://github.com/arpitbuilds/DSA/tree/master/0542-01-matrix) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/arpitbuilds/DSA/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/arpitbuilds/DSA/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/arpitbuilds/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/arpitbuilds/DSA/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/arpitbuilds/DSA/tree/master/0542-01-matrix) |
 | [0875-longest-mountain-in-array](https://github.com/arpitbuilds/DSA/tree/master/0875-longest-mountain-in-array) |
 ## Enumeration
