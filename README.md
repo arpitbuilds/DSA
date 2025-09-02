@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/arpitbuilds/DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/arpitbuilds/DSA/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/arpitbuilds/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/arpitbuilds/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/arpitbuilds/DSA/tree/master/0202-happy-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/arpitbuilds/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/arpitbuilds/DSA/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/arpitbuilds/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/arpitbuilds/DSA/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/arpitbuilds/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/arpitbuilds/DSA/tree/master/0198-house-robber) |
@@ -375,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/arpitbuilds/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/arpitbuilds/DSA/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/arpitbuilds/DSA/tree/master/1036-rotting-oranges) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/arpitbuilds/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
