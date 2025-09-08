@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/arpitbuilds/DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/arpitbuilds/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/arpitbuilds/DSA/tree/master/0202-happy-number) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/arpitbuilds/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2481-strictly-palindromic-number](https://github.com/arpitbuilds/DSA/tree/master/2481-strictly-palindromic-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/arpitbuilds/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
