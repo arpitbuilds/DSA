@@ -5,7 +5,7 @@ public:
         int r=1;
         int n=nums.size();
         int maxi=0;
-        while(r<=n){
+        while(r<n){
             if(nums[l]<nums[r]){
                 maxi=max(maxi,nums[r]-nums[l]);
             }
