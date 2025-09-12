@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/arpitbuilds/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/arpitbuilds/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/arpitbuilds/DSA/tree/master/0047-permutations-ii) |
+| [0054-spiral-matrix](https://github.com/arpitbuilds/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/arpitbuilds/DSA/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/arpitbuilds/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/arpitbuilds/DSA/tree/master/0064-minimum-path-sum) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/arpitbuilds/DSA/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/arpitbuilds/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/arpitbuilds/DSA/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/arpitbuilds/DSA/tree/master/0130-surrounded-regions) |
@@ -426,5 +428,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/arpitbuilds/DSA/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arpitbuilds/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
