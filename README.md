@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/arpitbuilds/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/arpitbuilds/DSA/tree/master/0904-leaf-similar-trees) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/arpitbuilds/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/arpitbuilds/DSA/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/arpitbuilds/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/arpitbuilds/DSA/tree/master/0904-leaf-similar-trees) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/arpitbuilds/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/arpitbuilds/DSA/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/arpitbuilds/DSA/tree/master/0733-flood-fill) |
 | [0904-leaf-similar-trees](https://github.com/arpitbuilds/DSA/tree/master/0904-leaf-similar-trees) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/arpitbuilds/DSA/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/arpitbuilds/DSA/tree/master/1036-rotting-oranges) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Memoization
 |  |
 | ------- |
