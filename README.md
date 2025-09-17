@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/arpitbuilds/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/arpitbuilds/DSA/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/arpitbuilds/DSA/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/arpitbuilds/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/arpitbuilds/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arpitbuilds/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/arpitbuilds/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/arpitbuilds/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/arpitbuilds/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/arpitbuilds/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/arpitbuilds/DSA/tree/master/2486-most-frequent-even-element) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/arpitbuilds/DSA/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/arpitbuilds/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1714-rearrange-spaces-between-words](https://github.com/arpitbuilds/DSA/tree/master/1714-rearrange-spaces-between-words) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/arpitbuilds/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3194-find-words-containing-character](https://github.com/arpitbuilds/DSA/tree/master/3194-find-words-containing-character) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/arpitbuilds/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/arpitbuilds/DSA/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/arpitbuilds/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0800-letter-case-permutation](https://github.com/arpitbuilds/DSA/tree/master/0800-letter-case-permutation) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/arpitbuilds/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arpitbuilds/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/arpitbuilds/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Backtracking
@@ -467,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/arpitbuilds/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/arpitbuilds/DSA/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/arpitbuilds/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/arpitbuilds/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/arpitbuilds/DSA/tree/master/2486-most-frequent-even-element) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/arpitbuilds/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
