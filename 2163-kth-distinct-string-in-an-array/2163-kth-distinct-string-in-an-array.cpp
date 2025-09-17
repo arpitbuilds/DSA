@@ -9,11 +9,11 @@ public:
         string ans="";
         for(auto x : arr){
             if(mpp[x]==1){
-                ans=x;
+                // ans=x;
                 cnt++;
             }
             if(cnt==k){
-                return ans;
+                return x;
             }
         }
         return "";
