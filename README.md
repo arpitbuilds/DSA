@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/arpitbuilds/DSA/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/arpitbuilds/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0800-letter-case-permutation](https://github.com/arpitbuilds/DSA/tree/master/0800-letter-case-permutation) |
+| [1250-longest-common-subsequence](https://github.com/arpitbuilds/DSA/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/arpitbuilds/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1714-rearrange-spaces-between-words](https://github.com/arpitbuilds/DSA/tree/master/1714-rearrange-spaces-between-words) |
 | [3194-find-words-containing-character](https://github.com/arpitbuilds/DSA/tree/master/3194-find-words-containing-character) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/arpitbuilds/DSA/tree/master/0542-01-matrix) |
 | [0875-longest-mountain-in-array](https://github.com/arpitbuilds/DSA/tree/master/0875-longest-mountain-in-array) |
 | [0967-minimum-falling-path-sum](https://github.com/arpitbuilds/DSA/tree/master/0967-minimum-falling-path-sum) |
+| [1250-longest-common-subsequence](https://github.com/arpitbuilds/DSA/tree/master/1250-longest-common-subsequence) |
 ## Enumeration
 |  |
 | ------- |
