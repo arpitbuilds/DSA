@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/arpitbuilds/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/arpitbuilds/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/arpitbuilds/DSA/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arpitbuilds/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/arpitbuilds/DSA/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/arpitbuilds/DSA/tree/master/0792-binary-search) |
 | [0875-longest-mountain-in-array](https://github.com/arpitbuilds/DSA/tree/master/0875-longest-mountain-in-array) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/arpitbuilds/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/arpitbuilds/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/arpitbuilds/DSA/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arpitbuilds/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0875-longest-mountain-in-array](https://github.com/arpitbuilds/DSA/tree/master/0875-longest-mountain-in-array) |
 | [0967-minimum-falling-path-sum](https://github.com/arpitbuilds/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/arpitbuilds/DSA/tree/master/1250-longest-common-subsequence) |
@@ -527,4 +529,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arpitbuilds/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arpitbuilds/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 <!---LeetCode Topics End-->
