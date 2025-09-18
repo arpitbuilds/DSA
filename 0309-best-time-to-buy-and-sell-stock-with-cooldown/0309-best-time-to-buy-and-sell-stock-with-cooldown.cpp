@@ -8,11 +8,12 @@ public:
             return dp[ind][buy];
         }
         if(buy){
-            return dp[ind][buy]=max(-prices[ind]+solve(ind+1,0,prices,dp),0+solve(ind+1,1,prices,dp));
+            dp[ind][buy]=max(-prices[ind]+solve(ind+1,0,prices,dp),0+solve(ind+1,1,prices,dp));
         }
-      
-            return dp[ind][buy]= max(prices[ind]+solve(ind+2,1,prices,dp),0+solve(ind+1,0,prices,dp));
-        
+      else{
+             dp[ind][buy]= max(prices[ind]+solve(ind+2,1,prices,dp),0+solve(ind+1,0,prices,dp));
+      }
+        return dp[ind][buy];
 
     }
     int maxProfit(vector<int>& prices) {
