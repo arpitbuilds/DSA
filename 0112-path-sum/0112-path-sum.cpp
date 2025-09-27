@@ -11,21 +11,28 @@
  */
 class Solution {
 public:
-    bool solve(TreeNode*root,int sum,int target){
-     if(root==NULL){
+    bool hasPathSum(TreeNode* root, int target) {
+             if(root==NULL){
+            return false;
+        }
+        queue<pair<TreeNode*, int>> q;
+        q.push({root, root->val});
+        while (!q.empty()) {
+            auto [node, sum] = q.front();
+            q.pop();
+            if (node->left == NULL && node->right == NULL) {
+              if (sum == target) {
+                    return true;  
+                }
+            }
+            if (node->left) {
+                q.push({node->left, sum + node->left->val});
+            }
+            if (node->right) {
+                q.push({node->right, sum + node->right->val});
+            }
+        }
         return false;
-     }
-     sum+=root->val;
-     if(root->left==NULL && root->right==NULL){
-        return (target==sum);
-     }
-     bool left=solve(root->left,sum,target);
-     bool right=solve(root->right,sum,target);
-     return left||right;
-    }
-    bool hasPathSum(TreeNode* root, int targetSum) {
-        int sum=0;
-        return solve(root,sum,targetSum);
         
     }
 };
