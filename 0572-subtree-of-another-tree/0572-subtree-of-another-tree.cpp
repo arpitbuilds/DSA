@@ -11,16 +11,17 @@
  */
 class Solution {
 public:
-    bool solve(TreeNode *s,TreeNode*t){
-        if(s==NULL || t==NULL){
-            return s==t;
+    bool solve(TreeNode*root1,TreeNode*root2){
+        if(root1==NULL || root2==NULL){
+            return root1==root2;
         }
-        return (s->val==t->val)&&solve(s->left,t->left)&&solve(s->right,t->right);
+        return (root1->val==root2->val) && solve(root1->left,root2->left) && solve(root1->right,root2->right);
     }
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
         if(root==NULL){
             return false;
         }
-        return solve(root,subRoot) || isSubtree(root->left,subRoot) || isSubtree(root->right,subRoot);
+        return solve(root,subRoot) || isSubtree(root->left,subRoot)|| isSubtree(root->right,subRoot);
+        
     }
 };
