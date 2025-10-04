@@ -11,10 +11,10 @@ public:
         int rsum=0;
         for(int i=k-1;i>=0;i--){
             lsum-=cardPoints[i];
-            rsum+=cardPoints[r];
+            lsum+=cardPoints[r];
             r--;
-            maxi=max(maxi,lsum+rsum);
+            maxi=max(maxi,lsum);
         }
-        return lsum;
+        return maxi;
     }
 };
