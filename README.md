@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/arpitbuilds/DSA/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/arpitbuilds/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/arpitbuilds/DSA/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/arpitbuilds/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/arpitbuilds/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/arpitbuilds/DSA/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/arpitbuilds/DSA/tree/master/0054-spiral-matrix) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/arpitbuilds/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arpitbuilds/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/arpitbuilds/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/arpitbuilds/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/arpitbuilds/DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/arpitbuilds/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/arpitbuilds/DSA/tree/master/0086-partition-list) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/arpitbuilds/DSA/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/arpitbuilds/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/arpitbuilds/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/arpitbuilds/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/arpitbuilds/DSA/tree/master/0042-trapping-rain-water) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/arpitbuilds/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2573-remove-nodes-from-linked-list](https://github.com/arpitbuilds/DSA/tree/master/2573-remove-nodes-from-linked-list) |
 ## Number Theory
@@ -414,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/arpitbuilds/DSA/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/arpitbuilds/DSA/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/arpitbuilds/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/arpitbuilds/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/arpitbuilds/DSA/tree/master/0064-minimum-path-sum) |
