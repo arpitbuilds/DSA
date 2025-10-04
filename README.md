@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arpitbuilds/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2486-most-frequent-even-element](https://github.com/arpitbuilds/DSA/tree/master/2486-most-frequent-even-element) |
+| [2836-neither-minimum-nor-maximum](https://github.com/arpitbuilds/DSA/tree/master/2836-neither-minimum-nor-maximum) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3194-find-words-containing-character](https://github.com/arpitbuilds/DSA/tree/master/3194-find-words-containing-character) |
 | [3429-special-array-i](https://github.com/arpitbuilds/DSA/tree/master/3429-special-array-i) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/arpitbuilds/DSA/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/arpitbuilds/DSA/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/arpitbuilds/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [2836-neither-minimum-nor-maximum](https://github.com/arpitbuilds/DSA/tree/master/2836-neither-minimum-nor-maximum) |
 ## Bit Manipulation
 |  |
 | ------- |
