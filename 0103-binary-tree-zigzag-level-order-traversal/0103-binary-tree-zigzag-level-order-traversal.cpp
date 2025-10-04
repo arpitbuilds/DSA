@@ -16,33 +16,34 @@ public:
         if(root==NULL){
             return ans;
         }
-      queue<TreeNode*>q;
-      q.push(root);
-      bool flag=1;
-      while(!q.empty()){
-        int s=q.size();
-        vector<int>v(s);
-        for(int i=0;i<s;i++){
-            TreeNode *n=q.front();
+        queue<TreeNode*>q;
+        q.push(root);
+        bool flag=1;
+        while(!q.empty()){
+            int s=q.size();
+            vector<int>v(s);
+            for(int i=0;i<s;i++){
+            TreeNode*node=q.front();
             q.pop();
-            int index;
+            if(node->left){
+                q.push(node->left);
+            }
+            if(node->right){
+                q.push(node->right);
+            }
+            int ind=-1;
             if(flag==1){
-                index=i;
+                ind=i;
             }
             else{
-                index=s-i-1;
+                ind=s-i-1;
             }
-            if(n->left){
-                q.push(n->left);
+            v[ind]=node->val;
+
             }
-            if(n->right){
-                q.push(n->right);
-            }
-            v[index]=n->val;
+            flag=!flag;
+            ans.push_back(v);
         }
-        flag=!flag;
-        ans.push_back(v);
-      }
         return ans;
     }
 };
