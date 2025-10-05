@@ -21,12 +21,8 @@ public:
         return root->val+max(lh,rh);
     }
     int maxPathSum(TreeNode* root) {
-        int ans=INT_MIN;
-        if(root==NULL){
-            return ans;
-        }
-        solve(root,ans);
-        return ans;
-        
+        int d=INT_MIN;
+        solve(root,d);
+        return d;
     }
 };
