@@ -18,19 +18,18 @@ public:
 class Solution {
   public:
     bool helper(Node *&root){
-        
-         if(root==NULL){
+        if(root==NULL){
             return true;
         }
         if(root->left==NULL && root->right==NULL){
             return true;
         }
-        int lsum=root->left?root->left->data:0;
-        int rsum=root->right?root->right->data:0;
-        if(root->data!=lsum+rsum){
+        int ln=(root->left?root->left->data:0);
+        int rn=(root->right?root->right->data:0);
+        if(root->data!=ln+rn){
             return false;
-            }
-    return helper(root->left)&& helper(root->right);
+        }
+        return helper(root->left)&&helper(root->right);
         
     }
     int isSumProperty(Node *root) {
