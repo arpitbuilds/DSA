@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arpitbuilds/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/arpitbuilds/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/arpitbuilds/DSA/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/arpitbuilds/DSA/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/arpitbuilds/DSA/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/arpitbuilds/DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/arpitbuilds/DSA/tree/master/0383-ransom-note) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arpitbuilds/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/arpitbuilds/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/arpitbuilds/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/arpitbuilds/DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/arpitbuilds/DSA/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/arpitbuilds/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/arpitbuilds/DSA/tree/master/0198-house-robber) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/arpitbuilds/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/arpitbuilds/DSA/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/arpitbuilds/DSA/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/arpitbuilds/DSA/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/arpitbuilds/DSA/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/arpitbuilds/DSA/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/arpitbuilds/DSA/tree/master/0800-letter-case-permutation) |
