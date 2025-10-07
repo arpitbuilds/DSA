@@ -12,9 +12,10 @@ class Solution {
 
         if (root->data <= x) {
             ans = root->data; 
-        } else {
-            return; 
         }
+        // } else {
+        //     return; 
+        // }
 
        
         inorder(root->right, x);
