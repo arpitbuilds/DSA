@@ -1,21 +1,22 @@
 class Solution {
 public:
-    int solve(vector<int>&nums){
-        int prev=nums[0];
-        int prev2=0;
-        for(int i=1;i<nums.size();i++){
-            int take=nums[i];
-            if(i>1){
-                take+=prev2;
-            }
-            int ntake=prev;
-            int curi=max(take,ntake);
-            prev2=prev;
-            prev=curi;
+    int solve(int ind,vector<int>&nums,vector<int>&dp){
+        if(ind==0){
+            return nums[ind];
         }
-        return prev;
+        if(ind<0){
+            return 0;
+        }
+        if(dp[ind]!=-1){
+            return dp[ind];
+        }
+        int pick=solve(ind-2,nums,dp)+nums[ind];
+        int npick=0+solve(ind-1,nums,dp);
+        return dp[ind]=max(pick,npick);
     }
     int rob(vector<int>& nums) {
-        return solve(nums);
+        int n=nums.size();
+       vector<int>dp(n,-1); 
+       return solve(n-1,nums,dp);
     }
 };
