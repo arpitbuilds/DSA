@@ -1,6 +1,6 @@
 class Solution {
 public:
-    double solve(double x,long long n){
+    double solve(double x ,long long n){
         if(n==0){
             return 1;
         }
@@ -13,12 +13,11 @@ public:
         if(n%2==0){
             return solve(x*x,n/2);
         }
-        else{
+       else{
             return x*solve(x*x,(n-1)/2);
         }
-
     }
     double myPow(double x, int n) {
-      return solve(x,n);
+        return solve(x,n);
     }
 };
