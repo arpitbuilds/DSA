@@ -25,8 +25,10 @@ public:
             int left=nse[i];
             int right=pse[i];
             int width=left-right-1;
-            maxi=max(maxi,width*heights[i]);
+              maxi=max(maxi,width*heights[i]);
+           
         }
+       
         return maxi;
     }
 };
