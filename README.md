@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/arpitbuilds/DSA/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/arpitbuilds/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arpitbuilds/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/arpitbuilds/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/arpitbuilds/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arpitbuilds/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/arpitbuilds/DSA/tree/master/0072-edit-distance) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/arpitbuilds/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/arpitbuilds/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/arpitbuilds/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/arpitbuilds/DSA/tree/master/0085-maximal-rectangle) |
