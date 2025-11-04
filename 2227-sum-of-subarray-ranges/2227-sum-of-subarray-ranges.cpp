@@ -24,15 +24,15 @@ public:
         return pse;
     }
 
-    long long sumSubarrayMins(vector<int>& arr) {
+    int sumSubarrayMins(vector<int>& arr) {
         int n = arr.size();
         vector<int> pse = fpse(arr);
         vector<int> nse = fnse(arr);
-        long long total = 0;
+        int total = 0;
         for (int i = 0; i < n; i++) {
-            long long left = i - pse[i];
-            long long right = nse[i] - i;
-            total += (long long)left * right * arr[i];
+            int left = i - pse[i];
+            int right = nse[i] - i;
+            total += left * right * arr[i];
         }
         return total;
     }
@@ -61,20 +61,20 @@ public:
         return ans;
     }
 
-    long long sumSubarrayMax(vector<int>& arr) {
+    int sumSubarrayMax(vector<int>& arr) {
         int n = arr.size();
         vector<int> nge = findnge(arr);
         vector<int> pge = findpge(arr);
-        long long total = 0;
+        int total = 0;
         for (int i = 0; i < n; i++) {
-            long long left = i - pge[i];
-            long long right = nge[i] - i;
-            total += (long long)left * right * arr[i];
+            int left = i - pge[i];
+            int right = nge[i] - i;
+            total += left * right * arr[i];
         }
         return total;
     }
 
-    long long subArrayRanges(vector<int>& nums) {
+    int subArrayRanges(vector<int>& nums) {
         return sumSubarrayMax(nums) - sumSubarrayMins(nums);
     }
 };
