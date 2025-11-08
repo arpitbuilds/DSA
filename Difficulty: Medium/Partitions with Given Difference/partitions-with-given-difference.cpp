@@ -1,40 +1,40 @@
 class Solution {
   public:
-    int solve(int ind,int sum,vector<int>&arr, vector<vector<int>>&dp){
+    int solve(int ind,vector<int>&arr,  vector<vector<int>>&dp,int t){
         if(ind==0){
-            if(arr[0]==0 && sum==0){
+            if(arr[0]==0 && t==0 ){
                 return 2;
             }
-            else if(arr[0] ==sum || sum==0){
+            if(t==0 || t==arr[0]){
                 return 1;
             }
             return 0;
         }
-         if (dp[ind][sum] != -1) return dp[ind][sum];
-        int ntake=solve(ind-1,sum,arr,dp);
+        if(dp[ind][t]!=-1){
+            return dp[ind][t];
+        }
         int take=0;
-        if(arr[ind]<=sum){
-        take=solve(ind-1,sum-arr[ind],arr,dp);
+        if(t>=arr[ind]){
+        take=solve(ind-1,arr,dp,t-arr[ind]);
         }
-        return dp[ind][sum]=take+ntake;
+        int ntake=solve(ind-1,arr,dp,t);
+        return dp[ind][t]=take+ntake;
+        
     }
-    int find(vector<int>&arr,int target){
-         int n=arr.size();
-        vector<vector<int>>dp(n,vector<int>(target+1,-1));
-        return solve(n-1,target,arr,dp);
-    }
-    int countPartitions(vector<int>& arr, int d) {
-        // Code here
+    int find(vector<int>&arr,int t){
         int n=arr.size();
-        int tsum=0;
-        for(auto it:arr){
-            tsum+=it;
+        vector<vector<int>>dp(n,vector<int>(t+1,-1));
+        return solve(n-1,arr,dp,t);
+    }
+    int countPartitions(vector<int>& arr, int diff) {
+        // Code here
+        int t=0;
+        for(auto it : arr){
+            t+=it;
         }
-        if(tsum-d<0 || (tsum-d)%2!=0){
+        if((t-diff)<0 || ((t-diff)%2)!=0){
             return 0;
         }
-        return find(arr,(tsum-d)/2);
-        
-        
+        return find(arr,(t-diff)/2);
     }
 };
