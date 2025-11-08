@@ -1,21 +1,31 @@
 class Solution {
 public:
-    int minimumTotal(vector<vector<int>>& a) {
-        int n=a.size();
-        // vector<vector<int>>dp(n,vector<int>(n,0));
-        vector<int>front(n,0);
-        for(int j=0;j<n;j++){
-            front[j]=a[n-1][j];
+    int solve(int i, int j, vector<vector<int>>& dp, vector<vector<int>>& t,
+              int n) {
+        if (i == n - 1) {
+            return t[i][j];
         }
-        for(int i=n-2;i>=0;i--){
-          vector<int>cur(n,0);
-            for(int j=i;j>=0;j--){
-                int d=a[i][j]+front[j];
-                int dg=a[i][j]+front[j+1];
-                cur[j]=min(d,dg);
+        if (dp[i][j] != -1) {
+            return dp[i][j];
+        }
+        int down = solve(i + 1, j, dp, t, n);
+        int diag = solve(i + 1, j + 1, dp, t, n);
+        return dp[i][j] = t[i][j] + min(down, diag);
+    }
+    int minimumTotal(vector<vector<int>>& t) {
+        int n = t.size();
+        vector<vector<int>> dp(n, vector<int>(n, 0));
+        // return solve(0, 0, dp, triangle, n);
+        for (int j = 0; j < n; j++) {
+            dp[n - 1][j] = t[n-1][j];
+        }
+        for (int i = n - 2; i >= 0; i--) {
+            for (int j = i; j >= 0; j--) {
+                int down = dp[i + 1][j];
+                int diag = dp[i + 1][j + 1];
+                dp[i][j]=t[i][j]+min(down,diag);
             }
-            front=cur;
         }
-        return front[0];
+        return dp[0][0];
     }
 };
