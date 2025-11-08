@@ -1,25 +1,26 @@
 class Solution {
-  public:
+  public: 
+    bool solve(int ind,int target,vector<int>&arr, vector<vector<int>>&dp){
+       if(target==0){
+           return true;
+       }
+       if(ind==0){
+           return arr[ind]==target;
+       }
+       if(dp[ind][target]!=-1){
+           return dp[ind][target];
+       }
+       int ntake=solve(ind-1,target,arr,dp);
+       int take=false;
+       if(target>=arr[ind]){
+       take=solve(ind-1,target-arr[ind],arr,dp);
+       }
+       return dp[ind][target]=take|ntake;
+    }
     bool isSubsetSum(vector<int>& arr, int sum) {
         // code here
-        int n=arr.size();
-         vector<vector<bool>>dp(n,vector<bool>(sum+1,false));
-         for(int i=0;i<n;i++){
-             dp[i][0]=true;
-         }
-         if(arr[0]<=sum){
-         dp[0][arr[0]]=true;
-         }
-         for(int i=1;i<n;i++){
-             for(int j=1;j<=sum;j++){
-                 bool ntake=dp[i-1][j];
-                 bool take=false;
-                 if(j>=arr[i]){
-                     take=dp[i-1][j-arr[i]];
-                 }
-                 dp[i][j]=take|ntake;
-             }
-         }
-         return dp[n-1][sum];
+          int n=arr.size();
+          vector<vector<int>>dp(n,vector<int>(sum+1,-1));
+          return solve(n-1,sum,arr,dp);
     }
 };
