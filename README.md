@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/arpitbuilds/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/arpitbuilds/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/arpitbuilds/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/arpitbuilds/DSA/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/arpitbuilds/DSA/tree/master/0933-increasing-order-search-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/arpitbuilds/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/arpitbuilds/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/arpitbuilds/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/arpitbuilds/DSA/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/arpitbuilds/DSA/tree/master/0933-increasing-order-search-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/arpitbuilds/DSA/tree/master/0733-flood-fill) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/arpitbuilds/DSA/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/arpitbuilds/DSA/tree/master/0933-increasing-order-search-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/arpitbuilds/DSA/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/arpitbuilds/DSA/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/arpitbuilds/DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/arpitbuilds/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0966-binary-subarrays-with-sum](https://github.com/arpitbuilds/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/arpitbuilds/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/arpitbuilds/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -531,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/arpitbuilds/DSA/tree/master/0733-flood-fill) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/arpitbuilds/DSA/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/arpitbuilds/DSA/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
