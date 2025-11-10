@@ -1,21 +1,23 @@
 class Solution {
 public:
-    // int solve(int m,int n,string s,string t, vector<vector<int>>&dp){
-    //     if(m==0 || n==0){
+    // int solve(int x, int y, string t1, string t2, vector<vector<int>>& dp) {
+    //     if (x == 0 || y == 0) {
     //         return 0;
     //     }
-    //     if(dp[m][n]!=-1){
-    //         return dp[m][n];
+    //     if (dp[x][y] != -1) {
+    //         return dp[x][y];
     //     }
-    //     if(s[m-1]==t[n-1]){
-    //         return dp[m][n]=1+solve(m-1,n-1,s,t,dp);
+    //     if (t1[x - 1] == t2[y - 1]) {
+    //         return dp[x][y] = 1 + solve(x - 1, y - 1, t1, t2, dp);
     //     }
-    //     return dp[m][n]=max(solve(m-1,n,s,t,dp),solve(m,n-1,s,t,dp));
+    //     return dp[x][y] = 0 + max(solve(x - 1, y, t1, t2, dp),
+    //                               solve(x, y - 1, t1, t2, dp));
     // }
-    int longestCommonSubsequence(string s, string t) {
-        int m = s.size();
-        int n = t.size();
-        vector<vector<int>> dp(m + 1, vector<int>(n + 1, -1));
+    int longestCommonSubsequence(string t1, string t2) {
+        int m = t1.size();
+        int n = t2.size();
+        vector<vector<int>> dp(m + 1, vector<int>(n + 1, 0));
+        // return solve(m,n,t1,t2,dp);
         for (int i = 0; i <= m; i++) {
             dp[i][0] = 0;
         }
@@ -24,15 +26,14 @@ public:
         }
         for (int i = 1; i <= m; i++) {
             for (int j = 1; j <= n; j++) {
-                if (s[i - 1] == t[j - 1]) {
+                if (t1[i - 1] == t2[j - 1]) {
                     dp[i][j] = 1 + dp[i - 1][j - 1];
                 }
                 else{
-                dp[i][j] = max(dp[i - 1][j], dp[i][j - 1]);
+        dp[i][j]=0+max(dp[i-1][j],dp[i][j-1]);
                 }
             }
         }
-
         return dp[m][n];
     }
 };
