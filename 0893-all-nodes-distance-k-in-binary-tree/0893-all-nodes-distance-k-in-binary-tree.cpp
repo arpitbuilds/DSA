@@ -10,49 +10,50 @@
 class Solution {
 public:
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
-        vector<int>ans;
-        unordered_map<int,TreeNode*>parent;
-        queue<TreeNode*>q;
+        queue<TreeNode*> q;
         q.push(root);
-        while(!q.empty()){
-            int s=q.size();
-            for(int i=0;i<s;i++){
-                auto top=q.front();
+        unordered_map<int, TreeNode*> mpp;
+        while (!q.empty()) {
+            int s = q.size();
+
+            for (int i = 0; i < s; i++) {
+                TreeNode* node = q.front();
                 q.pop();
-                if(top->left){
-                    parent[top->left->val]=top;
-                    q.push(top->left);
+                if (node->left) {
+                    q.push(node->left);
+                    mpp[node->left->val] = node;
                 }
-                if(top->right){
-                    parent[top->right->val]=top;
-                    q.push(top->right);
+                if (node->right) {
+                    mpp[node->right->val] = node;
+                    q.push(node->right);
                 }
             }
         }
-        unordered_map<int,int>visited;
         q.push(target);
-        while(k-- && !q.empty()){
-            int s=q.size();
-            for(int i=0;i<s;i++){
-                auto top=q.front();
+        unordered_map<int, int> vis;
+        while (k-- && !q.empty()) {
+
+            int s = q.size();
+            for (int i = 0; i < s; i++) {
+                TreeNode* node = q.front();
                 q.pop();
-                visited[top->val]=1;
-                if(top->left && !visited[top->left->val]){
-                    q.push(top->left);
+                vis[node->val] = 1;
+                if (node->left && !vis[node->left->val]) {
+                    q.push(node->left);
                 }
-                if(top->right && !visited[top->right->val]){
-                    q.push(top->right);
+                if (node->right && !vis[node->right->val]) {
+                    q.push(node->right);
                 }
-                if(parent[top->val] && !visited[parent[top->val]->val]){
-                    q.push(parent[top->val]);
+                if (mpp[node->val] && !vis[mpp[node->val]->val]) {
+                    q.push(mpp[node->val]);
                 }
             }
         }
-           while(!q.empty()){
+        vector<int> ans;
+        while (!q.empty()) {
             ans.push_back(q.front()->val);
             q.pop();
         }
         return ans;
-    
     }
 };
