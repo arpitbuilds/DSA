@@ -1,6 +1,5 @@
 /* BST Node
-class Node
-{
+class Node {
    public:
     int data;
     Node *left;
@@ -11,34 +10,31 @@ class Node
         left = NULL;
         right = NULL;
     }
-}; */
+};
+*/
 
 class Solution {
   public:
-    Node* pre = NULL;
-    Node* suc = NULL;
-
-    void inorder(Node* root, int key) {
-        if (!root) return;
-
-        inorder(root->left, key);
-
-        // if node value < key → it could be predecessor
-        if (root->data < key)
-            pre = root;
-
-        // if node value > key → it could be successor
-        else if (root->data > key && !suc)
-            suc = root;
-
-        inorder(root->right, key);
+    
+    void solve(Node*root,int key,Node*&pre,Node*&suc){
+        if(root==NULL){
+            return;
+        }
+        solve(root->left,key,pre,suc);
+        if(root->data<key){
+            pre=root;
+        }
+        else if(root->data>key && !suc){
+            suc=root;
+        }
+        solve(root->right,key,pre,suc);
+        
     }
     vector<Node*> findPreSuc(Node* root, int key) {
         // code here
-                pre = suc = NULL;
-        inorder(root, key);
-        return {pre, suc};
-
-        
+        Node* pre=NULL;
+        Node* suc=NULL;
+        solve(root,key,pre,suc);
+        return {pre,suc};
     }
 };
