@@ -11,24 +11,22 @@
  */
 class Solution {
 public:
-    void solve(TreeNode*root,int k,int &ans,int &cnt){
+    void solve(TreeNode*root,int k,int &cnt,int &ans){
         if(root==NULL){
             return;
         }
-        solve(root->left,k,ans,cnt);
+        solve(root->left,k,cnt,ans);
         cnt++;
         if(cnt==k){
-            ans=root->val;  //tc o(n)
-                            //sc recursive stack
-            return;
+            ans=root->val;
         }
-        solve(root->right,k,ans,cnt);
+        solve(root->right,k,cnt,ans);
 
     }
     int kthSmallest(TreeNode* root, int k) {
         int ans;
         int cnt=0;
-        solve(root,k,ans,cnt);
+        solve(root,k,cnt,ans);
         return ans;
     }
 };
