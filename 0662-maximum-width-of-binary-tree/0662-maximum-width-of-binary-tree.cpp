@@ -15,30 +15,32 @@ public:
         if(root==NULL){
             return 0;
         }
-        int maxw=1;
         queue<pair<TreeNode*,unsigned long long>>q;
         q.push({root,0});
+        int maxw=INT_MIN;
         while(!q.empty()){
             int s=q.size();
-            int l,r;
+           unsigned long long l,r;
             for(int i=0;i<s;i++){
                 TreeNode*node=q.front().first;
-                unsigned long long  idx=q.front().second;
+                unsigned long long ind=q.front().second;
                 q.pop();
                 if(i==0){
-                    l=idx;
+                    l=ind;
                 }
                 if(i==s-1){
-                    r=idx;
+                    r=ind;
                 }
                 if(node->left){
-                    q.push({node->left,2*idx+1});
+                    q.push({node->left,2*ind+1});
                 }
                 if(node->right){
-                    q.push({node->right,2*idx+2});
+                    q.push({node->right,2*ind+2});
                 }
+                
+                
             }
-            maxw=max(maxw,r-l+1);
+            maxw=max(maxw,(int)(r-l+1));
         }
         return maxw;
     }
