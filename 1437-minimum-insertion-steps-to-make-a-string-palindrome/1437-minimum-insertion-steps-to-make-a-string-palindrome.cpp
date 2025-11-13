@@ -30,16 +30,13 @@ public:
         }
         return dp[x][y];
     }
-    int solvep(string s) {
-        string t = s;
+   
+    int minInsertions(string s) {
+         string t = s;
         int n = s.size();
         vector<vector<int>> dp(n + 1, vector<int>(n + 1, -1));
         reverse(s.begin(), s.end());
-        return solve(n, n, s, t, dp);
-    }
-    int minInsertions(string s) {
-        int n = s.size();
-        int pn = solvep(s);
+        int pn =  solve(n, n, s, t, dp);
         return n - pn;
     }
 };
