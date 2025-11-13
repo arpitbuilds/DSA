@@ -1,36 +1,21 @@
 class Solution {
 public:
-    // int solve(int ind, int prev, vector<int>& nums, vector<vector<int>>& dp) {
-    //     int n = nums.size();
-    //     if (ind == n) {
-    //         return 0;
-    //     }
-    //     if (dp[ind][prev + 1] != -1) {
-    //         return dp[ind][prev + 1];
-    //     }
-    //     int len = 0;
-    //     len = 0 + solve(ind + 1, prev, nums, dp);
-    //     if (prev == -1 || nums[ind] > nums[prev]) {
-    //         len = max(len, 1 + solve(ind + 1, ind, nums, dp));
-    //     }
-    //     return dp[ind][prev + 1] = len;
-    // }
+    int solve(int i, int n, int p, vector<int>& v, vector<vector<int>>& dp) {
+        if (i ==n) return 0; // prevent overflow
+        if (dp[i][p + 1] != -1) return dp[i][p + 1];
+
+        int notTake = solve(i + 1, n, p, v, dp);
+        int take = 0;
+        if (p == -1 || v[i] > v[p]) {
+            take = 1 + solve(i + 1, n, i, v, dp);
+        }
+
+        return dp[i][p + 1] = max(take, notTake);
+    }
+
     int lengthOfLIS(vector<int>& nums) {
         int n = nums.size();
-        vector<vector<int>> dp(n + 1, vector<int>(n + 1, 0));
-        for(int p=-1;p<n-1;p++){
-            dp[n][p+1]=0;
-        }
-        for(int ind=n-1;ind>=0;ind--){
-            for(int prev=ind-1;prev>=-1;prev--){
-            int len = 0; 
-           len = 0 + dp[ind + 1][prev+1];
-         if (prev == -1 || nums[ind] > nums[prev]) {
-            len = max(len, 1 + dp[ind+1][ind+1]);
-        }
-         dp[ind][prev + 1] = len;
-            }
-        }
-        return dp[0][-1+1];
+        vector<vector<int>> dp(n , vector<int>(n + 1, -1));
+        return solve(0, n, -1, nums, dp);
     }
 };
