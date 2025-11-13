@@ -1,33 +1,28 @@
 class Solution {
 public:
- int longestCommonSubsequence(string s, string t) {
-        int m = s.size();
-        int n = t.size();
-        vector<vector<int>> dp(m + 1, vector<int>(n + 1, -1));
-        for (int i = 0; i <= m; i++) { 
-            dp[i][0] = 0;
+  int solve(int i ,int j,vector<vector<int>>&dp,string &s,string &t){
+        if(i==0 || j==0){
+            return 0;
         }
-        for (int j = 0; j <= n; j++) {
-            dp[0][j] = 0;
+        if(dp[i][j]!=-1){
+            return dp[i][j];
         }
-        for (int i = 1; i <= m; i++) {
-            for (int j = 1; j <= n; j++) {
-                if (s[i - 1] == t[j - 1]) {
-                    dp[i][j] = 1 + dp[i - 1][j - 1];
-                }
-                else{
-                dp[i][j] = max(dp[i - 1][j], dp[i][j - 1]);
-                }
-            }
+        if(s[i-1]==t[j-1]){
+            return dp[i][j]=1+solve(i-1,j-1,dp,s,t);
         }
-
-        return dp[m][n];
+        return dp[i][j]=0+max(solve(i-1,j,dp,s,t),solve(i,j-1,dp,s,t));
     }
-    int minDistance(string word1, string word2) {
-        int n = longestCommonSubsequence(word1,word2); 
-        int w1=word1.size();
-        int w2=word2.size();
-        return w1+w2 - 2*n; 
+        int lcs(string t1, string t2) {
+         int m = t1.size();
+        int n = t2.size();
+        vector<vector<int>> dp(m +1, vector<int>(n +1, -1));
+        return solve(m,n,dp,t1,t2);
+    }
+    int minDistance(string w1, string w2) {
+        int n1=w1.size();
+        int n2=w2.size();
+        int p=lcs(w1,w2);
+        return (n1+n2)-2*p;
         
     }
 };
