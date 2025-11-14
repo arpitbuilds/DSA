@@ -16,16 +16,17 @@ class Node {
 
 class Solution {
   public:
-    bool isleaf(Node*root){
-        if(root->left==NULL && root->right==NULL){
-            return true;
-        }
-        else{
-            return false;
-        }
-    }
-    void addl(Node*root,vector<int>&res){
+  bool isleaf(Node*root){
+      if(root->left==NULL && root->right==NULL){
+          return true;
+      }
+      else{
+          return false;
+      }
+  }
+    void addl(Node*root ,vector<int>&res){
         Node*cur=root->left;
+        
         while(cur){
             if(!isleaf(cur)){
                 res.push_back(cur->data);
@@ -36,15 +37,24 @@ class Solution {
             else{
                 cur=cur->right;
             }
-            
         }
     }
+    void addt(Node*root,vector<int>&res){
+        if(root==NULL){
+            return;
+        }
+        if(isleaf(root)){
+            res.push_back(root->data);
+        }
+        addt(root->left,res);
+        addt(root->right,res);
+        }
     void addr(Node*root,vector<int>&res){
-           Node*cur=root->right;
-           vector<int>ans;
+        Node*cur=root->right;
+        vector<int>temp;
         while(cur){
             if(!isleaf(cur)){
-                ans.push_back(cur->data);
+                temp.push_back(cur->data);
             }
             if(cur->right){
                 cur=cur->right;
@@ -52,35 +62,23 @@ class Solution {
             else{
                 cur=cur->left;
             }
-            
         }
-        for(int i=ans.size()-1;i>=0;i--){
-            res.push_back(ans[i]);
+         for(int i=temp.size()-1;i>=0;i--){
+            res.push_back(temp[i]);
         }
-        
-    }
-    void addt(Node*root,vector<int>&res){
-        if(root==NULL){
-            return ;
-        }
-        if(isleaf(root)){
-            res.push_back(root->data);
-            // return;
-        }
-        addt(root->left,res);
-        addt(root->right,res);
     }
     vector<int> boundaryTraversal(Node *root) {
         // code here
-        vector<int>res;
+        vector<int>ans;
         if(root==NULL){
-            return res;
+            return ans;
         }
-       if (!isleaf(root)) res.push_back(root->data);
-        addl(root,res);
-        addt(root,res);
-        addr(root,res);
-        return res;
-        
+        if(!isleaf(root)){
+            ans.push_back(root->data);
+        }
+        addl(root,ans);
+        addt(root,ans);
+        addr(root,ans);
+        return ans;
     }
 };
