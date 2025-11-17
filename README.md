@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/arpitbuilds/DSA/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/arpitbuilds/DSA/tree/master/0933-increasing-order-search-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/arpitbuilds/DSA/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1073-number-of-enclaves](https://github.com/arpitbuilds/DSA/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Array
 |  |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/arpitbuilds/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/arpitbuilds/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/arpitbuilds/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1073-number-of-enclaves](https://github.com/arpitbuilds/DSA/tree/master/1073-number-of-enclaves) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/arpitbuilds/DSA/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/arpitbuilds/DSA/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1370-count-number-of-nice-subarrays](https://github.com/arpitbuilds/DSA/tree/master/1370-count-number-of-nice-subarrays) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/arpitbuilds/DSA/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/arpitbuilds/DSA/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1731-even-odd-tree](https://github.com/arpitbuilds/DSA/tree/master/1731-even-odd-tree) |
 ## Memoization
@@ -650,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/arpitbuilds/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/arpitbuilds/DSA/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/arpitbuilds/DSA/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/arpitbuilds/DSA/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
@@ -669,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/arpitbuilds/DSA/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/arpitbuilds/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/arpitbuilds/DSA/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/arpitbuilds/DSA/tree/master/1073-number-of-enclaves) |
 ## Combinatorics
 |  |
 | ------- |
