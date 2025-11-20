@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool check(int l,int r,string s){
+       bool check(int l,int r,string s){
         while(l<=r){
         if(s[l]!=s[r]){
             return false;
@@ -10,15 +10,15 @@ public:
         }
         return true;
     }
-    void solve(int ind,vector<string>&v,vector<vector<string>>&ans,string s){
+    void solve(int ind,vector<vector<string>>&ans,vector<string>&v,string s){
         if(ind==s.size()){
-            ans.push_back(v);
-            return;
+           ans.push_back(v);
+           return;
         }
         for(int i=ind;i<s.size();i++){
             if(check(ind,i,s)){
                 v.push_back(s.substr(ind,i-ind+1));
-                solve(i+1,v,ans,s);
+                solve(i+1,ans,v,s);
                 v.pop_back();
             }
         }
@@ -26,7 +26,7 @@ public:
     vector<vector<string>> partition(string s) {
         vector<vector<string>>ans;
         vector<string>v;
-        solve(0,v,ans,s);
+        solve(0,ans,v,s);
         return ans;
     }
 };
