@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/arpitbuilds/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/arpitbuilds/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/arpitbuilds/DSA/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/arpitbuilds/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/arpitbuilds/DSA/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/arpitbuilds/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/arpitbuilds/DSA/tree/master/0198-house-robber) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/arpitbuilds/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/arpitbuilds/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/arpitbuilds/DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/arpitbuilds/DSA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/arpitbuilds/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/arpitbuilds/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/arpitbuilds/DSA/tree/master/0202-happy-number) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/arpitbuilds/DSA/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/arpitbuilds/DSA/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/arpitbuilds/DSA/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/arpitbuilds/DSA/tree/master/0139-word-break) |
 | [0257-binary-tree-paths](https://github.com/arpitbuilds/DSA/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/arpitbuilds/DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/arpitbuilds/DSA/tree/master/0383-ransom-note) |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/arpitbuilds/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/arpitbuilds/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/arpitbuilds/DSA/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/arpitbuilds/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/arpitbuilds/DSA/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/arpitbuilds/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/arpitbuilds/DSA/tree/master/0198-house-robber) |
@@ -554,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/arpitbuilds/DSA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/arpitbuilds/DSA/tree/master/0139-word-break) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -736,4 +741,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/arpitbuilds/DSA/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/arpitbuilds/DSA/tree/master/0820-find-eventual-safe-states) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/arpitbuilds/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
