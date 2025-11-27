@@ -1,11 +1,11 @@
 class Solution {
-public:
+public: 
     int help(int n){
         int ans=0;
         int temp=0;
         while(n){
             temp=n%10;
-            ans+=(temp*temp);
+            ans+=temp*temp;
             n=n/10;
         }
         return ans;
