@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/arpitbuilds/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/arpitbuilds/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/arpitbuilds/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/arpitbuilds/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/arpitbuilds/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/arpitbuilds/DSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/arpitbuilds/DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/arpitbuilds/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/arpitbuilds/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/arpitbuilds/DSA/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/arpitbuilds/DSA/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/arpitbuilds/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/arpitbuilds/DSA/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/arpitbuilds/DSA/tree/master/0088-merge-sorted-array) |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/arpitbuilds/DSA/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/arpitbuilds/DSA/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/arpitbuilds/DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/arpitbuilds/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/arpitbuilds/DSA/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/arpitbuilds/DSA/tree/master/0229-majority-element-ii) |
