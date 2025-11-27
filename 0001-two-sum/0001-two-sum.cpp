@@ -6,10 +6,10 @@ public:
         for(int i=0;i<n;i++){
             int rem=target-nums[i];
             if(mpp.find(rem)!=mpp.end()){
-             return {i,mpp[rem]};
+                return {mpp[rem],i};
             }
             mpp[nums[i]]=i;
         }
-        return {-1,-1};
+        return {};
     }
 };
