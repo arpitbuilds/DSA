@@ -7,8 +7,8 @@ class Solution {
         int i=0;
         int j=0;
         int n=arr.size();
-        int ans=INT_MIN;
         int cnt=0;
+        int ans=INT_MIN;
         while(i<n && j<n){
             if(arr[i]<=dep[j]){
                 cnt++;
@@ -18,7 +18,7 @@ class Solution {
                 cnt--;
                 j++;
             }
-            ans=max(ans,cnt);
+            ans=max(cnt,ans);
         }
         return ans;
     }
