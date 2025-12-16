@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/arpitbuilds/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/arpitbuilds/DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/arpitbuilds/DSA/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/arpitbuilds/DSA/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/arpitbuilds/DSA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/arpitbuilds/DSA/tree/master/0283-move-zeroes) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/arpitbuilds/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/arpitbuilds/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/arpitbuilds/DSA/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/arpitbuilds/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/arpitbuilds/DSA/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/arpitbuilds/DSA/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/arpitbuilds/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/arpitbuilds/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/arpitbuilds/DSA/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/arpitbuilds/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/arpitbuilds/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/arpitbuilds/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/arpitbuilds/DSA/tree/master/0368-largest-divisible-subset) |
