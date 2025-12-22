@@ -39,7 +39,7 @@ class Solution {
             }
         }
         unordered_map<int,int>vis;
-        vis[start->data]=1;
+       
         q.push(start);
         int t=0;
         while(!q.empty()){
@@ -48,6 +48,7 @@ class Solution {
             for(int i=0;i<s;i++){
             Node*node=q.front();
             q.pop();
+             vis[node->data]=1;
               if(node->left && !vis[node->left->data]){
                     q.push(node->left);
                     vis[node->left->data]=1;
