@@ -13,19 +13,19 @@ public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
         ListNode*dummy=new ListNode(0);
         ListNode*cur=dummy;
-        ListNode*temp1=l1;
-        ListNode*temp2=l2;
-        int c=0;
+        ListNode*t1=l1;
+        ListNode*t2=l2;
         int sum=0;
-        while(temp1 || temp2 || c){
+        int c=0;
+        while(t1 || t2 || c){
             sum=c;
-            if(temp1){
-                sum+=temp1->val;
-                temp1=temp1->next;
+            if(t1){
+                sum+=t1->val;
+                t1=t1->next;
             }
-            if(temp2){
-                sum+=temp2->val;
-                temp2=temp2->next;
+            if(t2){
+                sum+=t2->val;
+                t2=t2->next;
             }
             cur->next=new ListNode(sum%10);
             c=sum/10;
