@@ -16,42 +16,42 @@ public:
         while (!q.empty()) {
             int s = q.size();
             for (int i = 0; i < s; i++) {
-                TreeNode* node = q.front();
+                TreeNode* x = q.front();
                 q.pop();
-                if (node->left) {
-                    q.push(node->left);
-                    mpp[node->left->val] = node;
+                if (x->left) {
+                    q.push(x->left);
+                    mpp[x->left->val] = x;
                 }
-                if (node->right) {
-                    q.push(node->right);
-                    mpp[node->right->val] = node;
+                if (x->right) {
+                    q.push(x->right);
+                    mpp[x->right->val] = x;
                 }
             }
         }
-        unordered_map<int, int> vis;
         q.push(target);
-        while (k-- && !q.empty()) {
+        unordered_map<int, int> vis;
+        while (!q.empty() && k--) {
             int s = q.size();
             for (int i = 0; i < s; i++) {
-                TreeNode* node = q.front();
+                TreeNode* x = q.front();
                 q.pop();
-                vis[node->val] = 1;
-                if (node->left && !vis[node->left->val]) {
-                    q.push(node->left);
+                vis[x->val] = 1;
+                if (x->left && !vis[x->left->val]) {
+                    q.push(x->left);
                 }
-                if (node->right && !vis[node->right->val]) {
-                    q.push(node->right);
+                if (x->right && !vis[x->right->val]) {
+                    q.push(x->right);
                 }
-                if (mpp[node->val] && !vis[mpp[node->val]->val]) {
-                    q.push(mpp[node->val]);
+                if (mpp[x->val] && !vis[mpp[x->val]->val]) {
+                    q.push(mpp[x->val]);
                 }
             }
         }
         vector<int> ans;
         while (!q.empty()) {
-            TreeNode* it = q.front();
-            ans.push_back(it->val);
+            TreeNode* x = q.front();
             q.pop();
+            ans.push_back(x->val);
         }
         return ans;
     }
