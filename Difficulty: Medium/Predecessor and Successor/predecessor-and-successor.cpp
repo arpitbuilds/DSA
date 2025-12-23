@@ -15,26 +15,24 @@ class Node {
 
 class Solution {
   public:
-    
-    void solve(Node*root,int key,Node*&pre,Node*&suc){
+    void solve(Node*root,Node*&prev,Node*&suc,int key){
         if(root==NULL){
             return;
         }
-        solve(root->left,key,pre,suc);
+        solve(root->left,prev,suc,key);
         if(root->data<key){
-            pre=root;
+            prev=root;
         }
-        else if(root->data>key && !suc){
+        if(root->data>key && suc==NULL){
             suc=root;
         }
-        solve(root->right,key,pre,suc);
-        
+        solve(root->right,prev,suc,key);
     }
     vector<Node*> findPreSuc(Node* root, int key) {
         // code here
-        Node* pre=NULL;
-        Node* suc=NULL;
-        solve(root,key,pre,suc);
-        return {pre,suc};
+        Node*prev=NULL;
+        Node*suc=NULL;
+        solve(root,prev,suc,key);
+        return {prev,suc};
     }
 };
