@@ -28,7 +28,7 @@ class Solution {
     }
     bool isBST(Node* root) {
         // code here
-        int prev=INT_MIN;
+        int prev=-1;
         return solve(root,prev);
     }
 };
