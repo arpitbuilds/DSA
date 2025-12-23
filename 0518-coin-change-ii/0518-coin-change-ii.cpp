@@ -1,27 +1,27 @@
 class Solution {
 public:
-    int solve(int ind,int amt,vector<int>&coins,vector<vector<int>>&dp){
-        if(ind==0){
-            if(amt%coins[ind]==0){
+    int solve(int ind, int amt, vector<int>& coins, vector<vector<int>>& dp) {
+        if (ind == 0) {
+            if (amt % coins[ind] == 0) {
                 return 1;
-            }
-            else{
+            } else {
                 return 0;
             }
         }
-        if(dp[ind][amt]!=-1){
+        if (dp[ind][amt] != -1) {
             return dp[ind][amt];
         }
-        int ntake=solve(ind-1,amt,coins,dp);
-        int take=0;
-        if(amt>=coins[ind]){
-            take=solve(ind,amt-coins[ind],coins,dp);
+        int ntake = solve(ind - 1, amt, coins, dp);
+        int take = 0;
+        if (amt >= coins[ind]) {
+            take = solve(ind, amt - coins[ind], coins, dp);
         }
-        return dp[ind][amt]=take+ntake;
+        return dp[ind][amt] = take + ntake;
     }
     int change(int amount, vector<int>& coins) {
-        int n=coins.size();
-        vector<vector<int>>dp(n,vector<int>(amount+1,-1));
-        return solve(n-1,amount,coins,dp);
+        int n = coins.size();
+        vector<vector<int>> dp(n, vector<int>(amount + 1, -1));
+        int ans=solve(n-1,amount,coins,dp);
+        return ans;
     }
 };
