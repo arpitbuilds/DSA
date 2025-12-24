@@ -14,25 +14,24 @@ public:
         if(head==NULL || head->next==NULL || k==0){
             return head;
         }
-        ListNode*temp=head;
+        ListNode*cur=head;
         int l=1;
-        while(temp->next!=NULL){
+        while(cur->next!=NULL){
             l++;
-            temp=temp->next;
+            cur=cur->next;
         }
-         k=k%l;
+        k=k%l;
         if(k==0){
             return head;
         }
         int b=l-k;
-        ListNode*cur=head;
+        ListNode*temp=head;
         while(--b){
-            cur=cur->next;
+            temp=temp->next;
         }
-        ListNode*newh=cur->next;
-        cur->next=NULL;
-        temp->next=head;
-        cur->next=NULL;
+        ListNode*newh=temp->next;
+        temp->next=NULL;
+        cur->next=head;
         return newh;
     }
 };
