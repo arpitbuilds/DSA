@@ -1,21 +1,22 @@
 class Solution {
 public:
-    int solve(int i, int n, int p, vector<int>& v, vector<vector<int>>& dp) {
-        if (i ==n) return 0; // prevent overflow
-        if (dp[i][p + 1] != -1) return dp[i][p + 1];
-
-        int notTake = solve(i + 1, n, p, v, dp);
-        int take = 0;
-        if (p == -1 || v[i] > v[p]) {
-            take = 1 + solve(i + 1, n, i, v, dp);
+    int solve(int ind, int n,int prev,vector<int>&nums,vector<vector<int>>&dp){
+        if(ind==n){
+            return 0;
         }
-
-        return dp[i][p + 1] = max(take, notTake);
+        if(dp[ind][prev+1]!=-1){
+            return dp[ind][prev+1];
+        }
+        int ntake=0+solve(ind+1,n,prev,nums,dp);
+        int take=0;
+        if(prev==-1 || nums[ind]>nums[prev]){
+            take=1+solve(ind+1,n,ind,nums,dp);
+        }
+        return dp[ind][prev+1]=max(take,ntake);
     }
-
     int lengthOfLIS(vector<int>& nums) {
-        int n = nums.size();
-        vector<vector<int>> dp(n , vector<int>(n + 1, -1));
-        return solve(0, n, -1, nums, dp);
+        int n=nums.size();
+        vector<vector<int>>dp(n,vector<int>(n+1,-1));
+        return solve(0,n,-1,nums,dp);
     }
 };
