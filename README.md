@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/arpitbuilds/DSA/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1306-jump-game-iii](https://github.com/arpitbuilds/DSA/tree/master/1306-jump-game-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/arpitbuilds/DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/arpitbuilds/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/arpitbuilds/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arpitbuilds/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/arpitbuilds/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/arpitbuilds/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/arpitbuilds/DSA/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/arpitbuilds/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/arpitbuilds/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Enumeration
 |  |
 | ------- |
