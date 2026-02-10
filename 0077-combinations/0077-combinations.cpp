@@ -1,21 +1,21 @@
 class Solution {
 public:
-    void solve(int ind,int n,int k,vector<int>&ans,vector<vector<int>>&res){
-        if(ind>n){
-            if(ans.size()==k){
-                res.push_back(ans);
+    void solve(int i, int n, int k, vector<int>& v, vector<vector<int>>& ans) {
+        if (i > n) {
+            if (v.size() == k) {
+                ans.push_back(v);
             }
-             return;
+            return;
         }
-        ans.push_back(ind);
-        solve(ind+1,n,k,ans,res);
-        ans.pop_back();
-        solve(ind+1,n,k,ans,res);
+        v.push_back(i);
+        solve(i + 1, n, k, v, ans);
+        v.pop_back();
+        solve(i + 1, n, k, v, ans);
     }
     vector<vector<int>> combine(int n, int k) {
-        vector<int>ans;
-        vector<vector<int>>res;
-        solve(1,n,k,ans,res);
-        return res;
+        vector<vector<int>> ans;
+        vector<int> v;
+        solve(1, n, k, v, ans);
+        return ans;
     }
 };
