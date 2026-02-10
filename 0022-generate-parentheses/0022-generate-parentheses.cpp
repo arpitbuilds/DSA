@@ -1,24 +1,23 @@
 class Solution {
 public:
-    void solve(string s,vector<string>&ans,int oc,int cc, int n ){
+    void solve(int n,int oc,int cc,vector<string>&ans,string s){
         if(oc==n && cc==n){
             ans.push_back(s);
             return ;
         }
         if(oc<n){
-            solve(s+'(',ans,oc+1,cc,n);
+            solve(n,oc+1,cc,ans,s+'(');
         }
         if(cc<oc){
-            solve(s+')',ans,oc,cc+1,n);
+            solve(n,oc,cc+1,ans,s+')');
         }
     }
     vector<string> generateParenthesis(int n) {
-        string s="";
-        vector<string>v;
         int oc=0;
         int cc=0;
-        solve(s,v,oc,cc,n);
-        return v;
-        
+        vector<string>ans;
+        string s="";
+        solve(n,oc,cc,ans,s);
+        return ans;
     }
 };
