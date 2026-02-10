@@ -1,37 +1,27 @@
 class Solution {
 public:
-    void solve(int ind, vector<int>& nums, int target,
-               vector<int>& v, vector<vector<int>>& ans) {
-
-        // BASE CONDITION (same style as comb sum 1)
-        if (ind == nums.size()) {
-            if (target == 0) {
+    void solve(int ind,vector<vector<int>>&ans,vector<int>&v,vector<int>&c,int t){
+        if(ind==c.size()){
+            if(t==0){
                 ans.push_back(v);
             }
-            return;
+              return;
         }
-
-        // TAKE (only once → ind+1)
-        if (nums[ind] <= target) {
-            v.push_back(nums[ind]);
-            solve(ind + 1, nums, target - nums[ind], v, ans);
+        if(c[ind]<=t){
+            v.push_back(c[ind]);
+            solve(ind+1,ans,v,c,t-c[ind]);
             v.pop_back();
         }
-
-        // SKIP duplicates
-        while (ind + 1 < nums.size() && nums[ind] == nums[ind + 1]) {
+        while(ind+1<c.size()  && c[ind]==c[ind+1]){
             ind++;
         }
-
-        // NOT TAKE
-        solve(ind + 1, nums, target, v, ans);
+        solve(ind+1,ans,v,c,t);
     }
-
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
-        sort(candidates.begin(), candidates.end());   // 🔴 REQUIRED
-        vector<vector<int>> ans;
-        vector<int> v;
-        solve(0, candidates, target, v, ans);
+        vector<vector<int>>ans;
+        vector<int>v;
+        sort(candidates.begin(),candidates.end());
+        solve(0,ans,v,candidates,target);
         return ans;
     }
 };
