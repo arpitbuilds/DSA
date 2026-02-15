@@ -5,7 +5,7 @@ public:
         int n = r.size();
         vector<int> ans(n, 1);
         for (int i = 1; i < n; i++) {
-            if (r[i - 1] < r[i] && ans[i - 1] <= ans[i]) {
+            if (r[i - 1] < r[i] && ans[i - 1] >= ans[i]) {
                 ans[i] = ans[i - 1] + 1;
             }
         }
