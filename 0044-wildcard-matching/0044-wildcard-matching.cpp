@@ -1,34 +1,36 @@
 class Solution {
 public:
-    bool solve(int x, int y, string &s, string &p, vector<vector<int>>& dp) {
-        if (x < 0 && y < 0) {
+    bool solve(int m, int n, string &s, string &p,vector<vector<int>>&dp) {
+        if (m < 0 && n < 0) {
             return true;
         }
-        if (x < 0 && y >= 0) {
-            for (int k = 0; k <= y; k++) {
-                if (p[k] != '*')
+        if (m < 0 && n >= 0) {
+            for (int k = 0; k <= n; k++) {
+                if (p[k] != '*') {
                     return false;
+                }
             }
             return true;
         }
-        if (x >= 0 && y < 0) {
+        if (m >= 0 && n < 0) {
             return false;
         }
-        if (dp[x][y] != -1) {
-            return dp[x][y];
+        if(dp[m][n]!=-1){
+            return dp[m][n];
         }
-        if (s[x] == p[y] || p[y] == '?') {
-            return dp[x][y]=solve(x - 1, y - 1, s, p, dp);
+
+        if (s[m] == p[n] || p[n] == '?') {
+            return dp[m][n]=solve(m - 1, n - 1, s, p,dp);
         }
-        if (p[y] == '*') {
-            return dp[x][y]=solve(x - 1, y, s, p, dp) || solve(x, y - 1, s, p, dp);
+        if (p[n] == '*') {
+            return dp[m][n]=solve(m - 1, n, s, p,dp) || solve(m, n - 1, s, p,dp);
         }
-        return dp[x][y]=false;
+        return dp[m][n]=false;
     }
     bool isMatch(string s, string p) {
-        int x = s.size();
-        int y = p.size();
-        vector<vector<int>> dp(x, vector<int>(y, -1));
-        return solve(x - 1, y - 1, s, p, dp);
+        int m = s.size();
+        int n = p.size();
+        vector<vector<int>>dp(m,vector<int>(n,-1));
+        return solve(m - 1, n - 1, s, p,dp);
     }
 };
