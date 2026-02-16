@@ -6,18 +6,18 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
+ * right(right) {}
  * };
  */
 class Solution {
 public:
-    bool check(TreeNode*l,TreeNode*r){
-        if(l==NULL || r==NULL){
-            return l==r;
+    bool check(TreeNode* a, TreeNode* b) {
+        if (a == NULL || b == NULL) {
+            return a == b;
         }
-        return (l->val==r->val)&&check(l->left,r->right)&&check(l->right,r->left);
+        return (a->val == b->val) && check(a->left, b->right) &&
+               check(a->right, b->left);
     }
-    bool isSymmetric(TreeNode* root) {
-      return check(root,root);
-    }
+    bool isSymmetric(TreeNode* root) { return check(root, root); }
 };
