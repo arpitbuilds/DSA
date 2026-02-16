@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/arpitbuilds/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/arpitbuilds/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/arpitbuilds/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/arpitbuilds/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/arpitbuilds/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0800-letter-case-permutation](https://github.com/arpitbuilds/DSA/tree/master/0800-letter-case-permutation) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/arpitbuilds/DSA/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/arpitbuilds/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/arpitbuilds/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/arpitbuilds/DSA/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/arpitbuilds/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/arpitbuilds/DSA/tree/master/0735-asteroid-collision) |
 | [0933-increasing-order-search-tree](https://github.com/arpitbuilds/DSA/tree/master/0933-increasing-order-search-tree) |
 | [0937-online-stock-span](https://github.com/arpitbuilds/DSA/tree/master/0937-online-stock-span) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/arpitbuilds/DSA/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/arpitbuilds/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/arpitbuilds/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/arpitbuilds/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/arpitbuilds/DSA/tree/master/0688-knight-probability-in-chessboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arpitbuilds/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0799-champagne-tower](https://github.com/arpitbuilds/DSA/tree/master/0799-champagne-tower) |
@@ -845,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/arpitbuilds/DSA/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/arpitbuilds/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/arpitbuilds/DSA/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/arpitbuilds/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/arpitbuilds/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arpitbuilds/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/arpitbuilds/DSA/tree/master/0860-lemonade-change) |
