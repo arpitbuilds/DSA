@@ -1,25 +1,24 @@
 class Solution {
 public:
     vector<vector<int>> insert(vector<vector<int>>& given, vector<int>& newi) {
-        vector<vector<int>>ans;
-        int i=0;
-        int n=given.size();
-        while(i<n){
-            if(given[i][1]<newi[0]){
+
+        vector<vector<int>> ans;
+        int n = given.size();
+        int i = 0;
+        while (i < n) {
+            if (given[i][1] < newi[0]) {
                 ans.push_back(given[i]);
                 i++;
-            }
-            else if(given[i][0]>newi[1]){
+            } else if (given[i][0] > newi[1]) {
                 break;
-            }
-            else{
-                newi[0]=min(newi[0],given[i][0]);
-                newi[1]=max(newi[1],given[i][1]);
+            } else {
+                newi[0] = min(newi[0], given[i][0]);
+                newi[1] = max(newi[1], given[i][1]);
                 i++;
             }
         }
         ans.push_back(newi);
-        while(i<n){
+        while (i < n) {
             ans.push_back(given[i]);
             i++;
         }
