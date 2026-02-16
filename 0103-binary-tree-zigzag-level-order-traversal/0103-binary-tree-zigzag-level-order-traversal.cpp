@@ -6,43 +6,43 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
+ * right(right) {}
  * };
  */
 class Solution {
 public:
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
-        vector<vector<int>>ans;
-        if(root==NULL){
+        vector<vector<int>> ans;
+        if (root == NULL) {
             return ans;
         }
-        queue<TreeNode*>q;
+        bool flag = 1;
+        queue<TreeNode*> q;
         q.push(root);
-        bool flag=true;
-        while(!q.empty()){
-           int n=q.size();
-            vector<int>level(n);
-           for(int i=0;i<n;i++){
-            TreeNode*node=q.front();
-            q.pop();
-            if(node->left){
-                q.push(node->left);
+        while (!q.empty()) {
+            int s = q.size();
+            vector<int> res(s);
+            for (int i = 0; i < s; i++) {
+                TreeNode* x = q.front();
+                q.pop();
+                int ind;
+                if (x->left) {
+                    q.push(x->left);
+                }
+                if (x->right) {
+                    q.push(x->right);
+                }
+                if (flag) {
+                    ind = i;
+                } else {
+                    ind = s - i - 1;
+                }
+                res[ind] = x->val;
             }
-            if(node->right){
-                q.push(node->right);
-            }
-             int ind=-1;
-             if(flag){
-                ind=i;
-             }
-             else{
-                ind=n-i-1;
-             }
-             level[ind]=node->val;
-           }
-           flag=!flag;
-           ans.push_back(level);
+            flag = !flag;
+            ans.push_back(res);
         }
-        return ans; 
+        return ans;
     }
 };
