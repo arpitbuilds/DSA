@@ -4,22 +4,21 @@ class Solution {
         // code here
         sort(arr.begin(),arr.end());
         sort(dep.begin(),dep.end());
-        int i=0;
-        int j=0;
-        int n=arr.size();
+        int l=0;
+        int r=0;
         int cnt=0;
-        int ans=INT_MIN;
-        while(i<n && j<n){
-            if(arr[i]<=dep[j]){
+        int mini=0;
+        while(l<arr.size() && r<dep.size()){
+            if(arr[l]<=dep[r]){
                 cnt++;
-                i++;
+                l++;
             }
             else{
                 cnt--;
-                j++;
+                r++;
             }
-            ans=max(cnt,ans);
+            mini=max(mini,cnt);
         }
-        return ans;
+        return mini;
     }
 };
