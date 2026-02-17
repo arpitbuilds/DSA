@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/arpitbuilds/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1731-even-odd-tree](https://github.com/arpitbuilds/DSA/tree/master/1731-even-odd-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/arpitbuilds/DSA/tree/master/2384-root-equals-sum-of-children) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/arpitbuilds/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1731-even-odd-tree](https://github.com/arpitbuilds/DSA/tree/master/1731-even-odd-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/arpitbuilds/DSA/tree/master/2384-root-equals-sum-of-children) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/arpitbuilds/DSA/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/arpitbuilds/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -661,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/arpitbuilds/DSA/tree/master/1306-jump-game-iii) |
 | [1731-even-odd-tree](https://github.com/arpitbuilds/DSA/tree/master/1731-even-odd-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Memoization
 |  |
 | ------- |
