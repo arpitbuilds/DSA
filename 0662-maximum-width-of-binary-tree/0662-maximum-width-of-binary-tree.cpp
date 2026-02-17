@@ -6,37 +6,38 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
+ * right(right) {}
  * };
  */
 class Solution {
 public:
     int widthOfBinaryTree(TreeNode* root) {
-        queue<pair<TreeNode*,unsigned long long>>q;
-        q.push({root,0});
-        int maxw=INT_MIN;
-        while(!q.empty()){
-            int s=q.size();
-            int r,l;
-            for(int i=0;i<s;i++){
-                TreeNode*node=q.front().first;
-                unsigned long long ind=q.front().second;
+        queue<pair<TreeNode*,unsigned long long>> q;
+        q.push({root, 0});
+        int maxi = INT_MIN;
+        while (!q.empty()) {
+            int s = q.size();
+            int l, r;
+            for (int i = 0; i < s; i++) {
+                TreeNode* x = q.front().first;
+                unsigned long long  ind = q.front().second;
                 q.pop();
-                if(i==0){
-                    l=ind;
+                if (x->left) {
+                    q.push({x->left, 2 * ind + 1});
                 }
-                if(i==s-1){
-                    r=ind;
+                if (x->right) {
+                    q.push({x->right, 2 * ind + 2});
                 }
-                if(node->left){
-                    q.push({node->left,2*ind+1});
+                if (i == 0) {
+                    l = ind;
                 }
-                if(node->right){
-                    q.push({node->right,2*ind+2});
+                if (i == s - 1) {
+                    r = ind;
                 }
             }
-            maxw=max(maxw,(int)(r-l+1));
+            maxi = max(maxi, (int)(r - l + 1));
         }
-        return maxw;
+        return maxi;
     }
 };
