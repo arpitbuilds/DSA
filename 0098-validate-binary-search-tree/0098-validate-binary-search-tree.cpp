@@ -6,17 +6,36 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
+ * right(right) {}
  * };
  */
 class Solution {
 public:
-    bool help(long left, TreeNode* root, long right){
-        if (root==NULL) return true;
-        if (left >= root->val || right <= root->val) return false;
-        return help(left, root->left, root->val) && help(root->val, root->right, right);
+    bool solve(TreeNode* root, long long& prev) {
+        if (root == NULL) {
+            return true;
+        }
+
+        bool left = solve(root->left, prev);
+
+        if (root->val <= prev) {   // changed < to <=
+            return false;
+        }
+
+        prev = root->val;
+
+        bool right = solve(root->right, prev);
+
+        return left && right;
     }
+
     bool isValidBST(TreeNode* root) {
-        return help(LONG_MIN, root, LONG_MAX);
+        if (root == NULL) {
+            return true;
+        }
+
+        long long prev = LLONG_MIN;   // changed from -1 to LLONG_MIN
+        return solve(root, prev);
     }
 };
