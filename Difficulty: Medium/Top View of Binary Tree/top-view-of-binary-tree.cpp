@@ -17,27 +17,31 @@ class Solution {
   public:
     vector<int> topView(Node *root) {
         // code here
+        vector<int>ans;
+        if(root==NULL){
+            return ans;
+        }
         queue<pair<Node*,int>>q;
-        map<int,int>mpp;
         q.push({root,0});
+        map<int,int>mpp;
         while(!q.empty()){
-            Node*top=q.front().first;
+            Node*x=q.front().first;
             int line=q.front().second;
             q.pop();
             if(mpp.find(line)==mpp.end()){
-                mpp[line]=top->data;
+                mpp[line]=x->data;
             }
-            if(top->left){
-                q.push({top->left,line-1});
+            if(x->left){
+                q.push({x->left,line-1});
             }
-            if(top->right){
-                q.push({top->right,line+1});
+            
+            if(x->right){
+                q.push({x->right,line+1});
             }
         }
-        vector<int>v;
         for(auto it : mpp){
-            v.push_back(it.second);
+            ans.push_back(it.second);
         }
-        return v;
+        return ans;
     }
 };
