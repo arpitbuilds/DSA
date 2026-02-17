@@ -1,37 +1,43 @@
 /*
-struct Node
-{
+class Node {
+public:
     int data;
     Node* left;
     Node* right;
+
+    Node(int x) {
+        data = x;
+        left = right = NULL;
+    }
 };
 */
 
 class Solution {
   public:
     vector<int> bottomView(Node *root) {
-        // Your Code Here
-          vector<int>ans;
+        // code here
+        vector<int>ans;
         if(root==NULL){
             return ans;
         }
-        map<int,int>mpp;
         queue<pair<Node*,int>>q;
         q.push({root,0});
+        map<int,int>mpp;
         while(!q.empty()){
+            Node*x=q.front().first;
             int line=q.front().second;
-            Node*node=q.front().first;
             q.pop();
-                mpp[line]=node->data;
+           
+                mpp[line]=x->data;
             
-            if(node->left){
-                q.push({node->left,line-1});
+            if(x->left){
+                q.push({x->left,line-1});
             }
-            if(node->right){
-                q.push({node->right,line+1});
+            
+            if(x->right){
+                q.push({x->right,line+1});
             }
         }
-        
         for(auto it : mpp){
             ans.push_back(it.second);
         }
