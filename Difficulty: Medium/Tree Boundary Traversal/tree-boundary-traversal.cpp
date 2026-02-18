@@ -16,20 +16,19 @@ class Node {
 
 class Solution {
   public:
-  bool isleaf(Node*root){
-      if(root->left==NULL && root->right==NULL){
-          return true;
-      }
-      else{
-          return false;
-      }
-  }
-    void addl(Node*root ,vector<int>&res){
+    bool isleaf(Node*root){
+        if(root->left==NULL && root->right==NULL){
+            return true;
+        }
+        else{
+            return false;
+        }
+    }
+    void addl(Node*root,vector<int>&ans){
         Node*cur=root->left;
-        
         while(cur){
             if(!isleaf(cur)){
-                res.push_back(cur->data);
+                ans.push_back(cur->data);
             }
             if(cur->left){
                 cur=cur->left;
@@ -39,17 +38,7 @@ class Solution {
             }
         }
     }
-    void addt(Node*root,vector<int>&res){
-        if(root==NULL){
-            return;
-        }
-        if(isleaf(root)){
-            res.push_back(root->data);
-        }
-        addt(root->left,res);
-        addt(root->right,res);
-        }
-    void addr(Node*root,vector<int>&res){
+    void addr(Node*root,vector<int>&ans){
         Node*cur=root->right;
         vector<int>temp;
         while(cur){
@@ -63,16 +52,25 @@ class Solution {
                 cur=cur->left;
             }
         }
-         for(int i=temp.size()-1;i>=0;i--){
-            res.push_back(temp[i]);
+        reverse(temp.begin(),temp.end());
+        for(int i=0;i<temp.size();i++){
+            ans.push_back(temp[i]);
         }
+    }
+    void addt(Node*root,vector<int>&ans){
+        if(root==NULL){
+            return;
+        }
+        if(isleaf(root)){
+            ans.push_back(root->data);
+        }
+        addt(root->left,ans);
+        addt(root->right,ans);
+        
     }
     vector<int> boundaryTraversal(Node *root) {
         // code here
         vector<int>ans;
-        if(root==NULL){
-            return ans;
-        }
         if(!isleaf(root)){
             ans.push_back(root->data);
         }
