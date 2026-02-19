@@ -948,4 +948,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1729-find-followers-count](https://github.com/arpitbuilds/DSA/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/arpitbuilds/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/arpitbuilds/DSA/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/arpitbuilds/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
