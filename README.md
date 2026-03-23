@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/arpitbuilds/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/arpitbuilds/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/arpitbuilds/DSA/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/arpitbuilds/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/arpitbuilds/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/arpitbuilds/DSA/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/arpitbuilds/DSA/tree/master/0290-word-pattern) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/arpitbuilds/DSA/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/arpitbuilds/DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/arpitbuilds/DSA/tree/master/0139-word-break) |
+| [0205-isomorphic-strings](https://github.com/arpitbuilds/DSA/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/arpitbuilds/DSA/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/arpitbuilds/DSA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/arpitbuilds/DSA/tree/master/0344-reverse-string) |
