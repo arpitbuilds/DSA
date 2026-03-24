@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/arpitbuilds/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1370-count-number-of-nice-subarrays](https://github.com/arpitbuilds/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/arpitbuilds/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/arpitbuilds/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arpitbuilds/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/arpitbuilds/DSA/tree/master/2486-most-frequent-even-element) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/arpitbuilds/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/arpitbuilds/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1714-rearrange-spaces-between-words](https://github.com/arpitbuilds/DSA/tree/master/1714-rearrange-spaces-between-words) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/arpitbuilds/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arpitbuilds/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/arpitbuilds/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -813,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/arpitbuilds/DSA/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/arpitbuilds/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/arpitbuilds/DSA/tree/master/1034-subarrays-with-k-different-integers) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/arpitbuilds/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arpitbuilds/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/arpitbuilds/DSA/tree/master/2486-most-frequent-even-element) |
