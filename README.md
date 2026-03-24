@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/arpitbuilds/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/arpitbuilds/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/arpitbuilds/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0704-binary-search](https://github.com/arpitbuilds/DSA/tree/master/0704-binary-search) |
 | [0783-search-in-a-binary-search-tree](https://github.com/arpitbuilds/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/arpitbuilds/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/arpitbuilds/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/arpitbuilds/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/arpitbuilds/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/arpitbuilds/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0704-binary-search](https://github.com/arpitbuilds/DSA/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arpitbuilds/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/arpitbuilds/DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/arpitbuilds/DSA/tree/master/0735-asteroid-collision) |
