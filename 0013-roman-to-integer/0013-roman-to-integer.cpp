@@ -5,8 +5,9 @@ public:
                                         {'L', 50},  {'C', 100}, {'D', 500},
                                         {'M', 1000}};
         int ans = 0;
-        for (int i = 0; i < s.size(); i++) {
-            if (i + 1 < s.size() && mpp[s[i]] < mpp[s[i + 1]]) {
+        int n = s.size();
+        for (int i = 0; i < n; i++) {
+            if (i + 1 < n && mpp[s[i]] < mpp[s[i + 1]]) {
                 ans -= mpp[s[i]];
             } else {
                 ans += mpp[s[i]];
