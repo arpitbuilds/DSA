@@ -1,26 +1,27 @@
 class Solution {
 public:
-    void solve(vector<vector<int>>&ans,vector<int>&ds,vector<int>&nums,vector<int>&freq){
-        if(ds.size()==nums.size()){
-            ans.push_back(ds);
+    void solve(int ind, vector<vector<int>>& ans, vector<int>& v,
+               vector<int>& freq, vector<int>& nums) {
+        if (ind == nums.size()) {
+            ans.push_back(v);
+            return;
         }
-        int n=nums.size();
-        for(int i=0;i<n;i++){
-            if(freq[i]==0){
-                ds.push_back(nums[i]);
-                freq[i]=1;
-                solve(ans,ds,nums,freq);
-                freq[i]=0;
-                ds.pop_back();
+        for (int i = 0; i < nums.size(); i++) {
+            if (freq[i] == 0) {
+                freq[i] = 1;
+                v.push_back(nums[i]);
+                solve(ind + 1, ans, v, freq, nums);
+                v.pop_back();
+                freq[i] = 0;
             }
         }
     }
     vector<vector<int>> permute(vector<int>& nums) {
-        vector<vector<int>>ans;
-        vector<int>ds;
-        int n=nums.size();
-        vector<int>freq(n,0);
-        solve(ans,ds,nums,freq);
+        vector<vector<int>> ans;
+        vector<int> v;
+        int n = nums.size();
+        vector<int> freq(n, 0);
+        solve(0, ans, v, freq, nums);
         return ans;
     }
 };
