@@ -1,24 +1,24 @@
 class Solution {
 public:
-    int trap(vector<int>& height) {
-        int n=height.size();
+    int trap(vector<int>& h) {
         int maxl=INT_MIN;
         int maxr=INT_MIN;
+        int n=h.size();
         int l=0;
         int r=n-1;
-        int water=0;
+        int w=0;
         while(l<r){
-            maxl=max(maxl,height[l]);
-            maxr=max(maxr,height[r]);
-            if(height[l]>height[r]){
-                water=water+abs(maxr-height[r]);
-                r--;
-            }
-            else{
-                water=water+abs(maxl-height[l]);
+            maxl=max(maxl,h[l]);
+            maxr=max(maxr,h[r]);
+            if(h[l]<h[r]){
+                w+=abs(h[l]-maxl);
                 l++;
             }
+            else{
+                w+=abs(h[r]-maxr);
+                r--;
+            }
         }
-        return water;
+        return w;
     }
 };
