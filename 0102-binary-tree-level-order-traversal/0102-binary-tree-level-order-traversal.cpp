@@ -21,7 +21,7 @@ public:
         q.push(root);
         while (!q.empty()) {
             int s = q.size();
-            vector<int> res;
+            vector<int> v;
             for (int i = 0; i < s; i++) {
                 TreeNode* x = q.front();
                 q.pop();
@@ -31,9 +31,9 @@ public:
                 if (x->right) {
                     q.push(x->right);
                 }
-                res.push_back(x->val);
+                v.push_back(x->val);
             }
-            ans.push_back(res);
+            ans.push_back(v);
         }
         return ans;
     }
