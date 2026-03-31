@@ -1,7 +1,7 @@
 class MinStack {
 public:
     stack<pair<int, int>> st;
-    int min;
+    int min=0;
     MinStack() {}
 
     void push(int val) {
