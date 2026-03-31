@@ -16,7 +16,7 @@ public:
             return p == q;
         }
         return (p->val == q->val) && solve(p->left, q->right) &&
-               solve(p->left, q->right);
+               solve(p->right, q->left);
     }
     bool isSymmetric(TreeNode* root) {
         return solve(root,root);
