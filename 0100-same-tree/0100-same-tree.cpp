@@ -19,7 +19,5 @@ public:
         return (p->val == q->val) && check(p->left, q->left) &&
                check(p->right, q->right);
     }
-    bool isSameTree(TreeNode* p, TreeNode* q) {
-        return check(p,q);
-    }
+    bool isSameTree(TreeNode* p, TreeNode* q) { return check(p, q); }
 };
