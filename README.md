@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/arpitbuilds/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/arpitbuilds/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arpitbuilds/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/arpitbuilds/DSA/tree/master/0035-search-insert-position) |
 | [0096-unique-binary-search-trees](https://github.com/arpitbuilds/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/arpitbuilds/DSA/tree/master/0098-validate-binary-search-tree) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/arpitbuilds/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/arpitbuilds/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/arpitbuilds/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arpitbuilds/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/arpitbuilds/DSA/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/arpitbuilds/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/arpitbuilds/DSA/tree/master/0039-combination-sum) |
