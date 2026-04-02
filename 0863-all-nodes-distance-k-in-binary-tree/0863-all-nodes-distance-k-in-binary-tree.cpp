@@ -30,28 +30,30 @@ public:
         }
         q.push(target);
         unordered_map<int, int> vis;
+        vis[target->val] = 1;
         while (!q.empty() && k--) {
             int s = q.size();
             for (int i = 0; i < s; i++) {
                 TreeNode* x = q.front();
                 q.pop();
-                vis[x->val] = 1;
                 if (x->left && !vis[x->left->val]) {
                     q.push(x->left);
+                    vis[x->left->val]=1;
                 }
-                if (x->right && !vis[x->right->val]) {
+                if(x->right && !vis[x->right->val]){
                     q.push(x->right);
+                    vis[x->right->val]=1;
                 }
-                if (mpp[x->val] && !vis[mpp[x->val]->val]) {
+                if(mpp[x->val] && !vis[mpp[x->val]->val]){
                     q.push(mpp[x->val]);
+                    vis[mpp[x->val]->val]=1;
                 }
             }
         }
-        vector<int> ans;
-        while (!q.empty()) {
-            TreeNode* x = q.front();
+        vector<int>ans;
+        while(!q.empty()){
+            ans.push_back(q.front()->val);
             q.pop();
-            ans.push_back(x->val);
         }
         return ans;
     }
