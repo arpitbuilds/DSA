@@ -11,12 +11,12 @@
 class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
-        if(head==NULL){
+        if(head==NULL || head->next==NULL){
             return head;
         }
-        ListNode*even=head->next;
-        ListNode*odd=head;
         ListNode*evenh=head->next;
+        ListNode*odd=head;
+        ListNode*even=head->next;
         while(odd && even && odd->next && even->next){
             odd->next=even->next;
             odd=odd->next;
