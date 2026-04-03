@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/arpitbuilds/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/arpitbuilds/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arpitbuilds/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/arpitbuilds/DSA/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/arpitbuilds/DSA/tree/master/2486-most-frequent-even-element) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/arpitbuilds/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1714-rearrange-spaces-between-words](https://github.com/arpitbuilds/DSA/tree/master/1714-rearrange-spaces-between-words) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/arpitbuilds/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arpitbuilds/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/arpitbuilds/DSA/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2000-reverse-prefix-of-word](https://github.com/arpitbuilds/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/arpitbuilds/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -874,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/arpitbuilds/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/arpitbuilds/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arpitbuilds/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/arpitbuilds/DSA/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/arpitbuilds/DSA/tree/master/2486-most-frequent-even-element) |
 | [3713-longest-balanced-substring-i](https://github.com/arpitbuilds/DSA/tree/master/3713-longest-balanced-substring-i) |
