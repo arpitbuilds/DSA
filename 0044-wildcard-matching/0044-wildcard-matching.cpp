@@ -1,35 +1,36 @@
 class Solution {
 public:
-    bool solve(int m, int n, string &s, string &p,vector<vector<int>>&dp) {
-        if (m < 0 && n < 0) {
+    bool solve(int i, int j, string &s, string &p, vector<vector<int>>& dp) {
+        if (i <0 && j < 0) {
             return true;
         }
-        if (m >= 0 && n < 0) {
+        if (i >= 0 && j < 0) {
             return false;
         }
-        if (m < 0 && n >= 0) {
-            for (int k = 0; k <= n; k++) {
+        if (i < 0 && j >= 0) {
+            for (int k = j; k >= 0; k--) {
                 if (p[k] != '*') {
                     return false;
                 }
             }
             return true;
         }
-        if(dp[m][n]!=-1){
-            return dp[m][n];
+        if(dp[i][j]!=-1){
+            return dp[i][j];
         }
-        if (p[n] == '?' || s[m] == p[n]) {
-            return  dp[m][n]=solve(m - 1, n - 1, s, p,dp);
+        if (s[i] == p[j] || p[j]=='?') {
+            return dp[i][j]=solve(i - 1, j - 1, s, p, dp);
         }
-        if (p[n] == '*') {
-            return dp[m][n]=solve(m - 1, n, s, p,dp) || solve(m, n - 1, s, p,dp);
+        else if(p[j]=='*'){
+           return dp[i][j]=solve(i-1,j,s,p,dp) || solve(i,j-1,s,p,dp);
         }
-        return dp[m][n]=false;
+        return dp[i][j]=false;
+
     }
     bool isMatch(string s, string p) {
         int m = s.size();
         int n = p.size();
-        vector<vector<int>>dp(m,vector<int>(n,-1));
-        return solve(m - 1, n - 1, s, p,dp);
+        vector<vector<int>> dp(m, vector<int>(n, -1));
+        return solve(m - 1, n - 1, s, p, dp);
     }
 };
