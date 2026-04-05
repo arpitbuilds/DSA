@@ -7,7 +7,7 @@ public:
         if (n == 0) {
             return 1;
         }
-        if (dp[n] != -1) {
+         if (dp[n] != -1) {
             return dp[n];
         }
         int op1 = solve(n - 1, dp);
@@ -15,7 +15,7 @@ public:
         return dp[n] = op1 + op2;
     }
     int climbStairs(int n) {
-        vector<int> dp(n + 1, -1);
-        return solve(n,dp);
+        vector<int> dp(n+1,-1);
+        return solve(n, dp);
     }
 };
