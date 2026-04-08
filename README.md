@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0542-01-matrix](https://github.com/arpitbuilds/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/arpitbuilds/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0566-reshape-the-matrix](https://github.com/arpitbuilds/DSA/tree/master/0566-reshape-the-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/arpitbuilds/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/arpitbuilds/DSA/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arpitbuilds/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -941,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/arpitbuilds/DSA/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/arpitbuilds/DSA/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/arpitbuilds/DSA/tree/master/0542-01-matrix) |
+| [0566-reshape-the-matrix](https://github.com/arpitbuilds/DSA/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/arpitbuilds/DSA/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/arpitbuilds/DSA/tree/master/0867-transpose-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/arpitbuilds/DSA/tree/master/0967-minimum-falling-path-sum) |
@@ -967,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/arpitbuilds/DSA/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/arpitbuilds/DSA/tree/master/0498-diagonal-traverse) |
+| [0566-reshape-the-matrix](https://github.com/arpitbuilds/DSA/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/arpitbuilds/DSA/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/arpitbuilds/DSA/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/arpitbuilds/DSA/tree/master/0867-transpose-matrix) |
