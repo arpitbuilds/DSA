@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/arpitbuilds/DSA/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/arpitbuilds/DSA/tree/master/0792-binary-search) |
 | [0860-lemonade-change](https://github.com/arpitbuilds/DSA/tree/master/0860-lemonade-change) |
+| [0867-transpose-matrix](https://github.com/arpitbuilds/DSA/tree/master/0867-transpose-matrix) |
 | [0875-longest-mountain-in-array](https://github.com/arpitbuilds/DSA/tree/master/0875-longest-mountain-in-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/arpitbuilds/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/arpitbuilds/DSA/tree/master/0912-sort-an-array) |
@@ -939,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/arpitbuilds/DSA/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/arpitbuilds/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/arpitbuilds/DSA/tree/master/0733-flood-fill) |
+| [0867-transpose-matrix](https://github.com/arpitbuilds/DSA/tree/master/0867-transpose-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/arpitbuilds/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/arpitbuilds/DSA/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/arpitbuilds/DSA/tree/master/1036-rotting-oranges) |
@@ -964,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/arpitbuilds/DSA/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/arpitbuilds/DSA/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/arpitbuilds/DSA/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/arpitbuilds/DSA/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/arpitbuilds/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arpitbuilds/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arpitbuilds/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
