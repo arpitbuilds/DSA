@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/arpitbuilds/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/arpitbuilds/DSA/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/arpitbuilds/DSA/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/arpitbuilds/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1306-jump-game-iii](https://github.com/arpitbuilds/DSA/tree/master/1306-jump-game-iii) |
 | [1329-sort-the-matrix-diagonally](https://github.com/arpitbuilds/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1370-count-number-of-nice-subarrays](https://github.com/arpitbuilds/DSA/tree/master/1370-count-number-of-nice-subarrays) |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/arpitbuilds/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/arpitbuilds/DSA/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/arpitbuilds/DSA/tree/master/1250-longest-common-subsequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/arpitbuilds/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/arpitbuilds/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/arpitbuilds/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/arpitbuilds/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -945,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/arpitbuilds/DSA/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/arpitbuilds/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/arpitbuilds/DSA/tree/master/1073-number-of-enclaves) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/arpitbuilds/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1329-sort-the-matrix-diagonally](https://github.com/arpitbuilds/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [2573-find-the-string-with-lcp](https://github.com/arpitbuilds/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/arpitbuilds/DSA/tree/master/2906-construct-product-matrix) |
