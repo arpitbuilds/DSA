@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/arpitbuilds/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3194-find-words-containing-character](https://github.com/arpitbuilds/DSA/tree/master/3194-find-words-containing-character) |
 | [3429-special-array-i](https://github.com/arpitbuilds/DSA/tree/master/3429-special-array-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/arpitbuilds/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3713-longest-balanced-substring-i](https://github.com/arpitbuilds/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/arpitbuilds/DSA/tree/master/3714-longest-balanced-substring-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/arpitbuilds/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/arpitbuilds/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
