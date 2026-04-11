@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/arpitbuilds/DSA/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/arpitbuilds/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/arpitbuilds/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/arpitbuilds/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/arpitbuilds/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/arpitbuilds/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/arpitbuilds/DSA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/arpitbuilds/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/arpitbuilds/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/arpitbuilds/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/arpitbuilds/DSA/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/arpitbuilds/DSA/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/arpitbuilds/DSA/tree/master/0415-add-strings) |
@@ -913,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/arpitbuilds/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/arpitbuilds/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/arpitbuilds/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/arpitbuilds/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/arpitbuilds/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/arpitbuilds/DSA/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1034-subarrays-with-k-different-integers](https://github.com/arpitbuilds/DSA/tree/master/1034-subarrays-with-k-different-integers) |
@@ -1048,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/arpitbuilds/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/arpitbuilds/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/arpitbuilds/DSA/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/arpitbuilds/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Topological Sort
 |  |
 | ------- |
