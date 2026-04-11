@@ -527,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/arpitbuilds/DSA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/arpitbuilds/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/arpitbuilds/DSA/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/arpitbuilds/DSA/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/arpitbuilds/DSA/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/arpitbuilds/DSA/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/arpitbuilds/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/arpitbuilds/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/arpitbuilds/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/arpitbuilds/DSA/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/arpitbuilds/DSA/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/arpitbuilds/DSA/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/arpitbuilds/DSA/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -697,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/arpitbuilds/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/arpitbuilds/DSA/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/arpitbuilds/DSA/tree/master/0368-largest-divisible-subset) |
+| [0392-is-subsequence](https://github.com/arpitbuilds/DSA/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/arpitbuilds/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/arpitbuilds/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/arpitbuilds/DSA/tree/master/0494-target-sum) |
