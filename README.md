@@ -483,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/arpitbuilds/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/arpitbuilds/DSA/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/arpitbuilds/DSA/tree/master/0368-largest-divisible-subset) |
+| [0415-add-strings](https://github.com/arpitbuilds/DSA/tree/master/0415-add-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/arpitbuilds/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/arpitbuilds/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/arpitbuilds/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/arpitbuilds/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/arpitbuilds/DSA/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/arpitbuilds/DSA/tree/master/0402-remove-k-digits) |
+| [0415-add-strings](https://github.com/arpitbuilds/DSA/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/arpitbuilds/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/arpitbuilds/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/arpitbuilds/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -973,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/arpitbuilds/DSA/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/arpitbuilds/DSA/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/arpitbuilds/DSA/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/arpitbuilds/DSA/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/arpitbuilds/DSA/tree/master/0657-robot-return-to-origin) |
