@@ -545,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/arpitbuilds/DSA/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/arpitbuilds/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/arpitbuilds/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0686-repeated-string-match](https://github.com/arpitbuilds/DSA/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/arpitbuilds/DSA/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/arpitbuilds/DSA/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/arpitbuilds/DSA/tree/master/0796-rotate-string) |
@@ -1006,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arpitbuilds/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/arpitbuilds/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0686-repeated-string-match](https://github.com/arpitbuilds/DSA/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/arpitbuilds/DSA/tree/master/0796-rotate-string) |
 ## Greedy
 |  |
