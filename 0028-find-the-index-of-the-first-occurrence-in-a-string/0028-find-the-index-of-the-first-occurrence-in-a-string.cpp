@@ -1,9 +1,7 @@
 class Solution {
 public:
-    int strStr(string s1, string s2) {
-        if(s1.find(s2)!=string::npos){
-         return s1.find(s2);
-        }
-        return -1;
+    int strStr(string haystack, string needle) {
+        int ans=haystack.find(needle);
+        return ans;
     }
 };
