@@ -1,15 +1,15 @@
 class Solution {
 public:
     int findPairs(vector<int>& nums, int k) {
-         int cnt=0;
-         if(k<0){
+        if(k<0){
             return 0;
-         }
-         unordered_map<int,int>mpp;
-         for(auto it : nums){
+        }
+        int cnt=0;
+        unordered_map<int,int>mpp;
+        for(auto it : nums){
             mpp[it]++;
-         }
-         for(auto it : mpp){
+        }
+        for(auto it : mpp){
             int x=it.first;
             if(k==0){
                 if(it.second>1){
@@ -17,11 +17,11 @@ public:
                 }
             }
             else{
-            if(mpp.find(x+k)!=mpp.end()){
-                cnt++;
+                if(mpp.find(x+k)!=mpp.end()){
+                    cnt++;
+                }
             }
-            }
-         }
-         return cnt;
+        }
+        return cnt;
     }
 };
