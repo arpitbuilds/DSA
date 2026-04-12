@@ -574,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/arpitbuilds/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/arpitbuilds/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/arpitbuilds/DSA/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/arpitbuilds/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2573-find-the-string-with-lcp](https://github.com/arpitbuilds/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/arpitbuilds/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -738,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/arpitbuilds/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/arpitbuilds/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/arpitbuilds/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/arpitbuilds/DSA/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2573-find-the-string-with-lcp](https://github.com/arpitbuilds/DSA/tree/master/2573-find-the-string-with-lcp) |
 ## Enumeration
 |  |
@@ -1010,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/arpitbuilds/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arpitbuilds/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arpitbuilds/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/arpitbuilds/DSA/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/arpitbuilds/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/arpitbuilds/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3174-clear-digits](https://github.com/arpitbuilds/DSA/tree/master/3174-clear-digits) |
