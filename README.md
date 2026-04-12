@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/arpitbuilds/DSA/tree/master/3194-find-words-containing-character) |
 | [3429-special-array-i](https://github.com/arpitbuilds/DSA/tree/master/3429-special-array-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/arpitbuilds/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3834-merge-adjacent-equal-elements](https://github.com/arpitbuilds/DSA/tree/master/3834-merge-adjacent-equal-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -668,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-remove-nodes-from-linked-list](https://github.com/arpitbuilds/DSA/tree/master/2573-remove-nodes-from-linked-list) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/arpitbuilds/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/arpitbuilds/DSA/tree/master/3174-clear-digits) |
+| [3834-merge-adjacent-equal-elements](https://github.com/arpitbuilds/DSA/tree/master/3834-merge-adjacent-equal-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1024,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/arpitbuilds/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/arpitbuilds/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3174-clear-digits](https://github.com/arpitbuilds/DSA/tree/master/3174-clear-digits) |
+| [3834-merge-adjacent-equal-elements](https://github.com/arpitbuilds/DSA/tree/master/3834-merge-adjacent-equal-elements) |
 ## String Matching
 |  |
 | ------- |
