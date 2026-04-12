@@ -1,19 +1,37 @@
 class Solution {
 public:
-    int countCompleteSubarrays(vector<int>& nums) {
+    int atMostK(vector<int>& nums, int k) {
+        unordered_map<int, int> freq;
+        int left = 0, right = 0;
+        int ans = 0;
         int n = nums.size();
-        int cnt = 0;
-        unordered_set<int> st(nums.begin(), nums.end());
-        int dis = st.size();
-        for (int i = 0; i < n; i++) {
-            unordered_set<int> st2;
-            for (int j = i; j < n; j++) {
-                st2.insert(nums[j]);
-                if (st.size() == st2.size()) {
-                    cnt++;
+
+        while (right < n) {
+            // expand window
+            freq[nums[right]]++;
+
+            // shrink if invalid
+            while (freq.size() > k) {
+                freq[nums[left]]--;
+                if (freq[nums[left]] == 0) {
+                    freq.erase(nums[left]);
                 }
+                left++;
             }
+
+            // count subarrays ending at right
+            ans += (right - left + 1);
+
+            right++;
         }
-        return cnt;
+
+        return ans;
+    }
+
+    int countCompleteSubarrays(vector<int>& nums) {
+        unordered_set<int> st(nums.begin(), nums.end());
+        int K = st.size();
+
+        return atMostK(nums, K) - atMostK(nums, K - 1);
     }
 };
