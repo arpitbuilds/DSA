@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/arpitbuilds/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/arpitbuilds/DSA/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/arpitbuilds/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/arpitbuilds/DSA/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/arpitbuilds/DSA/tree/master/0368-largest-divisible-subset) |
 | [0415-add-strings](https://github.com/arpitbuilds/DSA/tree/master/0415-add-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/arpitbuilds/DSA/tree/master/1370-count-number-of-nice-subarrays) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/arpitbuilds/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/arpitbuilds/DSA/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/arpitbuilds/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/arpitbuilds/DSA/tree/master/0342-power-of-four) |
 | [2573-remove-nodes-from-linked-list](https://github.com/arpitbuilds/DSA/tree/master/2573-remove-nodes-from-linked-list) |
 ## String
 |  |
@@ -877,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/arpitbuilds/DSA/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/arpitbuilds/DSA/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/arpitbuilds/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0342-power-of-four](https://github.com/arpitbuilds/DSA/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/arpitbuilds/DSA/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/arpitbuilds/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0800-letter-case-permutation](https://github.com/arpitbuilds/DSA/tree/master/0800-letter-case-permutation) |
