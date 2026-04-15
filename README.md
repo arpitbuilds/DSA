@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/arpitbuilds/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/arpitbuilds/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/arpitbuilds/DSA/tree/master/0202-happy-number) |
+| [0326-power-of-three](https://github.com/arpitbuilds/DSA/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/arpitbuilds/DSA/tree/master/0368-largest-divisible-subset) |
 | [0415-add-strings](https://github.com/arpitbuilds/DSA/tree/master/0415-add-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/arpitbuilds/DSA/tree/master/1370-count-number-of-nice-subarrays) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/arpitbuilds/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/arpitbuilds/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/arpitbuilds/DSA/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/arpitbuilds/DSA/tree/master/0326-power-of-three) |
 | [2573-remove-nodes-from-linked-list](https://github.com/arpitbuilds/DSA/tree/master/2573-remove-nodes-from-linked-list) |
 ## String
 |  |
