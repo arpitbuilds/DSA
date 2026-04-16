@@ -7,7 +7,7 @@ public:
         int maxi=*max_element(d.begin(),d.end());
         int maxii=2*maxi;
         unordered_map<int,int>mpp;
-        for(auto x : d){
+        for(int x : d){
             for(int sum=1;sum<=maxii;sum<<=1){
                 int target=sum-x;
                 if(mpp.find(target)!=mpp.end()){
