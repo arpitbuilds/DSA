@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/arpitbuilds/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/arpitbuilds/DSA/tree/master/1512-number-of-good-pairs) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/arpitbuilds/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1695-maximum-erasure-value](https://github.com/arpitbuilds/DSA/tree/master/1695-maximum-erasure-value) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/arpitbuilds/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arpitbuilds/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/arpitbuilds/DSA/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/arpitbuilds/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/arpitbuilds/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/arpitbuilds/DSA/tree/master/1512-number-of-good-pairs) |
+| [1695-maximum-erasure-value](https://github.com/arpitbuilds/DSA/tree/master/1695-maximum-erasure-value) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/arpitbuilds/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arpitbuilds/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/arpitbuilds/DSA/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/arpitbuilds/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/arpitbuilds/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/arpitbuilds/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1695-maximum-erasure-value](https://github.com/arpitbuilds/DSA/tree/master/1695-maximum-erasure-value) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/arpitbuilds/DSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/arpitbuilds/DSA/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
