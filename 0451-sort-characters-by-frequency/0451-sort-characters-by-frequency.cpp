@@ -1,20 +1,20 @@
 class Solution {
 public:
-   static bool compare(pair<char,int>&a,pair<char,int>&b){
-        return a.second>b.second;
-    }
     string frequencySort(string s) {
         unordered_map<char,int>mpp;
-        for(auto ch : s){
-            mpp[ch]++;
+        for(auto it : s){
+            mpp[it]++;
         }
-        vector<pair<char,int>>v(mpp.begin(),mpp.end());
-        sort(v.begin(),v.end(),compare);
-        string res="";
-        for(auto p : v){
-            res.append(p.second,p.first);
+        priority_queue<pair<int,char>>pq;
+        for(auto it : mpp){
+            pq.push({it.second,it.first});
         }
-        return res;
-
+        string ans;
+        while(!pq.empty()){
+            auto [a,b]=pq.top();
+            pq.pop();
+            ans=ans+string(a,b);
+        }
+        return ans;
     }
 };
