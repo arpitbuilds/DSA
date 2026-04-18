@@ -1,36 +1,26 @@
 class Solution {
 public:
-    bool wordPattern(string pattern, string s) {
-        vector<string> words;
-        string word;
-        for (int i = 0; i <= s.length(); i++) {
-            if (s[i] == ' ' || i == s.length()) {
-                if (!word.empty()) {
-                    words.push_back(word);
-                    word.clear();
-                }
-            } else {
-                word += s[i];
+    bool wordPattern(string p, string s) {
+        stringstream ss(s);
+        string x;
+        vector<string> word;
+        while (ss >> x) {
+            word.push_back(x);
+        }
+        unordered_map<char, string> cs;
+        unordered_map<string, char> sc;
+        for (int i = 0; i < p.size(); i++) {
+            char ch = p[i];
+            string w = word[i];
+            if (cs.count(ch) && cs[ch] != w) {
+                return false;
             }
-        }
-        if (pattern.length() != words.size()) {
-            return false;
-        }
-        unordered_map<char, string> c2w;
-        unordered_map<string, char> w2c;
-        for (int i = 0; i < pattern.length(); i++) {
-            char c = pattern[i];
-            string w = words[i];
-
-            if (c2w.count(c) && c2w[c] != w)
+            if (sc.count(w) && sc[w] != ch) {
                 return false;
-            if (w2c.count(w) && w2c[w] != c)
-                return false;
-
-            c2w[c] = w;
-            w2c[w] = c;
+            }
+            cs[ch] = w;
+            sc[w] = ch;
         }
-
         return true;
     }
 };
