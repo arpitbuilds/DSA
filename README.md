@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/arpitbuilds/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/arpitbuilds/DSA/tree/master/1929-concatenation-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arpitbuilds/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/arpitbuilds/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/arpitbuilds/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/arpitbuilds/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-watering-plants](https://github.com/arpitbuilds/DSA/tree/master/2079-watering-plants) |
