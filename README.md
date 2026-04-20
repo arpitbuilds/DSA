@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/arpitbuilds/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/arpitbuilds/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/arpitbuilds/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/arpitbuilds/DSA/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/arpitbuilds/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/arpitbuilds/DSA/tree/master/3194-find-words-containing-character) |
 | [3429-special-array-i](https://github.com/arpitbuilds/DSA/tree/master/3429-special-array-i) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/arpitbuilds/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/arpitbuilds/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/arpitbuilds/DSA/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3488-closest-equal-element-queries](https://github.com/arpitbuilds/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3713-longest-balanced-substring-i](https://github.com/arpitbuilds/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/arpitbuilds/DSA/tree/master/3714-longest-balanced-substring-ii) |
@@ -1031,6 +1033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/arpitbuilds/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/arpitbuilds/DSA/tree/master/2486-most-frequent-even-element) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/arpitbuilds/DSA/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/arpitbuilds/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/arpitbuilds/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Union Find
