@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/arpitbuilds/DSA/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/arpitbuilds/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/arpitbuilds/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/arpitbuilds/DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Array
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/arpitbuilds/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/arpitbuilds/DSA/tree/master/1512-number-of-good-pairs) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/arpitbuilds/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/arpitbuilds/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/arpitbuilds/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/arpitbuilds/DSA/tree/master/1695-maximum-erasure-value) |
 | [1711-count-good-meals](https://github.com/arpitbuilds/DSA/tree/master/1711-count-good-meals) |
@@ -900,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/arpitbuilds/DSA/tree/master/1306-jump-game-iii) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/arpitbuilds/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1731-even-odd-tree](https://github.com/arpitbuilds/DSA/tree/master/1731-even-odd-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Memoization
@@ -1114,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/arpitbuilds/DSA/tree/master/1073-number-of-enclaves) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/arpitbuilds/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1329-sort-the-matrix-diagonally](https://github.com/arpitbuilds/DSA/tree/master/1329-sort-the-matrix-diagonally) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/arpitbuilds/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/arpitbuilds/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/arpitbuilds/DSA/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/arpitbuilds/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -1273,6 +1277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/arpitbuilds/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/arpitbuilds/DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/arpitbuilds/DSA/tree/master/0785-is-graph-bipartite) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/arpitbuilds/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/arpitbuilds/DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/arpitbuilds/DSA/tree/master/2573-find-the-string-with-lcp) |
 ## Graph Theory
