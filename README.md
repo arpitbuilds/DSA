@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/arpitbuilds/DSA/tree/master/0566-reshape-the-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/arpitbuilds/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/arpitbuilds/DSA/tree/master/0692-top-k-frequent-words) |
+| [0697-degree-of-an-array](https://github.com/arpitbuilds/DSA/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/arpitbuilds/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/arpitbuilds/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arpitbuilds/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/arpitbuilds/DSA/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/arpitbuilds/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/arpitbuilds/DSA/tree/master/0692-top-k-frequent-words) |
+| [0697-degree-of-an-array](https://github.com/arpitbuilds/DSA/tree/master/0697-degree-of-an-array) |
 | [0819-most-common-word](https://github.com/arpitbuilds/DSA/tree/master/0819-most-common-word) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/arpitbuilds/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
