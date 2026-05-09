@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/arpitbuilds/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arpitbuilds/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/arpitbuilds/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2227-sum-of-subarray-ranges](https://github.com/arpitbuilds/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/arpitbuilds/DSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arpitbuilds/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -684,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/arpitbuilds/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/arpitbuilds/DSA/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/arpitbuilds/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/arpitbuilds/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/arpitbuilds/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/arpitbuilds/DSA/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
@@ -1184,6 +1186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/arpitbuilds/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/arpitbuilds/DSA/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/arpitbuilds/DSA/tree/master/0796-rotate-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/arpitbuilds/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Greedy
 |  |
 | ------- |
