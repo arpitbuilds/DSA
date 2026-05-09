@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/arpitbuilds/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/arpitbuilds/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/arpitbuilds/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/arpitbuilds/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1914-cyclically-rotating-a-grid](https://github.com/arpitbuilds/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/arpitbuilds/DSA/tree/master/1929-concatenation-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arpitbuilds/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -974,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1451-rearrange-words-in-a-sentence](https://github.com/arpitbuilds/DSA/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/arpitbuilds/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/arpitbuilds/DSA/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/arpitbuilds/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/arpitbuilds/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/arpitbuilds/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2463-minimum-total-distance-traveled](https://github.com/arpitbuilds/DSA/tree/master/2463-minimum-total-distance-traveled) |
