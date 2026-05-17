@@ -1,31 +1,49 @@
 class Solution {
 public:
     vector<int> findAnagrams(string s, string p) {
-        int n=s.size();
-        int k=p.size();
-        vector<int>res;
-        map<char,int>mpp1;
-        map<char,int>mpp2;
-        for(auto it : p){
-            mpp2[it]++;
+
+        unordered_map<char,int> mpp1;
+        unordered_map<char,int> mpp2;
+
+        vector<int> ans;
+
+        int m = s.size();
+        int n = p.size();
+
+        if(n > m){
+            return ans;
         }
-       
-       for(int i=0;i<k;i++){
-        mpp1[s[i]]++;
-       }
-       if(mpp1==mpp2){
-          res.push_back(0);
-       }
-       for(int i=k;i<n;i++){
-          mpp1[s[i]]++;
-          mpp1[s[i-k]]--;
-          if(mpp1[s[i-k]]==0){
-            mpp1.erase(s[i-k]);
-          }
-          if(mpp1==mpp2){
-            res.push_back(i-k+1);
-          }
-       }
-       return res;
+
+        // frequency of p
+        for(auto it : p){
+            mpp1[it]++;
+        }
+
+        // first window in s
+        for(int i=0; i<n; i++){
+            mpp2[s[i]]++;
+        }
+
+        if(mpp1 == mpp2){
+            ans.push_back(0);
+        }
+
+        // sliding window
+        for(int i=n; i<m; i++){
+
+            mpp2[s[i]]++;
+
+            mpp2[s[i-n]]--;
+
+            if(mpp2[s[i-n]] == 0){
+                mpp2.erase(s[i-n]);
+            }
+
+            if(mpp1 == mpp2){
+                ans.push_back(i - n + 1);
+            }
+        }
+
+        return ans;
     }
 };
