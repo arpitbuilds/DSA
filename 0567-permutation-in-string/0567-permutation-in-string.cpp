@@ -1,13 +1,13 @@
 class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
+        unordered_map<char,int>mpp1;
+        unordered_map<char,int>mpp2;
         int m=s1.size();
         int n=s2.size();
         if(m>n){
             return false;
         }
-        unordered_map<char,int>mpp1;
-        unordered_map<char,int>mpp2;
         for(auto it : s1){
             mpp1[it]++;
         }
