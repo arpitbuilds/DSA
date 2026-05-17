@@ -1,23 +1,23 @@
 class Solution {
 public:
     int maxOperations(vector<int>& nums, int k) {
-        sort(nums.begin(),nums.end());
-        int ans=0;
-        int i=0;
         int n=nums.size();
-        int j=n-1;
-        while(i<j){
-            int sum=nums[i]+nums[j];
+        int ans=0;
+        sort(nums.begin(),nums.end());
+        int l=0;
+        int r=n-1;
+        while(l<r){
+            int sum=nums[l]+nums[r];
             if(sum==k){
-                i++;
-                j--;
                 ans++;
+                l++;
+                r--;
             }
             else if(sum<k){
-                i++;
+                l++;
             }
             else{
-                j--;
+                r--;
             }
         }
         return ans;
