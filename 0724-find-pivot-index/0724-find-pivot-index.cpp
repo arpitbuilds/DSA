@@ -9,10 +9,12 @@ public:
         }
         for (int i = 0; i < n; i++) {
             rsum -= nums[i];
+           
             if (lsum == rsum) {
                 return i;
             }
-            lsum += nums[i];
+              lsum += nums[i];
+           
         }
         return -1;
     }
