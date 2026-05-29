@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/arpitbuilds/DSA/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/arpitbuilds/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/arpitbuilds/DSA/tree/master/3194-find-words-containing-character) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/arpitbuilds/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3429-special-array-i](https://github.com/arpitbuilds/DSA/tree/master/3429-special-array-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/arpitbuilds/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/arpitbuilds/DSA/tree/master/3488-closest-equal-element-queries) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/arpitbuilds/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3101-count-alternating-subarrays](https://github.com/arpitbuilds/DSA/tree/master/3101-count-alternating-subarrays) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/arpitbuilds/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/arpitbuilds/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/arpitbuilds/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3618-split-array-by-prime-indices](https://github.com/arpitbuilds/DSA/tree/master/3618-split-array-by-prime-indices) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/arpitbuilds/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
