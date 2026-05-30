@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/arpitbuilds/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/arpitbuilds/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/arpitbuilds/DSA/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2227-sum-of-subarray-ranges](https://github.com/arpitbuilds/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/arpitbuilds/DSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2270-number-of-ways-to-split-array](https://github.com/arpitbuilds/DSA/tree/master/2270-number-of-ways-to-split-array) |
@@ -829,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/arpitbuilds/DSA/tree/master/1544-make-the-string-great) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/arpitbuilds/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/arpitbuilds/DSA/tree/master/2000-reverse-prefix-of-word) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/arpitbuilds/DSA/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2227-sum-of-subarray-ranges](https://github.com/arpitbuilds/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/arpitbuilds/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/arpitbuilds/DSA/tree/master/2573-remove-nodes-from-linked-list) |
@@ -1276,6 +1278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/arpitbuilds/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/arpitbuilds/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/arpitbuilds/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/arpitbuilds/DSA/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/arpitbuilds/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/arpitbuilds/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2573-find-the-string-with-lcp](https://github.com/arpitbuilds/DSA/tree/master/2573-find-the-string-with-lcp) |
