@@ -509,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/arpitbuilds/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/arpitbuilds/DSA/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/arpitbuilds/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/arpitbuilds/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/arpitbuilds/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/arpitbuilds/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/arpitbuilds/DSA/tree/master/1695-maximum-erasure-value) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/arpitbuilds/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/arpitbuilds/DSA/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1544-make-the-string-great](https://github.com/arpitbuilds/DSA/tree/master/1544-make-the-string-great) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/arpitbuilds/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/arpitbuilds/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1714-rearrange-spaces-between-words](https://github.com/arpitbuilds/DSA/tree/master/1714-rearrange-spaces-between-words) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/arpitbuilds/DSA/tree/master/1759-count-number-of-homogenous-substrings) |
@@ -1029,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-diagonal-traverse-ii](https://github.com/arpitbuilds/DSA/tree/master/1424-diagonal-traverse-ii) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/arpitbuilds/DSA/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/arpitbuilds/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/arpitbuilds/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/arpitbuilds/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/arpitbuilds/DSA/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/arpitbuilds/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -1266,6 +1269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/arpitbuilds/DSA/tree/master/0942-di-string-match) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/arpitbuilds/DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1382-balance-a-binary-search-tree](https://github.com/arpitbuilds/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/arpitbuilds/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/arpitbuilds/DSA/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/arpitbuilds/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/arpitbuilds/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
