@@ -684,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/arpitbuilds/DSA/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/arpitbuilds/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/arpitbuilds/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/arpitbuilds/DSA/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/arpitbuilds/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/arpitbuilds/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/arpitbuilds/DSA/tree/master/0567-permutation-in-string) |
@@ -779,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/arpitbuilds/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/arpitbuilds/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/arpitbuilds/DSA/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/arpitbuilds/DSA/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/arpitbuilds/DSA/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/arpitbuilds/DSA/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
