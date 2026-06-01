@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/arpitbuilds/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-watering-plants](https://github.com/arpitbuilds/DSA/tree/master/2079-watering-plants) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/arpitbuilds/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/arpitbuilds/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arpitbuilds/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/arpitbuilds/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -1048,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/arpitbuilds/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/arpitbuilds/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/arpitbuilds/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/arpitbuilds/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2418-sort-the-people](https://github.com/arpitbuilds/DSA/tree/master/2418-sort-the-people) |
 | [2463-minimum-total-distance-traveled](https://github.com/arpitbuilds/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/arpitbuilds/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -1292,6 +1294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/arpitbuilds/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/arpitbuilds/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/arpitbuilds/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/arpitbuilds/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/arpitbuilds/DSA/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/arpitbuilds/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/arpitbuilds/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
