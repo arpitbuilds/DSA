@@ -9,11 +9,11 @@ public:
                 cnt++;
             }
             else{
-                maxi=max(maxi,cnt);
                 cnt=0;
             }
+               maxi=max(maxi,cnt);
         }
-         maxi=max(maxi,cnt);
+      
         return maxi;
     }
 };
