@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/arpitbuilds/DSA/tree/master/0874-walking-robot-simulation) |
 | [0875-longest-mountain-in-array](https://github.com/arpitbuilds/DSA/tree/master/0875-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/arpitbuilds/DSA/tree/master/0881-boats-to-save-people) |
+| [0896-monotonic-array](https://github.com/arpitbuilds/DSA/tree/master/0896-monotonic-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/arpitbuilds/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/arpitbuilds/DSA/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/arpitbuilds/DSA/tree/master/0930-binary-subarrays-with-sum) |
