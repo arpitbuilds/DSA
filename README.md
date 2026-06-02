@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/arpitbuilds/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/arpitbuilds/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/arpitbuilds/DSA/tree/master/0566-reshape-the-matrix) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/arpitbuilds/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/arpitbuilds/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/arpitbuilds/DSA/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/arpitbuilds/DSA/tree/master/0697-degree-of-an-array) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/arpitbuilds/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/arpitbuilds/DSA/tree/master/0567-permutation-in-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/arpitbuilds/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/arpitbuilds/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/arpitbuilds/DSA/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/arpitbuilds/DSA/tree/master/0697-degree-of-an-array) |
@@ -707,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/arpitbuilds/DSA/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0567-permutation-in-string](https://github.com/arpitbuilds/DSA/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/arpitbuilds/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/arpitbuilds/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/arpitbuilds/DSA/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/arpitbuilds/DSA/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/arpitbuilds/DSA/tree/master/0678-valid-parenthesis-string) |
