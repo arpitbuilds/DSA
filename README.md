@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/arpitbuilds/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/arpitbuilds/DSA/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2227-sum-of-subarray-ranges](https://github.com/arpitbuilds/DSA/tree/master/2227-sum-of-subarray-ranges) |
+| [2248-intersection-of-multiple-arrays](https://github.com/arpitbuilds/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/arpitbuilds/DSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2270-number-of-ways-to-split-array](https://github.com/arpitbuilds/DSA/tree/master/2270-number-of-ways-to-split-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arpitbuilds/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2062-count-vowel-substrings-of-a-string](https://github.com/arpitbuilds/DSA/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/arpitbuilds/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2248-intersection-of-multiple-arrays](https://github.com/arpitbuilds/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/arpitbuilds/DSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/arpitbuilds/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2418-sort-the-people](https://github.com/arpitbuilds/DSA/tree/master/2418-sort-the-people) |
@@ -1067,6 +1069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/arpitbuilds/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/arpitbuilds/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/arpitbuilds/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2248-intersection-of-multiple-arrays](https://github.com/arpitbuilds/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2418-sort-the-people](https://github.com/arpitbuilds/DSA/tree/master/2418-sort-the-people) |
 | [2463-minimum-total-distance-traveled](https://github.com/arpitbuilds/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/arpitbuilds/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -1186,6 +1189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/arpitbuilds/DSA/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/arpitbuilds/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/arpitbuilds/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/arpitbuilds/DSA/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2486-most-frequent-even-element](https://github.com/arpitbuilds/DSA/tree/master/2486-most-frequent-even-element) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/arpitbuilds/DSA/tree/master/3085-minimum-deletions-to-make-string-k-special) |
