@@ -22,8 +22,7 @@ public:
                 bv.push_back(it);
             }
         }
-     ans.push_back(av);
-     ans.push_back(bv);
-     return ans;
+    
+     return {av,bv};
     }
 };
