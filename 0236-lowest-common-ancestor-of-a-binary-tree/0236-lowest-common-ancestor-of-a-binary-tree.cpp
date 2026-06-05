@@ -13,7 +13,7 @@ public:
         if(root==NULL){
             return root;
         }
-        if(root==p || q==root){
+        if(root==p || root==q){
             return root;
         }
         TreeNode*ln=lowestCommonAncestor(root->left,p,q);
@@ -21,11 +21,12 @@ public:
         if(ln!=NULL && rn!=NULL){
             return root;
         }
-        else if(ln!=NULL){
-            return ln;
-        }
-        else{
+        else if(ln==NULL){
             return rn;
         }
+        else{
+            return ln;
+        }
+
     }
 };
