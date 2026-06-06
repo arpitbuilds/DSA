@@ -2,12 +2,11 @@ class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
         unordered_map<int,int>mpp;
+        int cnt=0;
         mpp[0]=1;
         int pf=0;
-        int cnt=0;
-        int n=nums.size();
-        for(int i=0;i<n;i++){
-            pf+=nums[i];
+        for(auto it : nums){
+            pf+=it;
             int rem=pf-k;
             if(mpp.find(rem)!=mpp.end()){
                 cnt+=mpp[rem];
