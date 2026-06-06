@@ -754,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/arpitbuilds/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/arpitbuilds/DSA/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/arpitbuilds/DSA/tree/master/1805-number-of-different-integers-in-a-string) |
+| [1844-replace-all-digits-with-characters](https://github.com/arpitbuilds/DSA/tree/master/1844-replace-all-digits-with-characters) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/arpitbuilds/DSA/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/arpitbuilds/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/arpitbuilds/DSA/tree/master/2000-reverse-prefix-of-word) |
