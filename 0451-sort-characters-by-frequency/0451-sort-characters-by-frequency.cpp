@@ -12,9 +12,9 @@ public:
         string ans="";
         while(!pq.empty()){
             int f=-pq.top().first;
-            char c =pq.top().second;
+            char ch=pq.top().second;
             pq.pop();
-            ans+=string(f,c);
+            ans+=string(f,ch);
         }
         return ans;
     }
