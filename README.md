@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/arpitbuilds/DSA/tree/master/1306-jump-game-iii) |
 | [1329-sort-the-matrix-diagonally](https://github.com/arpitbuilds/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1370-count-number-of-nice-subarrays](https://github.com/arpitbuilds/DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1424-diagonal-traverse-ii](https://github.com/arpitbuilds/DSA/tree/master/1424-diagonal-traverse-ii) |
 | [1436-destination-city](https://github.com/arpitbuilds/DSA/tree/master/1436-destination-city) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/arpitbuilds/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/arpitbuilds/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arpitbuilds/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/arpitbuilds/DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/arpitbuilds/DSA/tree/master/1436-destination-city) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/arpitbuilds/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/arpitbuilds/DSA/tree/master/1512-number-of-good-pairs) |
@@ -1205,6 +1207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/arpitbuilds/DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/arpitbuilds/DSA/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1034-subarrays-with-k-different-integers](https://github.com/arpitbuilds/DSA/tree/master/1034-subarrays-with-k-different-integers) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/arpitbuilds/DSA/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/arpitbuilds/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/arpitbuilds/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
