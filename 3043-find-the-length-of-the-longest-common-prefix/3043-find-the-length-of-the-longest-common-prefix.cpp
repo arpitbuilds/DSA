@@ -2,23 +2,23 @@ class Solution {
 public:
     int longestCommonPrefix(vector<int>& arr1, vector<int>& arr2) {
         unordered_set<string>st;
+        int maxi=0;
         for(auto it : arr1){
-            string val=to_string(it);
             string pf="";
-            for(auto ch : val){
-                pf+=ch;
+            string s=to_string(it);
+            for(auto x : s){
+                pf+=x;
                 st.insert(pf);
             }
         }
-        int maxi=0;
-        for(auto it :arr2){
-            string val=to_string(it);
+        for(auto it : arr2){
             string pf="";
-            for(auto ch : val){
-             pf+=ch;
-             if(st.count(pf)){
-                maxi=max(maxi,(int)pf.size());
-             }
+            string s=to_string(it);
+            for(auto x : s){
+                pf+=x;
+                if(st.find(pf)!=st.end()){
+                    maxi=max(maxi,(int)pf.size());
+                }
             }
         }
         return maxi;
