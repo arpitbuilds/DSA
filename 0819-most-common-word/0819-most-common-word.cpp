@@ -1,36 +1,29 @@
 class Solution {
 public:
     string mostCommonWord(string p, vector<string>& banned) {
-        for (char &it : p) {
-            if (isalpha(it)) {
-                it = tolower(it);
-            } else {
-                it = ' ';
+        for(char &it : p){
+            if(isalpha(it)){
+                it=tolower(it);
+            }
+            else{
+                it=' ';
             }
         }
-
-        string ans;
+        unordered_set<string>st(banned.begin(),banned.end());
+        string ans="";
         stringstream ss(p);
         string x;
-
-        unordered_set<string> ban(banned.begin(), banned.end());
-        unordered_map<string, int> mpp;
-
-        int maxi = 0;
-
-        while (ss >> x) {
-            if (ban.count(x)) {
-                continue;
-            }
-
-            mpp[x]++;
-
-            if (mpp[x] > maxi) {
-                maxi = mpp[x];
-                ans = x;
+        unordered_map<string,int>mpp;
+        while(ss>>x){
+           mpp[x]++;
+        }
+        int maxi=0;
+        for(auto it : mpp){
+            if(it.second>maxi && st.find(it.first)==st.end()){
+                maxi=it.second;
+                ans=it.first;
             }
         }
-
-        return ans;
+    return ans;
     }
 };
