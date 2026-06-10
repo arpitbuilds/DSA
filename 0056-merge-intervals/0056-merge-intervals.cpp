@@ -1,14 +1,15 @@
 class Solution {
 public:
-    vector<vector<int>> merge(vector<vector<int>>& given) {
-        sort(given.begin(), given.end());
-        vector<vector<int>> ans;
-        ans.push_back(given[0]);
-        for (int i = 1; i < given.size(); i++) {
-            if (ans.back()[1] >= given[i][0]) {
-                ans.back()[1] = max(ans.back()[1], given[i][1]);
-            } else {
-                ans.push_back(given[i]);
+    vector<vector<int>> merge(vector<vector<int>>& nums) {
+        sort(nums.begin(),nums.end());
+        int n=nums.size();
+        vector<vector<int>>ans;
+        for(int i=0;i<n;i++){
+            if(ans.empty() || ans.back()[1]<nums[i][0]){
+                ans.push_back(nums[i]);
+            }
+            else{
+                ans.back()[1]=max(ans.back()[1],nums[i][1]);
             }
         }
         return ans;
