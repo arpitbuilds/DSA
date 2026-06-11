@@ -1,19 +1,19 @@
 class Solution {
 public:
     int waysToSplitArray(vector<int>& nums) {
-        long long rights=0;
+        long long lsum=0;
+        long long tsum=0;
+        int cnt=0;
         int n=nums.size();
         for(auto it : nums){
-            rights+=it;
+            tsum+=it;
         }
-        int cnt=0;
-        long long lefts=0;
         for(int i=0;i<n-1;i++){
-           lefts+=nums[i];
-           rights-=nums[i];
-           if(lefts>=rights){
-            cnt++;
-           }
+            lsum+=nums[i];
+            tsum-=nums[i];
+            if(lsum>=tsum){
+                cnt++;
+            }
         }
         return cnt;
     }
