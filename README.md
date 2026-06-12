@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/arpitbuilds/DSA/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/arpitbuilds/DSA/tree/master/0890-find-and-replace-pattern) |
 | [0896-monotonic-array](https://github.com/arpitbuilds/DSA/tree/master/0896-monotonic-array) |
+| [0904-fruit-into-baskets](https://github.com/arpitbuilds/DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/arpitbuilds/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/arpitbuilds/DSA/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/arpitbuilds/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/arpitbuilds/DSA/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0890-find-and-replace-pattern](https://github.com/arpitbuilds/DSA/tree/master/0890-find-and-replace-pattern) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0904-fruit-into-baskets](https://github.com/arpitbuilds/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/arpitbuilds/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/arpitbuilds/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/arpitbuilds/DSA/tree/master/0966-binary-subarrays-with-sum) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/arpitbuilds/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/arpitbuilds/DSA/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/arpitbuilds/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/arpitbuilds/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/arpitbuilds/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/arpitbuilds/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/arpitbuilds/DSA/tree/master/1004-max-consecutive-ones-iii) |
