@@ -31,22 +31,22 @@ public:
         return maxi;
     }
 
-    int maximalRectangle(vector<vector<char>>& matrix) {
-        int m=matrix.size();
-        int n=matrix[0].size();
-        int maxi=0;
-        vector<int>v(n,0);
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(matrix[i][j]=='1'){
-                    v[j]++;
-                }
-                else{
-                    v[j]=0;
-                }
+    int maximalRectangle(vector<vector<char>>& mat) {
+      int m=mat.size();
+      int maxi=INT_MIN;
+      int n=mat[0].size();
+      vector<int>v(n,0);
+      for(int i=0;i<m;i++){
+        for(int j=0;j<n;j++){
+            if(mat[i][j]=='1'){
+                v[j]++;
             }
-            maxi=max(maxi,solve(v));
+            else{
+                v[j]=0;
+            }
         }
-        return maxi;
+        maxi=max(maxi,solve(v));
+      }
+      return maxi;
     }
 };
