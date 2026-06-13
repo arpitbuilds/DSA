@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/arpitbuilds/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/arpitbuilds/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/arpitbuilds/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/arpitbuilds/DSA/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/arpitbuilds/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/arpitbuilds/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/arpitbuilds/DSA/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -856,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/arpitbuilds/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [0942-di-string-match](https://github.com/arpitbuilds/DSA/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/arpitbuilds/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/arpitbuilds/DSA/tree/master/0986-interval-list-intersections) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/arpitbuilds/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/arpitbuilds/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/arpitbuilds/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -1512,4 +1514,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/arpitbuilds/DSA/tree/master/0239-sliding-window-maximum) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/arpitbuilds/DSA/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
