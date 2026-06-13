@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/arpitbuilds/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arpitbuilds/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/arpitbuilds/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/arpitbuilds/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/arpitbuilds/DSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/arpitbuilds/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/arpitbuilds/DSA/tree/master/0222-count-complete-tree-nodes) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/arpitbuilds/DSA/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/arpitbuilds/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/arpitbuilds/DSA/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/arpitbuilds/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/arpitbuilds/DSA/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/arpitbuilds/DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/arpitbuilds/DSA/tree/master/0169-majority-element) |
