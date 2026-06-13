@@ -1,11 +1,16 @@
 class Solution {
 public:
-    string expand(string s, int left , int right){
-        while(left>=0 && right<s.size() && s[left]==s[right]){
-            left--;
-            right++;
+    string expand(string s,int l,int r){
+        while(l>=0 && r<s.size()){
+            if(s[l]==s[r]){
+                l--;
+                r++;
+            }
+            else{
+                break;
+            }
         }
-        return s.substr(left+1,right-left-1);
+        return s.substr(l+1,r-l-1);
     }
     string longestPalindrome(string s) {
         int n=s.size();
@@ -16,10 +21,9 @@ public:
             if(ans.size()<odd.size()){
                 ans=odd;
             }
-            if(even.size()>ans.size()){
+            if(ans.size()<even.size()){
                 ans=even;
             }
-
         }
         return ans;
     }
