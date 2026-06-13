@@ -9,17 +9,20 @@ public:
             pq.push(x);
         }
         int tot=nums1.size()+nums2.size();
+        int mid=tot/2;
         int prev=0;
         int cur=0;
-        int mid=tot/2;
         for(int i=0;i<=mid;i++){
-            prev=cur;
-            cur=pq.top();
-            pq.pop();
+          prev=cur;
+          cur=pq.top();
+          pq.pop();
         }
         if(tot%2==1){
             return cur;
         }
-        return (prev+cur)/2.0;
+        else{
+            return (cur+prev)/2.0;
+        }
+
     }
 };
