@@ -29,16 +29,13 @@ public:
     }
     int sumSubarrayMins(vector<int>& arr) {
         int n=arr.size();
-        vector<int> nse = fnse(arr);
-        vector<int> pse = fpse(arr);
-        long long total = 0;
-        for (int i = 0; i < n; i++) {
-            long long left = nse[i] - i;
-            long long right = i - pse[i];
-            total =
-                (total +
-                 (((left % mod) * (right % mod)) % mod * arr[i] % mod) % mod) %
-                mod;
+        long long total=0;
+        vector<int>pse=fpse(arr);
+        vector<int>nse=fnse(arr);
+        for(int i=0;i<n;i++){
+            long left=nse[i]-i;
+            long right=i-pse[i];
+            total=((total%mod)+(left%mod)*(right%mod)*(arr[i]%mod))%mod;
         }
         return (int)total;
     }
