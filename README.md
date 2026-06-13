@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/arpitbuilds/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/arpitbuilds/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3834-merge-adjacent-equal-elements](https://github.com/arpitbuilds/DSA/tree/master/3834-merge-adjacent-equal-elements) |
+| [3838-weighted-word-mapping](https://github.com/arpitbuilds/DSA/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -813,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/arpitbuilds/DSA/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3713-longest-balanced-substring-i](https://github.com/arpitbuilds/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/arpitbuilds/DSA/tree/master/3714-longest-balanced-substring-ii) |
+| [3838-weighted-word-mapping](https://github.com/arpitbuilds/DSA/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/arpitbuilds/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
@@ -1343,6 +1345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/arpitbuilds/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3174-clear-digits](https://github.com/arpitbuilds/DSA/tree/master/3174-clear-digits) |
 | [3834-merge-adjacent-equal-elements](https://github.com/arpitbuilds/DSA/tree/master/3834-merge-adjacent-equal-elements) |
+| [3838-weighted-word-mapping](https://github.com/arpitbuilds/DSA/tree/master/3838-weighted-word-mapping) |
 ## String Matching
 |  |
 | ------- |
