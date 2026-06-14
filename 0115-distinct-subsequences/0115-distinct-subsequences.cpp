@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int solve(int i ,int j,string &s,string &t,vector<vector<int>>&dp){
+    int solve(int i,int j,string s,string t,vector<vector<int>>&dp){
         if(j<0){
             return 1;
         }
@@ -14,7 +14,7 @@ public:
             return dp[i][j]=solve(i-1,j-1,s,t,dp)+solve(i-1,j,s,t,dp);
         }
         else{
-           return dp[i][j]= solve(i-1,j,s,t,dp);
+            return dp[i][j]=solve(i-1,j,s,t,dp);
         }
     }
     int numDistinct(string s, string t) {
