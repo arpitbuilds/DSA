@@ -1,18 +1,18 @@
 class Solution {
 public:
-    int solve(int m,int n,string &s,string &t,vector<vector<int>>&dp){
-        if(m==0 || n==0){
+    int solve(int i, int j,string &s,string &t,vector<vector<int>>&dp){
+        if(i==0 || j==0){
             return 0;
         }
-        if(dp[m][n]!=-1){
-            return dp[m][n];
+        if(dp[i][j]!=-1){
+            return dp[i][j];
         }
-        if(s[m-1]==t[n-1]){
-            return dp[m][n]=1+solve(m-1,n-1,s,t,dp);
+        if(s[i-1]==t[j-1]){
+            return dp[i][j]=1+solve(i-1,j-1,s,t,dp);
         }
-        else{
-            return dp[m][n]=0+max(solve(m-1,n,s,t,dp),solve(m,n-1,s,t,dp));
-        }
+        int op1=solve(i-1,j,s,t,dp);
+        int op2=solve(i,j-1,s,t,dp);
+        return dp[i][j]=max(op1,op2);
     }
     int longestCommonSubsequence(string s, string t) {
         int m=s.size();
