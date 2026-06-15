@@ -12,10 +12,8 @@ public:
                     cnt++;
                 }
             }
-            else{
-                if(mpp.find(it.first+k)!=mpp.end()){
-                    cnt++;
-                }
+            else if(mpp.find(it.first+k)!=mpp.end()){
+                cnt++;
             }
         }
         return cnt;
