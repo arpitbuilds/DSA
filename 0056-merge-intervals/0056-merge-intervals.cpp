@@ -1,14 +1,14 @@
 class Solution {
 public:
-    vector<vector<int>> merge(vector<vector<int>>& inn) {
+    vector<vector<int>> merge(vector<vector<int>>& in) {
         vector<vector<int>>ans;
-        sort(inn.begin(),inn.end());
-        for(auto it : inn){
-            if(ans.empty() || ans.back()[1]<it[0]){
-                ans.push_back(it);
+        sort(in.begin(),in.end());
+        for(int i=0;i<in.size();i++){
+            if(ans.empty() || ans.back()[1]<in[i][0]){
+                ans.push_back(in[i]);
             }
             else{
-                ans.back()[1]=max(ans.back()[1],it[1]);
+                ans.back()[1]=max(ans.back()[1],in[i][1]);
             }
         }
         return ans;
