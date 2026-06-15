@@ -651,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/arpitbuilds/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/arpitbuilds/DSA/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/arpitbuilds/DSA/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/arpitbuilds/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/arpitbuilds/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/arpitbuilds/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/arpitbuilds/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -862,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/arpitbuilds/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/arpitbuilds/DSA/tree/master/0696-count-binary-substrings) |
 | [0875-longest-mountain-in-array](https://github.com/arpitbuilds/DSA/tree/master/0875-longest-mountain-in-array) |
+| [0876-middle-of-the-linked-list](https://github.com/arpitbuilds/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/arpitbuilds/DSA/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/arpitbuilds/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [0942-di-string-match](https://github.com/arpitbuilds/DSA/tree/master/0942-di-string-match) |
