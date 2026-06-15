@@ -1,7 +1,6 @@
 class Solution {
 public:
     int solve(int ind,vector<int>&nums,vector<int>&dp){
-
         if(ind<0){
             return 0;
         }
@@ -14,6 +13,7 @@ public:
         int op1=nums[ind]+solve(ind-2,nums,dp);
         int op2=0+solve(ind-1,nums,dp);
         return dp[ind]=max(op1,op2);
+
     }
     int rob(vector<int>& nums) {
         int n=nums.size();
