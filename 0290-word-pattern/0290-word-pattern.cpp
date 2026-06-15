@@ -3,23 +3,24 @@ public:
     bool wordPattern(string p, string s) {
         stringstream ss(s);
         string x;
-        vector<string> word;
-        while (ss >> x) {
-            word.push_back(x);
+        vector<string>v;
+        while(ss>>x){
+            v.push_back(x);
         }
-        unordered_map<char, string> cs;
-        unordered_map<string, char> sc;
-        for (int i = 0; i < p.size(); i++) {
-            char ch = p[i];
-            string w = word[i];
-            if (cs.count(ch) && cs[ch] != w) {
+        unordered_map<string,char>sp;
+        unordered_map<char,string>ps;
+        if(p.size()!=v.size()){
+            return false;
+        }
+        for(int i=0;i<p.size();i++){
+            if(sp.count(v[i]) && sp[v[i]]!=p[i]){
                 return false;
             }
-            if (sc.count(w) && sc[w] != ch) {
+            if(ps.count(p[i]) && ps[p[i]]!=v[i]){
                 return false;
             }
-            cs[ch] = w;
-            sc[w] = ch;
+            sp[v[i]]=p[i];
+            ps[p[i]]=v[i];
         }
         return true;
     }
