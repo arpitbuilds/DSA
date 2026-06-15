@@ -15,13 +15,13 @@ public:
         if(root==NULL){
             return 0;
         }
-        int lh=solve(root->left);
-        int rh=solve(root->right);
-        return 1+max(lh,rh);
+        int left=solve(root->left);
+        int right=solve(root->right);
+        return 1+max(left,right);
     }
     int maxDepth(TreeNode* root) {
         if(root==NULL){
-            return 0;
+            return NULL;
         }
         return solve(root);
     }
