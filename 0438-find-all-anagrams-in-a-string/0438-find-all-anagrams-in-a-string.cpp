@@ -3,15 +3,16 @@ public:
     vector<int> findAnagrams(string s, string p) {
         unordered_map<char,int>mpp1;
         unordered_map<char,int>mpp2;
-        for(auto it : p){
-            mpp2[it]++;
-        }
+           vector<int>ans;
         int m=s.size();
         int n=p.size();
         for(int i=0;i<n;i++){
+            mpp2[p[i]]++;
+        }
+        for(int i=0;i<n;i++){
             mpp1[s[i]]++;
         }
-        vector<int>ans;
+     
         if(mpp1==mpp2){
             ans.push_back(0);
         }
@@ -24,8 +25,7 @@ public:
             if(mpp1==mpp2){
                 ans.push_back(i-n+1);
             }
-
         }
-        return ans;
+return ans;
     }
 };
