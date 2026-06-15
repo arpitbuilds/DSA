@@ -10,11 +10,9 @@ public:
             pq.push({it.second,it.first});
         }
         vector<int>ans;
-        while(!pq.empty() && k){
-            int ele=pq.top().second;
+        while(!pq.empty() && k--){
+            ans.push_back(pq.top().second);
             pq.pop();
-            k--;
-            ans.push_back(ele);
         }
         return ans;
     }
