@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/arpitbuilds/DSA/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/arpitbuilds/DSA/tree/master/0792-binary-search) |
 | [0819-most-common-word](https://github.com/arpitbuilds/DSA/tree/master/0819-most-common-word) |
+| [0846-hand-of-straights](https://github.com/arpitbuilds/DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/arpitbuilds/DSA/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/arpitbuilds/DSA/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/arpitbuilds/DSA/tree/master/0874-walking-robot-simulation) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/arpitbuilds/DSA/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/arpitbuilds/DSA/tree/master/0697-degree-of-an-array) |
 | [0819-most-common-word](https://github.com/arpitbuilds/DSA/tree/master/0819-most-common-word) |
+| [0846-hand-of-straights](https://github.com/arpitbuilds/DSA/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/arpitbuilds/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/arpitbuilds/DSA/tree/master/0874-walking-robot-simulation) |
@@ -1127,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/arpitbuilds/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0692-top-k-frequent-words](https://github.com/arpitbuilds/DSA/tree/master/0692-top-k-frequent-words) |
 | [0761-special-binary-string](https://github.com/arpitbuilds/DSA/tree/master/0761-special-binary-string) |
+| [0846-hand-of-straights](https://github.com/arpitbuilds/DSA/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/arpitbuilds/DSA/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/arpitbuilds/DSA/tree/master/0912-sort-an-array) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/arpitbuilds/DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -1397,6 +1400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/arpitbuilds/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/arpitbuilds/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arpitbuilds/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0846-hand-of-straights](https://github.com/arpitbuilds/DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/arpitbuilds/DSA/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/arpitbuilds/DSA/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/arpitbuilds/DSA/tree/master/0942-di-string-match) |
