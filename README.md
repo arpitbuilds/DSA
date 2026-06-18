@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/arpitbuilds/DSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2270-number-of-ways-to-split-array](https://github.com/arpitbuilds/DSA/tree/master/2270-number-of-ways-to-split-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arpitbuilds/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2352-equal-row-and-column-pairs](https://github.com/arpitbuilds/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2418-sort-the-people](https://github.com/arpitbuilds/DSA/tree/master/2418-sort-the-people) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/arpitbuilds/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/arpitbuilds/DSA/tree/master/2463-minimum-total-distance-traveled) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/arpitbuilds/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/arpitbuilds/DSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/arpitbuilds/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2352-equal-row-and-column-pairs](https://github.com/arpitbuilds/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2418-sort-the-people](https://github.com/arpitbuilds/DSA/tree/master/2418-sort-the-people) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/arpitbuilds/DSA/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2486-most-frequent-even-element](https://github.com/arpitbuilds/DSA/tree/master/2486-most-frequent-even-element) |
@@ -1321,6 +1323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/arpitbuilds/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1914-cyclically-rotating-a-grid](https://github.com/arpitbuilds/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/arpitbuilds/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2352-equal-row-and-column-pairs](https://github.com/arpitbuilds/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2573-find-the-string-with-lcp](https://github.com/arpitbuilds/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/arpitbuilds/DSA/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/arpitbuilds/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -1356,6 +1359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/arpitbuilds/DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/arpitbuilds/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arpitbuilds/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2352-equal-row-and-column-pairs](https://github.com/arpitbuilds/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/arpitbuilds/DSA/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/arpitbuilds/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
