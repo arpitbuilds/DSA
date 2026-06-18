@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/arpitbuilds/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/arpitbuilds/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/arpitbuilds/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/arpitbuilds/DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/arpitbuilds/DSA/tree/master/1512-number-of-good-pairs) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/arpitbuilds/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/arpitbuilds/DSA/tree/master/1539-kth-missing-positive-number) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/arpitbuilds/DSA/tree/master/1436-destination-city) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/arpitbuilds/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/arpitbuilds/DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/arpitbuilds/DSA/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/arpitbuilds/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/arpitbuilds/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -1254,6 +1256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/arpitbuilds/DSA/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1034-subarrays-with-k-different-integers](https://github.com/arpitbuilds/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/arpitbuilds/DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/arpitbuilds/DSA/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/arpitbuilds/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/arpitbuilds/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
