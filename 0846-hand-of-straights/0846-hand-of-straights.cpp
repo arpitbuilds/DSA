@@ -5,9 +5,9 @@ public:
         for(auto it : hand){
             mpp[it]++;
         }
-        // if(hand.size()%gs!=0){
-        //     return false;
-        // }
+        if(hand.size()%gs!=0){
+            return false;
+        }
         sort(hand.begin(),hand.end());
         for(int i=0;i<hand.size();i++){
             if(mpp[hand[i]]==0){
