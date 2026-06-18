@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool isNStraightHand(vector<int>& hand, int gs) {
-        map<int,int>mpp;
+        unordered_map<int,int>mpp;
         for(auto it : hand){
             mpp[it]++;
         }
