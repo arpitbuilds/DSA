@@ -1,43 +1,33 @@
 class Solution {
 public:
-    void solve(int i, int j, vector<vector<char>>& g,
-               vector<vector<int>>& vis) {
-        int m = g.size();
-        int n = g[0].size();
+    void solve(int i,int j,vector<vector<char>>&grid,vector<vector<int>>&vis){
+       int m=grid.size();
+        int n=grid[0].size();
         vis[i][j]=1;
-         int delr[] = {0, -1, 0, 1};
-        int delc[] = {-1, 0, 1, 0};
-        queue<pair<int, int>> q;
-        q.push({i, j});
-        while (!q.empty()) {
-            int r = q.front().first;
-            int c = q.front().second;
-            q.pop();
-            for (int i = 0; i < 4; i++) {
-                int nrow = r + delr[i];
-                int ncol = c + delc[i];
-                if (nrow >= 0 && ncol >= 0 && nrow < m && ncol < n &&
-                    g[nrow][ncol] == '1' && !vis[nrow][ncol]) {
-                    vis[nrow][ncol] = 1;
-                    q.push({nrow, ncol});
-                }
+        int drow[]={0,-1,0,1};
+        int dcol[]={-1,0,1,0};
+        for(int k=0;k<4;k++){
+            int nrow=i+drow[k];
+            int ncol=j+dcol[k];
+            if(nrow>=0 && nrow<m && ncol>=0 && ncol<n && grid[nrow][ncol]=='1' && !vis[nrow][ncol]){
+                solve(nrow,ncol,grid,vis);
+
             }
-        }
+        } 
     }
     int numIslands(vector<vector<char>>& grid) {
-        int m = grid.size();
-        int n = grid[0].size();
-        int cnt = 0;
-        vector<vector<int>> vis(m, vector<int>(n, 0));
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (!vis[i][j] && grid[i][j] == '1') {
-                    cnt++ ;
-                     vis[i][j] = 1;
-                    solve(i, j, grid, vis);
+        int m=grid.size();
+        int n=grid[0].size();
+        int ans=0;
+        vector<vector<int>>v(m,vector<int>(n,0));
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(grid[i][j]=='1' && !v[i][j]){
+                    ans++;
+                    solve(i,j,grid,v);
                 }
             }
         }
-        return cnt;
+        return ans;
     }
 };
