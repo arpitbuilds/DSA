@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/arpitbuilds/DSA/tree/master/1695-maximum-erasure-value) |
 | [1711-count-good-meals](https://github.com/arpitbuilds/DSA/tree/master/1711-count-good-meals) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/arpitbuilds/DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1732-find-the-highest-altitude](https://github.com/arpitbuilds/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/arpitbuilds/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arpitbuilds/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/arpitbuilds/DSA/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
@@ -1460,6 +1461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/arpitbuilds/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/arpitbuilds/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/arpitbuilds/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1732-find-the-highest-altitude](https://github.com/arpitbuilds/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/arpitbuilds/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/arpitbuilds/DSA/tree/master/2270-number-of-ways-to-split-array) |
 | [2574-left-and-right-sum-differences](https://github.com/arpitbuilds/DSA/tree/master/2574-left-and-right-sum-differences) |
