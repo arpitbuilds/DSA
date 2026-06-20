@@ -1,56 +1,38 @@
 class Solution {
 public:
-    int delr[4] = {-1, 0, 1, 0};
-    int delc[4] = {0, 1, 0, -1};
-
-    void bfs(int r, int c, vector<vector<char>>& board, vector<vector<bool>>& safe) {
-        int m = board.size();
-        int n = board[0].size();
-        safe[r][c] = true;
-
-        queue<pair<int, int>> q;
-        q.push({r, c});
-
-        while (!q.empty()) {
-            int row = q.front().first;
-            int col = q.front().second;
-            q.pop();
-
-            for (int i = 0; i < 4; i++) {
-                int nrow = row + delr[i];
-                int ncol = col + delc[i];
-                if (nrow >= 0 && nrow < m && ncol >= 0 && ncol < n &&
-                    board[nrow][ncol] != 'X' && !safe[nrow][ncol]) {
-                    safe[nrow][ncol] = true;
-                    q.push({nrow, ncol});
-                }
+    void solve(int r, int c, vector<vector<char>>& b,
+               vector<vector<int>>& vis) {
+        int m = b.size();
+        int n = b[0].size();
+        vis[r][c] = 1;
+        int delr[] = {0, -1, 0, 1};
+        int delc[] = {-1, 0, 1, 0};
+        for (int k = 0; k < 4; k++) {
+            int nr = r + delr[k];
+            int nc = c + delc[k];
+            if (nr >= 0 && nr < m && nc >= 0 && nc < n && b[nr][nc] == 'O' &&
+                !vis[nr][nc]) {
+                solve(nr, nc, b, vis);
             }
         }
     }
-
-    void solve(vector<vector<char>>& board) {
-        int m = board.size();
-        // if (m == 0) return;
-        int n = board[0].size();
-
-        vector<vector<bool>> safe(m, vector<bool>(n, false));
-
-        // Run BFS from the border 'O's
+    void solve(vector<vector<char>>& b) {
+        int m = b.size();
+        int n = b[0].size();
+        vector<vector<int>>vis(m,vector<int>(n,0));
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 if (i == 0 || i == m - 1 || j == 0 || j == n - 1) {
-                    if (board[i][j] == 'O' && !safe[i][j]) {
-                        bfs(i, j, board, safe);
+                    if (b[i][j] == 'O' && !vis[i][j]) {
+                        solve(i, j, b, vis);
                     }
                 }
             }
         }
-
- 
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (board[i][j] == 'O' && !safe[i][j]) {
-                    board[i][j] = 'X';
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(b[i][j]=='O' && !vis[i][j]){
+                    b[i][j]='X';
                 }
             }
         }
