@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/arpitbuilds/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0695-max-area-of-island](https://github.com/arpitbuilds/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/arpitbuilds/DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/arpitbuilds/DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/arpitbuilds/DSA/tree/master/0802-find-eventual-safe-states) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/arpitbuilds/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/arpitbuilds/DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/arpitbuilds/DSA/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/arpitbuilds/DSA/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/arpitbuilds/DSA/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/arpitbuilds/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/arpitbuilds/DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -1062,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/arpitbuilds/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/arpitbuilds/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/arpitbuilds/DSA/tree/master/0733-flood-fill) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/arpitbuilds/DSA/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0785-is-graph-bipartite](https://github.com/arpitbuilds/DSA/tree/master/0785-is-graph-bipartite) |
@@ -1322,6 +1325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/arpitbuilds/DSA/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/arpitbuilds/DSA/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/arpitbuilds/DSA/tree/master/0566-reshape-the-matrix) |
+| [0695-max-area-of-island](https://github.com/arpitbuilds/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/arpitbuilds/DSA/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/arpitbuilds/DSA/tree/master/0867-transpose-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/arpitbuilds/DSA/tree/master/0967-minimum-falling-path-sum) |
@@ -1537,6 +1541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/arpitbuilds/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/arpitbuilds/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/arpitbuilds/DSA/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/arpitbuilds/DSA/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/arpitbuilds/DSA/tree/master/0785-is-graph-bipartite) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/arpitbuilds/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/arpitbuilds/DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
