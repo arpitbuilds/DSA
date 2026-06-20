@@ -1,18 +1,18 @@
 class Solution {
 public:
-    void solve(int ind, vector<vector<int>>& ans, vector<int>& v,
-               vector<int>& freq, vector<int>& nums) {
+    void solve(int ind, vector<int>& v, vector<vector<int>>& ans,
+               vector<int>& vis, vector<int>& nums) {
         if (ind == nums.size()) {
             ans.push_back(v);
             return;
         }
-        for (int i = 0; i < nums.size(); i++) {
-            if (freq[i] == 0) {
-                freq[i] = 1;
+        for (int i=0; i < nums.size(); i++) {
+            if (!vis[i]) {
                 v.push_back(nums[i]);
-                solve(ind + 1, ans, v, freq, nums);
+                vis[i] = 1;
+                solve(ind + 1, v, ans, vis, nums);
+                vis[i] = 0;
                 v.pop_back();
-                freq[i] = 0;
             }
         }
     }
@@ -20,8 +20,8 @@ public:
         vector<vector<int>> ans;
         vector<int> v;
         int n = nums.size();
-        vector<int> freq(n, 0);
-        solve(0, ans, v, freq, nums);
+        vector<int> vis(n, 0);
+        solve(0, v, ans, vis, nums);
         return ans;
     }
 };
