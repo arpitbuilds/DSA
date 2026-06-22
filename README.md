@@ -563,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/arpitbuilds/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/arpitbuilds/DSA/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1034-subarrays-with-k-different-integers](https://github.com/arpitbuilds/DSA/tree/master/1034-subarrays-with-k-different-integers) |
+| [1189-maximum-number-of-balloons](https://github.com/arpitbuilds/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/arpitbuilds/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/arpitbuilds/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arpitbuilds/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -788,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/arpitbuilds/DSA/tree/master/0942-di-string-match) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/arpitbuilds/DSA/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1143-longest-common-subsequence](https://github.com/arpitbuilds/DSA/tree/master/1143-longest-common-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/arpitbuilds/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1250-longest-common-subsequence](https://github.com/arpitbuilds/DSA/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/arpitbuilds/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/arpitbuilds/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -1280,6 +1282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/arpitbuilds/DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/arpitbuilds/DSA/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1034-subarrays-with-k-different-integers](https://github.com/arpitbuilds/DSA/tree/master/1034-subarrays-with-k-different-integers) |
+| [1189-maximum-number-of-balloons](https://github.com/arpitbuilds/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/arpitbuilds/DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/arpitbuilds/DSA/tree/master/1512-number-of-good-pairs) |
