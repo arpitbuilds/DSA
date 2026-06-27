@@ -1,6 +1,7 @@
-class Solution {
+  class Solution {
 public:
-    bool check(int r, int c, vector<string>& v, int n) {
+    bool check(int r, int c, int n, vector<string>& v,
+               vector<vector<string>>& ans) {
         int tr = r;
         int tc = c;
         while (r >= 0 && c >= 0) {
@@ -17,34 +18,34 @@ public:
         }
         r = tr;
         c = tc;
-        while (r < n && c >= 0) {
+        while (c >= 0 && r < n) {
             if (v[r++][c--] == 'Q') {
                 return false;
             }
         }
         return true;
     }
-    void solve(int c, int& cnt, int n, vector<string>& v, string s) {
+    void solve(int c, int n,vector<string>& v, vector<vector<string>>& ans) {
         if (c == n) {
-            cnt++;
+            ans.push_back(v);
             return;
         }
         for (int r = 0; r < n; r++) {
-            if (check(r, c, v, n)) {
+            if (check(r, c, n, v, ans)) {
                 v[r][c] = 'Q';
-                solve(c + 1, cnt, n, v, s);
+                solve(c + 1, n, v, ans);
                 v[r][c] = '.';
             }
         }
     }
     int totalNQueens(int n) {
-        string s(n, '.');
+         vector<vector<string>> ans;
+        string s = string(n, '.');
         vector<string>v(n);
         for (int i = 0; i < n; i++) {
             v[i] = s;
         }
-        int cnt = 0;
-        solve(0, cnt, n, v, s);
-        return cnt;
+        solve(0, n, v, ans);
+        return ans.size();
     }
 };
