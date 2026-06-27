@@ -1,6 +1,7 @@
 class Solution {
 public:
-    bool safe(int r, int c, vector<string>& v, int n) {
+    bool check(int r, int c, int n, vector<string>& v,
+               vector<vector<string>>& ans) {
         int tr = r;
         int tc = c;
         while (r >= 0 && c >= 0) {
@@ -24,27 +25,27 @@ public:
         }
         return true;
     }
-    void solve(int c, vector<vector<string>>& ans, vector<string>& v, int n) {
+    void solve(int c, int n,vector<string>& v, vector<vector<string>>& ans) {
         if (c == n) {
             ans.push_back(v);
             return;
         }
         for (int r = 0; r < n; r++) {
-            if (safe(r, c, v, n)) {
+            if (check(r, c, n, v, ans)) {
                 v[r][c] = 'Q';
-                solve(c + 1, ans, v, n);
+                solve(c + 1, n, v, ans);
                 v[r][c] = '.';
             }
         }
     }
     vector<vector<string>> solveNQueens(int n) {
         vector<vector<string>> ans;
-        vector<string> v(n);
-        string s(n, '.');
+        string s = string(n, '.');
+        vector<string>v(n);
         for (int i = 0; i < n; i++) {
             v[i] = s;
         }
-        solve(0, ans, v, n);
+        solve(0, n, v, ans);
         return ans;
     }
 };
