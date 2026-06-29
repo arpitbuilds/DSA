@@ -11,11 +11,11 @@ public:
                 pq.pop();
             }
         }
-        vector<vector<int>>result;
+        vector<vector<int>>res;
         while(!pq.empty()){
-            result.push_back({pq.top()[1],pq.top()[2]});
+            res.push_back({pq.top()[1],pq.top()[2]});
             pq.pop();
         }
-        return result;
+        return res;
     }
 };
