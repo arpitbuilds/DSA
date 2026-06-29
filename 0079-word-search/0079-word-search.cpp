@@ -1,38 +1,37 @@
 class Solution {
 public:
-    bool dfs(int r, int c, int ind, vector<vector<char>>& b, string word,
-             vector<vector<int>>& vis) {
-
-        if (ind == word.size()) {
-            return true;
-        }
+    bool solve(int ind, int i, int j, vector<vector<int>>& vis, string w,
+               vector<vector<char>>& b) {
         int m = b.size();
         int n = b[0].size();
-        if (r < 0 || c < 0 || r >= m || c >= n || vis[r][c] == 1 ||
-            b[r][c] != word[ind]) {
+        if (ind == w.size()) {
+            return true;
+        }
+        if (i < 0 || j < 0 || i >= m || j >= n || w[ind] != b[i][j] ||
+            vis[i][j]) {
             return false;
         }
-        vis[r][c] = 1;
+        vis[i][j] = 1;
         int delr[] = {0, -1, 0, 1};
         int delc[] = {-1, 0, 1, 0};
         for (int k = 0; k < 4; k++) {
-            int nr = r + delr[k];
-            int nc = c + delc[k];
-            if (dfs(nr, nc, ind + 1, b, word, vis)) {
-                return true;
+            int nr = i + delr[k];
+            int nc = j + delc[k];
+            if (solve(ind+1, nr, nc, vis, w, b)) {
+               return true;
             }
         }
-        vis[r][c] = 0;
+        vis[i][j] = 0;
         return false;
     }
-    bool exist(vector<vector<char>>& board, string word) {
-        int m = board.size();
-        int n = board[0].size();
-        vector<vector<int>>vis(m, vector<int>(n, 0));
+    bool exist(vector<vector<char>>& b, string word) {
+        int m = b.size();
+        int n = b[0].size();
+        vector<vector<int>> vis(m, vector<int>(n, 0));
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
-                if (board[i][j] == word[0]) {
-                    if (dfs(i, j, 0, board, word, vis)) {
+                if (b[i][j] == word[0]) {
+                    if (solve(0, i, j, vis, word, b)) {
                         return true;
                     }
                 }
