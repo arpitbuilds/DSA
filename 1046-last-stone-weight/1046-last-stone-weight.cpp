@@ -5,7 +5,10 @@ public:
         for(auto it : stones){
             pq.push(it);
         }
-        while(pq.size()>1){
+        while(!pq.empty()){
+            if(pq.size()==1){
+                 break;
+            }
             int x=pq.top();
               pq.pop();
             int y=pq.top();
