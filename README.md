@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/arpitbuilds/DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1732-find-the-highest-altitude](https://github.com/arpitbuilds/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/arpitbuilds/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/arpitbuilds/DSA/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arpitbuilds/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/arpitbuilds/DSA/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/arpitbuilds/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
