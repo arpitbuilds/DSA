@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/arpitbuilds/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/arpitbuilds/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/arpitbuilds/DSA/tree/master/0967-minimum-falling-path-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/arpitbuilds/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/arpitbuilds/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/arpitbuilds/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/arpitbuilds/DSA/tree/master/0986-interval-list-intersections) |
@@ -700,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/arpitbuilds/DSA/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/arpitbuilds/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0788-rotated-digits](https://github.com/arpitbuilds/DSA/tree/master/0788-rotated-digits) |
+| [0973-k-closest-points-to-origin](https://github.com/arpitbuilds/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/arpitbuilds/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/arpitbuilds/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1512-number-of-good-pairs](https://github.com/arpitbuilds/DSA/tree/master/1512-number-of-good-pairs) |
@@ -1118,6 +1120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/arpitbuilds/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/arpitbuilds/DSA/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/arpitbuilds/DSA/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/arpitbuilds/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/arpitbuilds/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arpitbuilds/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
@@ -1152,6 +1155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/arpitbuilds/DSA/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/arpitbuilds/DSA/tree/master/0912-sort-an-array) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/arpitbuilds/DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [0973-k-closest-points-to-origin](https://github.com/arpitbuilds/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/arpitbuilds/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/arpitbuilds/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/arpitbuilds/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -1237,6 +1241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/arpitbuilds/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/arpitbuilds/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/arpitbuilds/DSA/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/arpitbuilds/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/arpitbuilds/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1424-diagonal-traverse-ii](https://github.com/arpitbuilds/DSA/tree/master/1424-diagonal-traverse-ii) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/arpitbuilds/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -1247,6 +1252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/arpitbuilds/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/arpitbuilds/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Design
 |  |
 | ------- |
@@ -1530,6 +1536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/arpitbuilds/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/arpitbuilds/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/arpitbuilds/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Database
