@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/arpitbuilds/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/arpitbuilds/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/arpitbuilds/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/arpitbuilds/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arpitbuilds/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/arpitbuilds/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -1175,6 +1176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/arpitbuilds/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/arpitbuilds/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/arpitbuilds/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/arpitbuilds/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/arpitbuilds/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2248-intersection-of-multiple-arrays](https://github.com/arpitbuilds/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2418-sort-the-people](https://github.com/arpitbuilds/DSA/tree/master/2418-sort-the-people) |
@@ -1306,6 +1308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/arpitbuilds/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/arpitbuilds/DSA/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/arpitbuilds/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/arpitbuilds/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/arpitbuilds/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/arpitbuilds/DSA/tree/master/2423-remove-letter-to-equalize-frequency) |
