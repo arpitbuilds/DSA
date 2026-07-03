@@ -10,8 +10,8 @@
 class Solution {
 public:
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
-        unordered_map<int, TreeNode*> mpp;
-        queue<TreeNode*> q;
+        unordered_map<int, TreeNode*>mpp;
+        queue<TreeNode*>q;
         q.push(root);
         while (!q.empty()) {
             int s = q.size();
@@ -29,31 +29,33 @@ public:
             }
         }
         q.push(target);
-        unordered_map<int, int> vis;
-        vis[target->val] = 1;
+        unordered_map<int, int>vis;
+        vis[target->val]=1;
         while (!q.empty() && k--) {
             int s = q.size();
+           
             for (int i = 0; i < s; i++) {
-                TreeNode* x = q.front();
-                q.pop();
+                TreeNode*x=q.front();
+                 q.pop();
+                if (x->right && !vis[x->right->val]) {
+                    q.push(x->right);
+                    vis[x->right->val] = 1;
+                }
                 if (x->left && !vis[x->left->val]) {
                     q.push(x->left);
-                    vis[x->left->val]=1;
+                    vis[x->left->val] = 1;
                 }
-                if(x->right && !vis[x->right->val]){
-                    q.push(x->right);
-                    vis[x->right->val]=1;
-                }
-                if(mpp[x->val] && !vis[mpp[x->val]->val]){
+                if (mpp[x->val] && !vis[mpp[x->val]->val]) {
                     q.push(mpp[x->val]);
-                    vis[mpp[x->val]->val]=1;
+                    vis[mpp[x->val]->val] = 1;
                 }
             }
         }
-        vector<int>ans;
-        while(!q.empty()){
-            ans.push_back(q.front()->val);
-            q.pop();
+        vector<int> ans;
+        while (!q.empty()) {
+            TreeNode* x = q.front();
+            q.pop() ;
+             ans.push_back(x->val);
         }
         return ans;
     }
