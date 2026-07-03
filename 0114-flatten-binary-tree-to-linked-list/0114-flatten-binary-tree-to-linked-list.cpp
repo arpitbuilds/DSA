@@ -21,5 +21,6 @@ public:
         root->left=NULL;
         root->right=prev;
         prev=root;
+
     }
 };
