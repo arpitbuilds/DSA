@@ -10,29 +10,43 @@
  */
 class Solution {
 public:
-    ListNode* mergeKLists(vector<ListNode*>& lists) {
-        struct  cmp{
-         bool operator()(ListNode*a,ListNode*b){
-            return a->val>b->val;
-         }
-        };
-        priority_queue<ListNode*, vector<ListNode*>, cmp> pq;
-        for (auto list : lists) {
-            if (list) {
-                pq.push(list);
+    ListNode*merge(ListNode*a,ListNode*b){
+        ListNode*x=a;
+        ListNode*y=b;
+        ListNode*dummy=new ListNode(-1);
+        ListNode*cur=dummy;
+        while(x!=NULL && y!=NULL){
+            if(x->val<=y->val){
+            cur->next=x;
+            x=x->next;
+            cur=cur->next;
+            }
+            else{
+                cur->next=y;
+                y=y->next;
+                cur=cur->next;
             }
         }
-        ListNode* dummy = new ListNode(0);
-        ListNode* tail = dummy;
-        while (!pq.empty()) {
-            ListNode* x = pq.top();
-            pq.pop();
-            tail->next = x;
-            tail = tail->next;
-            if (x->next) {
-                pq.push(x->next);
-            }
+        while(x){
+            cur->next=x;
+            cur=cur->next;
+            x=x->next;
+        }
+        while(y){
+            cur->next=y;
+            cur=cur->next;
+            y=y->next;
         }
         return dummy->next;
+    }
+    ListNode* mergeKLists(vector<ListNode*>& lists) {
+        if(lists.empty()){
+            return NULL;
+        }
+        while(lists.size()>1){
+            lists.push_back(merge(lists[0],lists[1]));
+            lists.erase(lists.begin(),lists.begin()+2);
+        }
+        return lists.front();
     }
 };
