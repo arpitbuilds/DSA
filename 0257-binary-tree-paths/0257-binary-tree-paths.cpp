@@ -11,23 +11,26 @@
  */
 class Solution {
 public:
-    void findpath(TreeNode*root,vector<string>&ans,string temp){
-        temp+=to_string(root->val);
+  
+    void solve(TreeNode*root,string s,vector<string>&ans){
+        s+=to_string(root->val);
         if(root->left){
-            findpath(root->left,ans,temp + "->");
+            solve(root->left,s+"->",ans);
         }
         if(root->right){
-            findpath(root->right,ans,temp + "->");
+            solve(root->right,s+"->",ans);
         }
-        if(!root->left && !root->right){
-            ans.push_back(temp);
+        if(root->left==NULL && root->right==NULL){
+            ans.push_back(s);
+            return;
         }
     }
     vector<string> binaryTreePaths(TreeNode* root) {
-        vector<string>ans;
-        if(root){
-            findpath(root,ans,"");
+        string s="";  vector<string>ans;
+        if(root==NULL){
+            return {};
         }
+        solve(root,s,ans);
         return ans;
     }
 };
