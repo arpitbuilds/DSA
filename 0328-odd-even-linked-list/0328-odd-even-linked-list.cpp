@@ -15,15 +15,15 @@ public:
             return head;
         }
         ListNode*evenh=head->next;
-        ListNode*even=head->next;
         ListNode*odd=head;
-        while(odd && odd->next && even &&  even->next){
-            odd->next=odd->next->next;
-            odd=odd->next;
-            even->next=even->next->next;
-            even=even->next;
+        ListNode*even=head->next;
+        while(odd && odd->next &&  even && even->next){
+           odd->next=odd->next->next;
+           odd=odd->next;
+           even->next=even->next->next;
+           even=even->next;
         }
-       odd->next=evenh;
-       return head;
+        odd->next=evenh;
+        return head;
     }
 };
