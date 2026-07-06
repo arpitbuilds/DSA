@@ -13,11 +13,10 @@ public:
             return dp[ind][amt];
         }
         int ntake=0+solve(ind-1,coins,amt,dp);
-        int take=1e9;
-        if(amt>=coins[ind]){
+        int take=INT_MAX;
+        if(coins[ind]<=amt){
             take=1+solve(ind,coins,amt-coins[ind],dp);
         }
-
         return dp[ind][amt]=min(take,ntake);
     }
     int coinChange(vector<int>& coins, int amount) {
