@@ -1,30 +1,24 @@
 class Solution {
 public:
-     int lcs(string s, string t) {
-        int m = s.size();
-        int n = t.size();
-        vector<vector<int>> dp(m + 1, vector<int>(n + 1, 0));
-        for (int i = 0; i < m; i++) {
-            dp[i][0] = 0;
+    int solve(int m,int n, string &s,string &p,vector<vector<int>>&dp){
+        if(m==0 || n==0){
+            return 0;
         }
-        for (int j = 0; j < n; j++) {
-            dp[0][j] = 0;
+        if(dp[m][n]!=-1){
+            return dp[m][n];
         }
-        for (int i = 1; i <=m; i++) {
-            for (int j = 1; j <= n; j++) {
-                if (s[i - 1] == t[j - 1]) {
-                    dp[i][j] = 1 + dp[i - 1][j- 1];
-                } else {
-                    dp[i][j] = max(dp[i - 1][j], dp[i][j - 1]);
-                }
-            }
+        if(s[m-1]==p[n-1]){
+            return dp[m][n]=1+solve(m-1,n-1,s,p,dp);
         }
-        return dp[m][n];
+        int op1=solve(m-1,n,s,p,dp);
+        int op2=solve(m,n-1,s,p,dp);
+        return dp[m][n]=max(op1,op2);
     }
     int longestPalindromeSubseq(string s) {
+        int m=s.size();
         string p=s;
+        vector<vector<int>>dp(m+1,vector<int>(m+1,-1));
         reverse(s.begin(),s.end());
-        int n=lcs(s,p);
-        return n;
+        return solve(m,m,s,p,dp);
     }
 };
