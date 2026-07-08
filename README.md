@@ -728,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-split-array-by-prime-indices](https://github.com/arpitbuilds/DSA/tree/master/3618-split-array-by-prime-indices) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/arpitbuilds/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/arpitbuilds/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/arpitbuilds/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/arpitbuilds/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Recursion
 |  |
@@ -851,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/arpitbuilds/DSA/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3713-longest-balanced-substring-i](https://github.com/arpitbuilds/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/arpitbuilds/DSA/tree/master/3714-longest-balanced-substring-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/arpitbuilds/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/arpitbuilds/DSA/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/arpitbuilds/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
@@ -1503,6 +1505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/arpitbuilds/DSA/tree/master/2906-construct-product-matrix) |
 | [3714-longest-balanced-substring-ii](https://github.com/arpitbuilds/DSA/tree/master/3714-longest-balanced-substring-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arpitbuilds/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/arpitbuilds/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Queue
 |  |
 | ------- |
