@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/arpitbuilds/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/arpitbuilds/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/arpitbuilds/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/arpitbuilds/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/arpitbuilds/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Tree
 |  |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/arpitbuilds/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/arpitbuilds/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/arpitbuilds/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/arpitbuilds/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3618-split-array-by-prime-indices](https://github.com/arpitbuilds/DSA/tree/master/3618-split-array-by-prime-indices) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/arpitbuilds/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/arpitbuilds/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -921,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/arpitbuilds/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2540-minimum-common-value](https://github.com/arpitbuilds/DSA/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/arpitbuilds/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/arpitbuilds/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/arpitbuilds/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Stack
 |  |
@@ -1049,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/arpitbuilds/DSA/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2463-minimum-total-distance-traveled](https://github.com/arpitbuilds/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/arpitbuilds/DSA/tree/master/2573-find-the-string-with-lcp) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/arpitbuilds/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/arpitbuilds/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/arpitbuilds/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
@@ -1194,6 +1198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/arpitbuilds/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/arpitbuilds/DSA/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/arpitbuilds/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/arpitbuilds/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/arpitbuilds/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Bit Manipulation
 |  |
@@ -1211,6 +1216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arpitbuilds/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/arpitbuilds/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2527-find-xor-beauty-of-array](https://github.com/arpitbuilds/DSA/tree/master/2527-find-xor-beauty-of-array) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/arpitbuilds/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -1464,6 +1470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/arpitbuilds/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2573-find-the-string-with-lcp](https://github.com/arpitbuilds/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/arpitbuilds/DSA/tree/master/3085-minimum-deletions-to-make-string-k-special) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/arpitbuilds/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/arpitbuilds/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/arpitbuilds/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Hash Function
@@ -1597,6 +1604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/arpitbuilds/DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/arpitbuilds/DSA/tree/master/0802-find-eventual-safe-states) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/arpitbuilds/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/arpitbuilds/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/arpitbuilds/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
