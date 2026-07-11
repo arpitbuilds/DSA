@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/arpitbuilds/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/arpitbuilds/DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/arpitbuilds/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Array
 |  |
 | ------- |
@@ -1111,6 +1112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/arpitbuilds/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1731-even-odd-tree](https://github.com/arpitbuilds/DSA/tree/master/1731-even-odd-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/arpitbuilds/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Memoization
 |  |
 | ------- |
@@ -1595,6 +1597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/arpitbuilds/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/arpitbuilds/DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/arpitbuilds/DSA/tree/master/2573-find-the-string-with-lcp) |
+| [2685-count-the-number-of-complete-components](https://github.com/arpitbuilds/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/arpitbuilds/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
@@ -1603,6 +1606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/arpitbuilds/DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/arpitbuilds/DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/arpitbuilds/DSA/tree/master/0802-find-eventual-safe-states) |
+| [2685-count-the-number-of-complete-components](https://github.com/arpitbuilds/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/arpitbuilds/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arpitbuilds/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/arpitbuilds/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
