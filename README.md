@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/arpitbuilds/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1306-jump-game-iii](https://github.com/arpitbuilds/DSA/tree/master/1306-jump-game-iii) |
 | [1329-sort-the-matrix-diagonally](https://github.com/arpitbuilds/DSA/tree/master/1329-sort-the-matrix-diagonally) |
+| [1331-rank-transform-of-an-array](https://github.com/arpitbuilds/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/arpitbuilds/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/arpitbuilds/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/arpitbuilds/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/arpitbuilds/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/arpitbuilds/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1331-rank-transform-of-an-array](https://github.com/arpitbuilds/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arpitbuilds/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/arpitbuilds/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -1179,6 +1181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/arpitbuilds/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/arpitbuilds/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1329-sort-the-matrix-diagonally](https://github.com/arpitbuilds/DSA/tree/master/1329-sort-the-matrix-diagonally) |
+| [1331-rank-transform-of-an-array](https://github.com/arpitbuilds/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/arpitbuilds/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1424-diagonal-traverse-ii](https://github.com/arpitbuilds/DSA/tree/master/1424-diagonal-traverse-ii) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/arpitbuilds/DSA/tree/master/1451-rearrange-words-in-a-sentence) |
