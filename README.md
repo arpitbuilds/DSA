@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/arpitbuilds/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/arpitbuilds/DSA/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/arpitbuilds/DSA/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1248-count-number-of-nice-subarrays](https://github.com/arpitbuilds/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/arpitbuilds/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/arpitbuilds/DSA/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/arpitbuilds/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/arpitbuilds/DSA/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1034-subarrays-with-k-different-integers](https://github.com/arpitbuilds/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/arpitbuilds/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1248-count-number-of-nice-subarrays](https://github.com/arpitbuilds/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/arpitbuilds/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/arpitbuilds/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/arpitbuilds/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/arpitbuilds/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/arpitbuilds/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/arpitbuilds/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/arpitbuilds/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arpitbuilds/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/arpitbuilds/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arpitbuilds/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -718,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/arpitbuilds/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0788-rotated-digits](https://github.com/arpitbuilds/DSA/tree/master/0788-rotated-digits) |
 | [0973-k-closest-points-to-origin](https://github.com/arpitbuilds/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1248-count-number-of-nice-subarrays](https://github.com/arpitbuilds/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1370-count-number-of-nice-subarrays](https://github.com/arpitbuilds/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/arpitbuilds/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1512-number-of-good-pairs](https://github.com/arpitbuilds/DSA/tree/master/1512-number-of-good-pairs) |
@@ -1516,6 +1520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/arpitbuilds/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/arpitbuilds/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/arpitbuilds/DSA/tree/master/1109-corporate-flight-bookings) |
+| [1248-count-number-of-nice-subarrays](https://github.com/arpitbuilds/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1370-count-number-of-nice-subarrays](https://github.com/arpitbuilds/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arpitbuilds/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/arpitbuilds/DSA/tree/master/1480-running-sum-of-1d-array) |
