@@ -1,10 +1,10 @@
 class Solution {
 public:
     int maxScore(vector<int>&p, int k) {
-        int tsum=0;
-        for(auto it : p ){
-            tsum+=it;
-        }
+        // int tsum=0;
+        // for(auto it : p ){
+        //     tsum+=it;
+        // }
         int n=p.size();
         int maxi=0;
         int lsum=0;
