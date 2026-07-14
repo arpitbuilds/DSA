@@ -1074,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/arpitbuilds/DSA/tree/master/0875-longest-mountain-in-array) |
+| [1291-sequential-digits](https://github.com/arpitbuilds/DSA/tree/master/1291-sequential-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/arpitbuilds/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arpitbuilds/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/arpitbuilds/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
