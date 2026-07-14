@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/arpitbuilds/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/arpitbuilds/DSA/tree/master/3194-find-words-containing-character) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/arpitbuilds/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arpitbuilds/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3429-special-array-i](https://github.com/arpitbuilds/DSA/tree/master/3429-special-array-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/arpitbuilds/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/arpitbuilds/DSA/tree/master/3488-closest-equal-element-queries) |
@@ -739,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3101-count-alternating-subarrays](https://github.com/arpitbuilds/DSA/tree/master/3101-count-alternating-subarrays) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/arpitbuilds/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/arpitbuilds/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arpitbuilds/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/arpitbuilds/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3618-split-array-by-prime-indices](https://github.com/arpitbuilds/DSA/tree/master/3618-split-array-by-prime-indices) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/arpitbuilds/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -998,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/arpitbuilds/DSA/tree/master/0258-add-digits) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/arpitbuilds/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arpitbuilds/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3618-split-array-by-prime-indices](https://github.com/arpitbuilds/DSA/tree/master/3618-split-array-by-prime-indices) |
 ## Dynamic Programming
 |  |
@@ -1063,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/arpitbuilds/DSA/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2463-minimum-total-distance-traveled](https://github.com/arpitbuilds/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/arpitbuilds/DSA/tree/master/2573-find-the-string-with-lcp) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arpitbuilds/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arpitbuilds/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/arpitbuilds/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/arpitbuilds/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
