@@ -475,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/arpitbuilds/DSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2270-number-of-ways-to-split-array](https://github.com/arpitbuilds/DSA/tree/master/2270-number-of-ways-to-split-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arpitbuilds/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/arpitbuilds/DSA/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/arpitbuilds/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2418-sort-the-people](https://github.com/arpitbuilds/DSA/tree/master/2418-sort-the-people) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/arpitbuilds/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -1403,6 +1404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/arpitbuilds/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1914-cyclically-rotating-a-grid](https://github.com/arpitbuilds/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/arpitbuilds/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/arpitbuilds/DSA/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/arpitbuilds/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2573-find-the-string-with-lcp](https://github.com/arpitbuilds/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arpitbuilds/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
