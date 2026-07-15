@@ -497,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/arpitbuilds/DSA/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/arpitbuilds/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/arpitbuilds/DSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [2965-find-missing-and-repeated-values](https://github.com/arpitbuilds/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/arpitbuilds/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/arpitbuilds/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3101-count-alternating-subarrays](https://github.com/arpitbuilds/DSA/tree/master/3101-count-alternating-subarrays) |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/arpitbuilds/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/arpitbuilds/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/arpitbuilds/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/arpitbuilds/DSA/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/arpitbuilds/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -737,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-find-xor-beauty-of-array](https://github.com/arpitbuilds/DSA/tree/master/2527-find-xor-beauty-of-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/arpitbuilds/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/arpitbuilds/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2965-find-missing-and-repeated-values](https://github.com/arpitbuilds/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/arpitbuilds/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3101-count-alternating-subarrays](https://github.com/arpitbuilds/DSA/tree/master/3101-count-alternating-subarrays) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/arpitbuilds/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -1410,6 +1413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arpitbuilds/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/arpitbuilds/DSA/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/arpitbuilds/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2965-find-missing-and-repeated-values](https://github.com/arpitbuilds/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/arpitbuilds/DSA/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Combinatorics
 |  |
