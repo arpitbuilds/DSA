@@ -1,37 +1,29 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        vector<vector<int>>result;
-        int n=nums.size();
-        if(n<3){
-            return {};
-        }
-        sort(nums.begin(),nums.end());
-        for(int i=0;i<n;i++){
-            if(i>0 && nums[i]==nums[i-1]){
-                continue;
-            }
-            int target=-nums[i];
-            int l=i+1;
-            int r=n-1;
-            while(l<r){
-                int sum=nums[l]+nums[r];
-                if(sum>target){
-                    r--;
-                }
-                else if(sum<target){
-                    l++;
-                }
-                else{
-                    result.push_back({nums[i],nums[l],nums[r]});
-                    while(l<r && nums[l]==nums[l+1]){
-                        l++;
-                    }
-                    while(l<r && nums[r]==nums[r-1]){
-                        r--;
-                    }
-                    l++;
-                    r--;
+        vector<vector<int>> result;
+        sort(nums.begin(), nums.end());
+        
+        for (int i = 0; i < (int)nums.size() - 2; i++) {
+            // Skip duplicate values for the fixed element
+            if (i > 0 && nums[i] == nums[i - 1]) continue;
+            
+            int left = i + 1, right = nums.size() - 1;
+            while (left < right) {
+                int sum = nums[i] + nums[left] + nums[right];
+                if (sum == 0) {
+                    result.push_back({nums[i], nums[left], nums[right]});
+                    
+                    // Skip duplicate values for left and right pointers
+                    while (left < right && nums[left] == nums[left + 1]) left++;
+                    while (left < right && nums[right] == nums[right - 1]) right--;
+                    
+                    left++;
+                    right--;
+                } else if (sum < 0) {
+                    left++;
+                } else {
+                    right--;
                 }
             }
         }
