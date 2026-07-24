@@ -10,43 +10,43 @@
  */
 class Solution {
 public:
-    ListNode*merge(ListNode*a,ListNode*b){
-        ListNode*x=a;
-        ListNode*y=b;
-        ListNode*dummy=new ListNode(-1);
-        ListNode*cur=dummy;
-        while(x!=NULL && y!=NULL){
-            if(x->val<=y->val){
-            cur->next=x;
-            x=x->next;
-            cur=cur->next;
+   ListNode* merge(ListNode* list1, ListNode* list2) {
+        ListNode*dumh=new ListNode(0);
+        ListNode*a=list1;
+        ListNode*b=list2;
+        ListNode*dummy=dumh;
+        while(a!=NULL && b!=NULL){
+            if(a->val<=b->val){
+                dummy->next=a;
+                a=a->next;
+                dummy=dummy->next;
             }
             else{
-                cur->next=y;
-                y=y->next;
-                cur=cur->next;
+                dummy->next=b;
+                b=b->next;
+                dummy=dummy->next;
             }
         }
-        while(x){
-            cur->next=x;
-            cur=cur->next;
-            x=x->next;
+        while(a!=NULL){
+            dummy->next=a;
+            a=a->next;
+            dummy=dummy->next;
         }
-        while(y){
-            cur->next=y;
-            cur=cur->next;
-            y=y->next;
+        while(b){
+            dummy->next=b;
+            b=b->next;
+            dummy=dummy->next;
         }
-        return dummy->next;
+        return dumh->next;
     }
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        if(lists.empty()){
-            return NULL;
-        }
-        while(lists.size()>1){
-            lists.push_back(merge(lists[0],lists[1]));
-            lists.erase(lists.begin(),lists.begin()+2);
-        }
-        return lists.front();
+      if(lists.empty()){
+        return NULL;
+      }
+      while(lists.size()>1){
+        lists.push_back(merge(lists[0],lists[1]));
+        lists.erase(lists.begin(),lists.begin()+2);
+      }
+      return lists[0];
     }
 };
