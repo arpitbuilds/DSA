@@ -7,7 +7,7 @@ public:
             if(cnt==0){
                 res=it;
             }
-            cnt+=res==it?1:-1;
+            cnt+=(res==it)?1:-1;
         }
         return res;
     }
