@@ -26,9 +26,9 @@ public:
         }
         int d=0;
         solve(root,d);
-        if(d>1){
-            return false;
+        if(d<=1){
+            return true;
         }
-        return true;
+        return false;
     }
 };
