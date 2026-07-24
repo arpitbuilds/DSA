@@ -11,20 +11,20 @@
  */
 class Solution {
 public:
-    void find(TreeNode*root,vector<int>&v){
+    void solve(TreeNode*root,vector<int>&ans){
         if(root==NULL){
-            return ;
+            return;
         }
-        v.push_back(root->val);
-        find(root->left,v);
-        find(root->right,v);
+        ans.push_back(root->val);
+        solve(root->left,ans);
+        solve(root->right,ans);
     }
     vector<int> preorderTraversal(TreeNode* root) {
         if(root==NULL){
             return {};
         }
-        vector<int>v;
-        find(root,v);
-        return v;
+        vector<int>ans;
+        solve(root,ans);
+        return ans;
     }
 };
