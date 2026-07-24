@@ -22,20 +22,21 @@ public:
         solve(root->right);
     }
     bool findTarget(TreeNode* root, int k) {
-        solve(root);
-        int l = 0;
-        int n = ans.size();
-        int r = n - 1;
-        while (l < r) {
-            int sum = ans[l] + ans[r] ;
-            if (sum == k) { return true; }
-            else if (sum < k) {
-                l++;
-            }
-            else {
-                r--;
-            }
+     solve(root);
+     int l=0;
+     int r=ans.size()-1;
+     while(l<r){
+        int sum=ans[l]+ans[r];
+        if(sum==k){
+            return true;
         }
+        else if(sum<k){
+            l++;
+        }
+        else if(sum>k){
+            r--;
+        }
+     }
         return false;
     }
 };
