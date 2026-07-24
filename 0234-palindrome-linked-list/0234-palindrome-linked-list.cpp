@@ -24,31 +24,29 @@ public:
         }
         return prev;
     }
-    ListNode* mid(ListNode* head) {
-        ListNode* slow = head;
-        ListNode* fast = head->next;
-        while (fast && fast->next) {
-            slow = slow->next;
-            fast = fast->next->next;
-        }
-
-        return slow;
+   ListNode*midi(ListNode*x){
+    ListNode*slow=x;
+    ListNode*fast=x->next;
+    while(fast && fast->next){
+        slow=slow->next;
+        fast=fast->next->next;
     }
+    return slow;
+   }
     bool isPalindrome(ListNode* head) {
-        if(head==NULL || head->next==NULL){
-            return true;
+       if(head==NULL || head->next==NULL){
+        return true;
+       }
+       ListNode*mid=midi(head);
+       ListNode*rev=reverseList(mid->next);
+       ListNode*cur=head;
+       while(cur && rev){
+        if(cur->val!=rev->val){
+            return false;
         }
-        ListNode*x=mid(head);
-        ListNode*rev=reverseList(x);
-        x->next=NULL;
-        ListNode*cur=head;
-        while(cur && rev){
-            if(cur->val!=rev->val){
-                return false;
-            }
-            cur=cur->next;
-            rev=rev->next;
-        }
-return true;
+        cur=cur->next;
+        rev=rev->next;
+       }
+       return true;
     }
 };
