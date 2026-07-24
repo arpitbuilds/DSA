@@ -15,7 +15,6 @@ public:
         if(root==NULL){
             return;
         }
-     
         solve(root->left,ans);
         ans.push_back(root->val);
         solve(root->right,ans);
