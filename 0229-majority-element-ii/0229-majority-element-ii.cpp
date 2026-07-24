@@ -18,7 +18,7 @@ public:
                 a=it;
             }
             else if(cnt2==0){
-                cnt2=0;
+                cnt2=1;
                 b=it;
             }
             else{
