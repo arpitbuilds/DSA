@@ -1,10 +1,10 @@
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& mat) {
-        set<int> r;
-        set<int> c;
         int m = mat.size();
         int n = mat[0].size();
+        set<int> r;
+        set<int> c;
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 if (mat[i][j] == 0) {
@@ -13,6 +13,7 @@ public:
                 }
             }
         }
+
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 if (r.count(i) || c.count(j)) {
