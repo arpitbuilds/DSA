@@ -30,8 +30,8 @@ public:
             prev=prev->next;
         }
         ListNode*newh=prev->next;
-        prev->next=NULL;
         temp->next=head;
+        prev->next=NULL;
         return newh;
     }
 };
