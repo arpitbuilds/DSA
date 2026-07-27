@@ -9,7 +9,7 @@ public:
         if(nums[mid]==target){
             return mid;
         }
-        else if(nums[mid]<target){
+        if(nums[mid]<target){
             l=mid+1;
         }
         else{
