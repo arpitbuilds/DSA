@@ -7,14 +7,15 @@ public:
         for(auto it : st){
             if(st.find(it-1)==st.end()){
                 int cnt=1;
-                int cc=it;
-                while(st.find(it+1)!=st.end()){
-                    cnt++;
-                    it++;
+                int cn=it;
+                while(st.find(cn+1)!=st.end()){
+                 cnt++;
+                 cn++;
                 }
                 maxi=max(maxi,cnt);
             }
         }
         return maxi;
+
     }
 };
