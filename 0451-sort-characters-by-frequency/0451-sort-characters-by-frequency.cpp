@@ -11,10 +11,11 @@ public:
         }
         string ans="";
         while(!pq.empty()){
-           int freq=-pq.top().first;
-           char ch=pq.top().second;
-           pq.pop();
-           ans+=string(freq,ch);
+            int x=-pq.top().first;
+            char ch=pq.top().second;
+            pq.pop();
+            ans+=string(x,ch);
+
         }
         return ans;
     }
