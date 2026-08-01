@@ -9,14 +9,14 @@ public:
                 return 1e9;
             }
         }
-        if(dp[ind][amt]!=-1){
+           if(dp[ind][amt]!=-1){
             return dp[ind][amt];
         }
-        int ntake=0+solve(ind-1,coins,amt,dp);
         int take=INT_MAX;
         if(coins[ind]<=amt){
-            take=1+solve(ind,coins,amt-coins[ind],dp);
+           take=1+solve(ind,coins,amt-coins[ind],dp);
         }
+        int ntake=0+solve(ind-1,coins,amt,dp);
         return dp[ind][amt]=min(take,ntake);
     }
     int coinChange(vector<int>& coins, int amount) {
