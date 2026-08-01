@@ -1,28 +1,28 @@
 class Solution {
 public:
-    void solve(int ind,vector<vector<int>>&ans,vector<int>&v,vector<int>&c,int target){
+        vector<vector<int>>ans;
+    void solve(int ind,vector<int>&v,vector<int>&c,int t){
+        int n=c.size();
         if(ind==c.size()){
-            if(target==0){
+            if(t==0){
                 ans.push_back(v);
             }
-            return;
+            return ;
         }
-        if(c[ind]<=target){
+        if(c[ind]<=t){
             v.push_back(c[ind]);
-            solve(ind+1,ans,v,c,target-c[ind]);
+            solve(ind+1,v,c,t-c[ind]);
             v.pop_back();
         }
-        while(ind+1<c.size() && c[ind]==c[ind+1]){
+        while(ind+1<n && c[ind]==c[ind+1]){
             ind++;
         }
-        solve(ind+1,ans,v,c,target);
+        solve(ind+1,v,c,t);
     }
     vector<vector<int>> combinationSum2(vector<int>& c, int target) {
-        vector<vector<int>>ans;
         vector<int>v;
         sort(c.begin(),c.end());
-        solve(0,ans,v,c,target);
+        solve(0,v,c,target);
         return ans;
-
     }
 };
