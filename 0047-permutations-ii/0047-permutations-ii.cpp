@@ -1,31 +1,29 @@
 class Solution {
 public:
-    vector<vector<int>> ans;
-    void solve(int ind, vector<int>& v, vector<int>& vis, vector<int>& nums) {
-
-        if (ind == nums.size()) {
+    void solve(int ind,vector<int>&nums,vector<vector<int>>&ans,vector<int>&v,vector<int>&vis){
+        if(ind==nums.size()){
             ans.push_back(v);
             return;
         }
-        for (int i = 0; i < nums.size(); i++) {
-            if (!vis[i]) {
+        for(int i=0;i<nums.size();i++){
+            if(!vis[i]){
+                vis[i]=1;
                 v.push_back(nums[i]);
-                vis[i] = 1;
-                solve(ind + 1, v, vis, nums);
-                 vis[i] = 0;
+                solve(ind+1,nums,ans,v,vis);
+                vis[i]=0;
                 while(i+1<nums.size() && nums[i]==nums[i+1]){
-                     i++;
+                    i++;
                 }
                 v.pop_back();
             }
         }
     }
     vector<vector<int>> permuteUnique(vector<int>& nums) {
-        vector<int>v;
         sort(nums.begin(),nums.end());
-        int n=nums.size();
-        vector<int>vis(n,0);
-        solve(0,v,vis,nums);
+        vector<vector<int>>ans;
+        vector<int>v;
+        vector<int>vis(nums.size(),0);
+        solve(0,nums,ans,v,vis);
         return ans;
     }
 };
