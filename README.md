@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/arpitbuilds/DSA/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/arpitbuilds/DSA/tree/master/0874-walking-robot-simulation) |
 | [0875-longest-mountain-in-array](https://github.com/arpitbuilds/DSA/tree/master/0875-longest-mountain-in-array) |
+| [0877-stone-game](https://github.com/arpitbuilds/DSA/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/arpitbuilds/DSA/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/arpitbuilds/DSA/tree/master/0890-find-and-replace-pattern) |
 | [0896-monotonic-array](https://github.com/arpitbuilds/DSA/tree/master/0896-monotonic-array) |
@@ -732,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/arpitbuilds/DSA/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/arpitbuilds/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0788-rotated-digits](https://github.com/arpitbuilds/DSA/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/arpitbuilds/DSA/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/arpitbuilds/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/arpitbuilds/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1370-count-number-of-nice-subarrays](https://github.com/arpitbuilds/DSA/tree/master/1370-count-number-of-nice-subarrays) |
@@ -1081,6 +1083,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/arpitbuilds/DSA/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/arpitbuilds/DSA/tree/master/0799-champagne-tower) |
 | [0875-longest-mountain-in-array](https://github.com/arpitbuilds/DSA/tree/master/0875-longest-mountain-in-array) |
+| [0877-stone-game](https://github.com/arpitbuilds/DSA/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/arpitbuilds/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0943-sum-of-subarray-minimums](https://github.com/arpitbuilds/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/arpitbuilds/DSA/tree/master/0967-minimum-falling-path-sum) |
@@ -1685,4 +1688,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/arpitbuilds/DSA/tree/master/0986-interval-list-intersections) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/arpitbuilds/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
