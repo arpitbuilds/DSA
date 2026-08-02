@@ -514,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/arpitbuilds/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arpitbuilds/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3429-special-array-i](https://github.com/arpitbuilds/DSA/tree/master/3429-special-array-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/arpitbuilds/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/arpitbuilds/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/arpitbuilds/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/arpitbuilds/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -753,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/arpitbuilds/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/arpitbuilds/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arpitbuilds/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/arpitbuilds/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/arpitbuilds/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/arpitbuilds/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3618-split-array-by-prime-indices](https://github.com/arpitbuilds/DSA/tree/master/3618-split-array-by-prime-indices) |
@@ -1573,6 +1575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-number-of-ways-to-split-array](https://github.com/arpitbuilds/DSA/tree/master/2270-number-of-ways-to-split-array) |
 | [2574-left-and-right-sum-differences](https://github.com/arpitbuilds/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/arpitbuilds/DSA/tree/master/2906-construct-product-matrix) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/arpitbuilds/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3714-longest-balanced-substring-ii](https://github.com/arpitbuilds/DSA/tree/master/3714-longest-balanced-substring-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arpitbuilds/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/arpitbuilds/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
