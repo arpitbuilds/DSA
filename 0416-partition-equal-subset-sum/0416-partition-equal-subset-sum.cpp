@@ -1,26 +1,28 @@
 class Solution {
 public:
-        bool isSubsetSum(vector<int>& arr, int sum) {
+  bool solve(int ind,vector<int>&arr,vector<vector<int>>&dp,int sum){
+        
+        if(sum==0){
+            return true;
+        }
+        if(ind==0){
+            return arr[ind]==sum;
+        }
+        if(dp[ind][sum]!=-1){
+            return dp[ind][sum];
+        }
+        bool ntake=solve(ind-1,arr,dp,sum);
+        bool take=false;
+        if(arr[ind]<=sum){
+            take=solve(ind-1,arr,dp,sum-arr[ind]);
+        }
+        return dp[ind][sum]=take | ntake;
+    }
+    bool isSubsetSum(vector<int>& arr, int sum) {
         // code here
-        int n=arr.size();
-         vector<vector<bool>>dp(n,vector<bool>(sum+1,false));
-         for(int i=0;i<n;i++){
-             dp[i][0]=true;
-         }
-         if(arr[0]<=sum){
-         dp[0][arr[0]]=true;
-         }
-         for(int i=1;i<n;i++){
-             for(int j=1;j<=sum;j++){
-                 bool ntake=dp[i-1][j];
-                 bool take=false;
-                 if(j>=arr[i]){
-                     take=dp[i-1][j-arr[i]];
-                 }
-                 dp[i][j]=take|ntake;
-             }
-         }
-         return dp[n-1][sum];
+       int n=arr.size();
+       vector<vector<int>>dp(n,vector<int>(sum+1,-1));
+       return solve(n-1,arr,dp,sum);
     }
     bool canPartition(vector<int>& nums) {
         int tsum=0;
@@ -30,7 +32,7 @@ public:
         }
         if(tsum%2!=0){
             return false;
-    }
+        }
         return isSubsetSum(nums,tsum/2);
     }
 };
