@@ -1,27 +1,26 @@
 class Solution {
 public:
-    string expand(string s , int l , int r){
-        while(l>=0 && r<s.size()){
-            if(s[l]==s[r]){
+    string ans = "";
+    string solve(int l, int r, string s) {
+        while (l >= 0 && r < s.size()) {
+            if (s[l] == s[r]) {
                 l--;
                 r++;
-            }
-            else{
+            } else {
                 break;
             }
         }
-        return s.substr(l+1,r-l-1);
+        return s.substr(l + 1, r - l - 1);
     }
     string longestPalindrome(string s) {
         int n = s.size();
-        string ans = "";
         for (int i = 0; i < n; i++) {
-            string odd = expand(s, i, i);
-            string even = expand(s, i, i + 1);
-            if (ans.size() < odd.size()) {
+            string odd = solve(i, i, s);
+            string even = solve(i, i + 1, s);
+            if (odd.size() > ans.size()) {
                 ans = odd;
-            }
-            if (ans.size() < even.size()) {
+            } 
+             if(even.size()>ans.size()){
                 ans = even;
             }
         }
