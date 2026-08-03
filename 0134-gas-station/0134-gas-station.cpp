@@ -9,14 +9,16 @@ public:
         for(auto it : cost){
             tcost+=it;
         }
-         if(tgas < tcost) return -1;
+        if(tgas<tcost){
+            return -1;
+        }
         int cgas=0;
         int sind=0;
         for(int i=0;i<gas.size();i++){
             cgas+=gas[i]-cost[i];
             if(cgas<0){
-                sind=i+1;
                 cgas=0;
+                sind=i+1;
             }
         }
         return sind;
