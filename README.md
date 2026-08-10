@@ -738,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/arpitbuilds/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1370-count-number-of-nice-subarrays](https://github.com/arpitbuilds/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/arpitbuilds/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1510-stone-game-iv](https://github.com/arpitbuilds/DSA/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/arpitbuilds/DSA/tree/master/1512-number-of-good-pairs) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/arpitbuilds/DSA/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/arpitbuilds/DSA/tree/master/1759-count-number-of-homogenous-substrings) |
@@ -1095,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/arpitbuilds/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/arpitbuilds/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/arpitbuilds/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1510-stone-game-iv](https://github.com/arpitbuilds/DSA/tree/master/1510-stone-game-iv) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/arpitbuilds/DSA/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2463-minimum-total-distance-traveled](https://github.com/arpitbuilds/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/arpitbuilds/DSA/tree/master/2573-find-the-string-with-lcp) |
@@ -1694,4 +1696,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/arpitbuilds/DSA/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/arpitbuilds/DSA/tree/master/1510-stone-game-iv) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/arpitbuilds/DSA/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/arpitbuilds/DSA/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/arpitbuilds/DSA/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/arpitbuilds/DSA/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
