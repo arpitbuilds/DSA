@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/arpitbuilds/DSA/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arpitbuilds/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/arpitbuilds/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/arpitbuilds/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/arpitbuilds/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/arpitbuilds/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/arpitbuilds/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/arpitbuilds/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/arpitbuilds/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3101-count-alternating-subarrays](https://github.com/arpitbuilds/DSA/tree/master/3101-count-alternating-subarrays) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/arpitbuilds/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/arpitbuilds/DSA/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/arpitbuilds/DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/arpitbuilds/DSA/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -760,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/arpitbuilds/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/arpitbuilds/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3101-count-alternating-subarrays](https://github.com/arpitbuilds/DSA/tree/master/3101-count-alternating-subarrays) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/arpitbuilds/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/arpitbuilds/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/arpitbuilds/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arpitbuilds/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -1038,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/arpitbuilds/DSA/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arpitbuilds/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/arpitbuilds/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/arpitbuilds/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arpitbuilds/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/arpitbuilds/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3618-split-array-by-prime-indices](https://github.com/arpitbuilds/DSA/tree/master/3618-split-array-by-prime-indices) |
@@ -1285,6 +1289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arpitbuilds/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/arpitbuilds/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2527-find-xor-beauty-of-array](https://github.com/arpitbuilds/DSA/tree/master/2527-find-xor-beauty-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/arpitbuilds/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/arpitbuilds/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arpitbuilds/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
@@ -1468,6 +1473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/arpitbuilds/DSA/tree/master/0062-unique-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/arpitbuilds/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arpitbuilds/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/arpitbuilds/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Brainteaser
 |  |
 | ------- |
