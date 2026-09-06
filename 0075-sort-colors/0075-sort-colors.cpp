@@ -8,8 +8,8 @@ public:
         while(i<=r){
             if(nums[i]==0){
                 swap(nums[i],nums[l]);
-                i++;
                 l++;
+                i++;
             }
             else if(nums[i]==2){
                 swap(nums[i],nums[r]);
