@@ -1737,4 +1737,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1510-stone-game-iv](https://github.com/arpitbuilds/DSA/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/arpitbuilds/DSA/tree/master/2029-stone-game-ix) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/arpitbuilds/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/arpitbuilds/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
