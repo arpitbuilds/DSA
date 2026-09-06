@@ -4,15 +4,15 @@ public:
         int n=nums.size();
         int l=0;
         int r=0;
-        int cnt=0;
-        int maxi=0;
+        int z=0;
+        int maxi=INT_MIN;
         while(r<n){
             if(nums[r]==0){
-                cnt++;
+               z++;
             }
-            while(cnt>k){
+            while(z>k){
                 if(nums[l]==0){
-                    cnt--;
+                    z--;
                 }
                 l++;
             }
