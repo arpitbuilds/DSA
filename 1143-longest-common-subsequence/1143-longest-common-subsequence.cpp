@@ -7,7 +7,6 @@ public:
         if(dp[i][j]!=-1){
             return dp[i][j];
         }
-
         if(s[i]==t[j]){
             return dp[i][j]=1+solve(i-1,j-1,s,t,dp);
         }
@@ -16,9 +15,9 @@ public:
         return dp[i][j]=max(op1,op2);
     }
     int longestCommonSubsequence(string s, string t) {
-        int m=s.size();
-        int n=t.size();
-        vector<vector<int>>dp(m,vector<int>(n,-1));
-        return solve(m-1,n-1,s,t,dp);
+       int m=s.size();
+       int n=t.size();
+       vector<vector<int>>dp(m,vector<int>(n,-1));
+       return solve(m-1,n-1,s,t,dp);
     }
 };
