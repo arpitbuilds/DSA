@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/arpitbuilds/DSA/tree/master/0875-koko-eating-bananas) |
 | [0933-increasing-order-search-tree](https://github.com/arpitbuilds/DSA/tree/master/0933-increasing-order-search-tree) |
 | [1004-max-consecutive-ones-iii](https://github.com/arpitbuilds/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/arpitbuilds/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/arpitbuilds/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/arpitbuilds/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/arpitbuilds/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/arpitbuilds/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/arpitbuilds/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/arpitbuilds/DSA/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/arpitbuilds/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/arpitbuilds/DSA/tree/master/1020-number-of-enclaves) |
 | [1034-subarrays-with-k-different-integers](https://github.com/arpitbuilds/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/arpitbuilds/DSA/tree/master/1036-rotting-oranges) |
