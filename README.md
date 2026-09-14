@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/arpitbuilds/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/arpitbuilds/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/arpitbuilds/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/arpitbuilds/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/arpitbuilds/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1382-balance-a-binary-search-tree](https://github.com/arpitbuilds/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/arpitbuilds/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/arpitbuilds/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/arpitbuilds/DSA/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/arpitbuilds/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/arpitbuilds/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/arpitbuilds/DSA/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/arpitbuilds/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/arpitbuilds/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
