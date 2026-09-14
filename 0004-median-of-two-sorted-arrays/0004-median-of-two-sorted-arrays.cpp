@@ -2,27 +2,25 @@ class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
         priority_queue<int,vector<int>,greater<int>>pq;
-        for(auto x : nums1){
-            pq.push(x);
+        for(auto it : nums1){
+            pq.push(it);
         }
-        for(auto x : nums2){
-            pq.push(x);
+         for(auto it : nums2){
+            pq.push(it);
         }
-        int tot=nums1.size()+nums2.size();
-        int mid=tot/2;
-        int prev=0;
+        int n=pq.size();
+        int mid=n/2;
         int cur=0;
+        int prev=0;
         for(int i=0;i<=mid;i++){
-          prev=cur;
-          cur=pq.top();
-          pq.pop();
+            prev=cur;
+            cur=pq.top();
+            pq.pop();
         }
-        if(tot%2==1){
+        if(n%2==1){
             return cur;
         }
-        else{
-            return (cur+prev)/2.0;
-        }
+        return double((prev+cur)/2.0);
 
     }
 };
