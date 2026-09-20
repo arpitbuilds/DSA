@@ -10,11 +10,13 @@ public:
             key=k;
             val=v;
         }
+
     };
     int cap;
     Node*head=new Node(-1,-1);
     Node*tail=new Node(-1,-1);
     unordered_map<int,Node*>mpp;
+
     LRUCache(int capacity) {
         cap=capacity;
         head->next=tail;
@@ -23,15 +25,16 @@ public:
     void insertatfront(Node*node){
         Node*temp=head->next;
         head->next=node;
-        temp->prev=node;
         node->next=temp;
+        temp->prev=node;
         node->prev=head;
+
     }
     void del(Node*node){
-        Node*front=node->next;
-        Node*previous=node->prev;
-        previous->next=front;
-        front->prev=previous;
+        Node*prevn=node->prev;
+        Node*nextn=node->next;
+        prevn->next=nextn;
+        nextn->prev=prevn;
     }
     int get(int key) {
         if(mpp.find(key)!=mpp.end()){
@@ -53,8 +56,8 @@ public:
         else{
             if(mpp.size()==cap){
                 Node*lru=tail->prev;
-                del(lru);
                 mpp.erase(lru->key);
+                del(lru);
                 delete lru;
             }
             Node*node=new Node(key,value);
