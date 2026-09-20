@@ -10,6 +10,7 @@ public:
             st.push({val,val});
             mini=val;
         }
+        else{
         if(val<st.top().second){
             mini=min({mini,val});
             st.push({val,mini});
@@ -18,6 +19,7 @@ public:
             mini=st.top().second;
             st.push({val,mini});
 
+        }
         }
 
     }
