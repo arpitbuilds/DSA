@@ -12,7 +12,7 @@ public:
         }
         else{
         if(val<st.top().second){
-            mini=min({mini,val});
+            mini=val;
             st.push({val,mini});
         }
         else{
