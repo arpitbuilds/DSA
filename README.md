@@ -1775,4 +1775,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arpitbuilds/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/arpitbuilds/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
