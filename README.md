@@ -511,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/arpitbuilds/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2836-neither-minimum-nor-maximum](https://github.com/arpitbuilds/DSA/tree/master/2836-neither-minimum-nor-maximum) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/arpitbuilds/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2906-construct-product-matrix](https://github.com/arpitbuilds/DSA/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/arpitbuilds/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/arpitbuilds/DSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/arpitbuilds/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/arpitbuilds/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/arpitbuilds/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2965-find-missing-and-repeated-values](https://github.com/arpitbuilds/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/arpitbuilds/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/arpitbuilds/DSA/tree/master/3085-minimum-deletions-to-make-string-k-special) |
@@ -1301,6 +1303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arpitbuilds/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/arpitbuilds/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2527-find-xor-beauty-of-array](https://github.com/arpitbuilds/DSA/tree/master/2527-find-xor-beauty-of-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/arpitbuilds/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/arpitbuilds/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/arpitbuilds/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arpitbuilds/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1569,6 +1572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-construct-smallest-number-from-di-string](https://github.com/arpitbuilds/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/arpitbuilds/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2573-find-the-string-with-lcp](https://github.com/arpitbuilds/DSA/tree/master/2573-find-the-string-with-lcp) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/arpitbuilds/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/arpitbuilds/DSA/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/arpitbuilds/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arpitbuilds/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
