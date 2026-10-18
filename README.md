@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/arpitbuilds/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arpitbuilds/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1731-even-odd-tree](https://github.com/arpitbuilds/DSA/tree/master/1731-even-odd-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/arpitbuilds/DSA/tree/master/2384-root-equals-sum-of-children) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/arpitbuilds/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/arpitbuilds/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/arpitbuilds/DSA/tree/master/1539-kth-missing-positive-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arpitbuilds/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/arpitbuilds/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/arpitbuilds/DSA/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arpitbuilds/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/arpitbuilds/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arpitbuilds/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1731-even-odd-tree](https://github.com/arpitbuilds/DSA/tree/master/1731-even-odd-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/arpitbuilds/DSA/tree/master/2384-root-equals-sum-of-children) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/arpitbuilds/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/arpitbuilds/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/arpitbuilds/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/arpitbuilds/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arpitbuilds/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1572-matrix-diagonal-sum](https://github.com/arpitbuilds/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/arpitbuilds/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/arpitbuilds/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -762,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/arpitbuilds/DSA/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/arpitbuilds/DSA/tree/master/1512-number-of-good-pairs) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/arpitbuilds/DSA/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arpitbuilds/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/arpitbuilds/DSA/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/arpitbuilds/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arpitbuilds/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -1124,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/arpitbuilds/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/arpitbuilds/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1510-stone-game-iv](https://github.com/arpitbuilds/DSA/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arpitbuilds/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/arpitbuilds/DSA/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2463-minimum-total-distance-traveled](https://github.com/arpitbuilds/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/arpitbuilds/DSA/tree/master/2573-find-the-string-with-lcp) |
@@ -1196,6 +1202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/arpitbuilds/DSA/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/arpitbuilds/DSA/tree/master/0139-word-break) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arpitbuilds/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1216,6 +1223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/arpitbuilds/DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/arpitbuilds/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/arpitbuilds/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arpitbuilds/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arpitbuilds/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
@@ -1487,6 +1495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/arpitbuilds/DSA/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arpitbuilds/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/arpitbuilds/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arpitbuilds/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/arpitbuilds/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -1701,6 +1710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/arpitbuilds/DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/arpitbuilds/DSA/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/arpitbuilds/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arpitbuilds/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/arpitbuilds/DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/arpitbuilds/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2685-count-the-number-of-complete-components](https://github.com/arpitbuilds/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -1783,4 +1793,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/arpitbuilds/DSA/tree/master/0022-generate-parentheses) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arpitbuilds/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
