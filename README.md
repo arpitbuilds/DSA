@@ -550,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3834-merge-adjacent-equal-elements](https://github.com/arpitbuilds/DSA/tree/master/3834-merge-adjacent-equal-elements) |
 | [3838-weighted-word-mapping](https://github.com/arpitbuilds/DSA/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arpitbuilds/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/arpitbuilds/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
