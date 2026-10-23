@@ -6,7 +6,6 @@ public:
         int pro = 1;
         for (int i = 0; i < n; i++) {
             pro *= nums[i];
-
             maxi = max(maxi, pro);
             if (pro == 0) {
                 pro = 1;
